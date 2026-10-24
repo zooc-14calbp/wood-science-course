@@ -6,7 +6,7 @@
 
 - [第01回 導入と外観的構造](第01回/01_導入と外観的構造.pptx)
 - [第02回 組織と年輪](第02回/02_組織と年輪.pptx)
-- [第03回 超微細構造](第03回/03_超微細構造.pptx)
+- [第03回 超微細構造](第03回/03_オンデマンド_授業スライド.pptx)
 - [第04回 主要構成成分](第04回/04_主要構成成分.pptx)
 - [第05回 強度と物性値](第05回/05_強度と物性値.pptx)
 - [第06回 異方性と欠点](第06回/06_異方性と欠点.pptx)
@@ -37,7 +37,7 @@
 
 [第1回の教材一覧](第01回/README.md)から、90分の授業動画、音声、スライド、配布資料、字幕を開けます。音声はNanami（速度 -5%）。休憩3回と自己確認の問いを含みます。
 
-- [動画・音声（GitHub Release）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture01-20261024-r2)
+- [動画・音声（GitHub Release）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture01-20261024-r3)
 - [配布資料 PDF](第01回/01_オンデマンド_配布資料.pdf)
 - [授業スライド PDF](第01回/01_オンデマンド_授業スライド.pdf)
 
@@ -45,9 +45,17 @@
 
 [第2回の教材一覧](第02回/README.md)から、動画・音声・授業スライド・配布資料・字幕を開けます。組織写真の観察から、壁の割合と密度の計算、異方性と加工へ進みます。
 
-- [動画・音声（GitHub Release）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture02-20261024)
+- [動画・音声（GitHub Release）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture02-20261024-r2)
 - [配布資料 PDF](第02回/02_オンデマンド_配布資料.pdf)
 - [授業スライド PDF](第02回/02_オンデマンド_授業スライド.pdf)
+
+## 第3回オンデマンド（90分）
+
+[第3回の教材一覧](第03回/README.md)から、超微細構造・細胞壁・ミクロフィブリルの教材を開けます。MFAの定義、目切れとの違い、倍率と伸びの計算を扱います。第1～3回とも科目情報のタイトル付きです。
+
+- [動画・音声（GitHub Release）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture03-20261024)
+- [配布資料 PDF](第03回/03_オンデマンド_配布資料.pdf)
+- [授業スライド PDF](第03回/03_オンデマンド_授業スライド.pdf)
 
 ## 以前の試作と配布資料
 
