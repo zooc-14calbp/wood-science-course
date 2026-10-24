@@ -2,8 +2,8 @@
 
 ## オンデマンド（90分）
 
-- Dropbox：このフォルダーの `01_オンデマンド_授業動画.mp4` を開いてください。
-- GitHub：[動画・MP3音声・字幕](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture01-20261024)
+- Dropbox：このフォルダーの `01_オンデマンド_授業動画_画面切替修正版.mp4` を開いてください。
+- GitHub：[動画・MP3音声・字幕](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture01-20261024-r2)
 - [授業スライド PDF](01_オンデマンド_授業スライド.pdf) ／ [PPTX](01_オンデマンド_授業スライド.pptx)
 - [配布資料 PDF](01_オンデマンド_配布資料.pdf) ／ [テキスト](01_オンデマンド_配布資料.md)
 - [字幕 SRT](01_オンデマンド_授業動画.srt) ／ [VTT](01_オンデマンド_授業動画.vtt)
@@ -18,3 +18,5 @@
 - [以前の試作（棚板の形とたわみ、18分32秒）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/pilot-nanami-20261024)
 
 更新日：2026年10月24日
+
+2026年10月24日：画面切替の不具合を修正。音声・字幕時刻・90分の構成は同じです。全35枚と34か所の切替前後を、動画から取り出した105画面で照合しました。

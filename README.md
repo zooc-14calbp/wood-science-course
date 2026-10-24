@@ -37,7 +37,7 @@
 
 [第1回の教材一覧](第01回/README.md)から、90分の授業動画、音声、スライド、配布資料、字幕を開けます。音声はNanami（速度 -5%）。休憩3回と自己確認の問いを含みます。
 
-- [動画・音声（GitHub Release）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture01-20261024)
+- [動画・音声（GitHub Release）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture01-20261024-r2)
 - [配布資料 PDF](第01回/01_オンデマンド_配布資料.pdf)
 - [授業スライド PDF](第01回/01_オンデマンド_授業スライド.pdf)
 
