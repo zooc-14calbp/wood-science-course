@@ -61,9 +61,11 @@
 
 [第4回の教材一覧](第04回/README.md)から、主要構成成分と水との関係を学べます。OH基・水素結合から親水性・疎水性、吸湿・膨潤へつなぎ、成分の割合と説明の演習、課題A1の案内を含みます。
 
-- [動画・音声（GitHub Release）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture04-20261024)
+- [動画・音声（GitHub Release）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture04-20261026)
 - [配布資料 PDF](第04回/04_オンデマンド_配布資料.pdf)
 - [授業スライド PDF](第04回/04_オンデマンド_授業スライド.pdf)
+
+第4回に出典付き構造式・立体モデルと[有機化学・糖質化学の補助資料](第04回/補助資料_有機化学と糖質化学の基礎.pdf)（15ページ、自己確認9問・解説）を追加しました。含水率は導入に絞り、[第8回の教材](第08回/README.md)で木材の乾量基準と食品・農産物の湿量基準を比較します。
 
 ## 以前の試作と配布資料
 
@@ -82,5 +84,5 @@
 
 学生個人の答案や成績は、この教材リポジトリへの提出対象ではありません。
 
-更新日：2026年10月24日
+更新日：2026年10月26日
 以前のHaruka版は[旧試作のRelease](https://github.com/zooc-14calbp/wood-science-course/releases/tag/pilot-20261024)に保存しています。
