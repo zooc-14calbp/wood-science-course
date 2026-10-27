@@ -37,7 +37,7 @@
 
 [第1回の教材一覧](第01回/README.md)から、90分の授業動画、音声、スライド、配布資料、字幕を開けます。音声はNanami（速度 -5%）。休憩3回と自己確認の問いを含みます。
 
-- [動画・音声（GitHub Release）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture01-20261026-fushi)
+- [動画・音声（GitHub Release）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture01-20261027-wait)
 - [配布資料 PDF](第01回/01_オンデマンド_配布資料.pdf)
 - [授業スライド PDF](第01回/01_オンデマンド_授業スライド.pdf)
 
@@ -45,7 +45,7 @@
 
 [第2回の教材一覧](第02回/README.md)から、動画・音声・授業スライド・配布資料・字幕を開けます。組織写真の観察から、壁の割合と密度の計算、異方性と加工へ進みます。
 
-- [動画・音声（GitHub Release）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture02-20261024-r2)
+- [動画・音声（GitHub Release）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture02-20261027-wait)
 - [配布資料 PDF](第02回/02_オンデマンド_配布資料.pdf)
 - [授業スライド PDF](第02回/02_オンデマンド_授業スライド.pdf)
 
@@ -53,7 +53,7 @@
 
 [第3回の教材一覧](第03回/README.md)から、超微細構造・細胞壁・ミクロフィブリルの教材を開けます。MFAの定義、目切れとの違い、倍率と伸びの計算を扱います。第1～3回とも科目情報のタイトル付きです。
 
-- [動画・音声（GitHub Release）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture03-20261024)
+- [動画・音声（GitHub Release）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture03-20261027-wait)
 - [配布資料 PDF](第03回/03_オンデマンド_配布資料.pdf)
 - [授業スライド PDF](第03回/03_オンデマンド_授業スライド.pdf)
 
@@ -61,7 +61,7 @@
 
 [第4回の教材一覧](第04回/README.md)から、主要構成成分と水との関係を学べます。OH基・水素結合から親水性・疎水性、吸湿・膨潤へつなぎ、成分の割合と説明の演習、課題A1の案内を含みます。
 
-- [動画・音声（GitHub Release）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture04-20261026)
+- [動画・音声（GitHub Release）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture04-20261027-wait)
 - [配布資料 PDF](第04回/04_オンデマンド_配布資料.pdf)
 - [授業スライド PDF](第04回/04_オンデマンド_授業スライド.pdf)
 
@@ -71,7 +71,7 @@
 
 [第5回の教材一覧](第05回/README.md)から、Nanami音声の動画・スライド・配布資料・字幕を開けます。フックの法則と単位を復習し、物性表からたわみと応力の計算・比較へ進みます。
 
-- [動画・音声（GitHub Release）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture05-20261027)
+- [動画・音声（GitHub Release）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture05-20261027-wait)
 - [配布資料 PDF](第05回/05_オンデマンド_配布資料.pdf)
 - [授業スライド PDF](第05回/05_オンデマンド_授業スライド.pdf)
 
@@ -79,11 +79,13 @@
 
 [第6回の教材一覧](第06回/README.md)から、Nanami音声の動画・スライド・配布資料・字幕を開けます。繊維方向と断面形状の効果を分け、文字式の比較、節・目切れ、教科書での説明から課題A2へつなぎます。
 
-- [動画・音声（GitHub Release）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture06-20261027)
+- [動画・音声（GitHub Release）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture06-20261027-wait)
 - [配布資料 PDF](第06回/06_オンデマンド_配布資料.pdf)
 - [授業スライド PDF](第06回/06_オンデマンド_授業スライド.pdf)
 
 ## 動画の見方
+
+第1～6回の演習・休憩中には、画面上部に「考える時間／休憩中（音声なし）」と残り時間・再開時刻を表示します。カウントダウンが進んでいる間は、動画が正常に再生されています。字幕をオフにしても、この表示は見えます。
 
 音声はNanami（速度 -5%）。動画内の問いは自己確認用です。必要に応じて一時停止して計算や作図に取り組んでください。MP4には日本語字幕と章区切りを収録しています。字幕の表示は再生ソフトで選択してください。
 
