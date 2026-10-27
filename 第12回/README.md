@@ -3,8 +3,8 @@
 全90分。説明・自己確認・短い休憩3回を含みます。Nanami音声（速度−5%）。37画面、字幕315件。
 
 - [動画・音声（GitHub Release）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture12-20261028-ondemand)
-- [授業動画 MP4](12_オンデマンド_授業動画.mp4)
-- [音声 MP3](12_オンデマンド_ナレーション.mp3)
+- [授業動画 MP4](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture12-20261028-ondemand/W12_Nanami_90min_20261028.mp4)
+- [音声 MP3](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture12-20261028-ondemand/W12_Nanami_90min_20261028.mp3)
 - [授業スライド PPTX](12_オンデマンド_授業スライド.pptx) ／ [PDF](12_オンデマンド_授業スライド.pdf)
 - [配布資料 PDF](12_オンデマンド_配布資料.pdf) ／ [テキスト](12_オンデマンド_配布資料.md)
 - [字幕 SRT](12_オンデマンド_授業動画.srt) ／ [VTT](12_オンデマンド_授業動画.vtt)
