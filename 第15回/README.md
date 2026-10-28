@@ -1,0 +1,18 @@
+# 第15回　技術科への統合
+
+全90分。説明・自己確認・短い休憩3回を含みます。Nanami音声（速度−5%）。34画面、字幕239件。
+
+- [動画・音声（GitHub Release）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture15-20261028-ondemand)
+- [授業動画 MP4](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture15-20261028-ondemand/W15_Nanami_90min_20261028.mp4)
+- [音声 MP3](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture15-20261028-ondemand/W15_Nanami_90min_20261028.mp3)
+- [授業スライド PPTX](15_オンデマンド_授業スライド.pptx) ／ [PDF](15_オンデマンド_授業スライド.pdf)
+- [配布資料 PDF](15_オンデマンド_配布資料.pdf) ／ [テキスト](15_オンデマンド_配布資料.md)
+- [字幕 SRT](15_オンデマンド_授業動画.srt) ／ [VTT](15_オンデマンド_授業動画.vtt)
+
+動画の日本語字幕を選択できます。無音の自己確認・休憩では、画面上部に目的・残り時間・再開時刻を表示します。必要に応じて一時停止してください。MP3にも同じ無音区間があります。
+
+動画内の問いは自己確認用です。正式な[課題A4](../課題/A4_木質材料を選び授業にする_学生用.docx)は第15回後の既存設問・回答フォームを使用します。追加の提出課題はありません。
+
+対面授業用の改訂スライドも同じフォルダーに残しています。全編の音声信号・映像と原稿は機械点検済みです。人による全編聴取は未実施。
+
+更新日：2026年10月28日
