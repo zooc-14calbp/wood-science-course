@@ -4,7 +4,7 @@
 
 ## 最初に開くもの
 
-1. **動画**：[GitHubで開く](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture09-20261027)。Dropboxでは `09_オンデマンド_授業動画.mp4` を開きます。
+1. **動画**：[GitHubで開く](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture09-20261027)。GitHubの配信ページからMP4をダウンロードして再生します。
 2. **スライドPDF**：[09_オンデマンド_授業スライド.pdf](09_オンデマンド_授業スライド.pdf)
 3. **配布資料**：[09_オンデマンド_配布資料.pdf](09_オンデマンド_配布資料.pdf)
 
