@@ -1,0 +1,547 @@
+{
+  "version": "1.0",
+  "date": "2026-10-29",
+  "lessons": [
+    {
+      "lesson": 1,
+      "title": "第1回　導入と外観的構造",
+      "pages": 37,
+      "video_seconds": 5416.084,
+      "pdf": "第01回/01_授業スライド_20261029.pdf",
+      "pdf_sha256": "6bffeb456a07c9934790533d09868102ed560ee8b519af9e0445c308ef449693",
+      "materials": "第01回/README.md",
+      "release_tag": "lecture01-20261029-revised",
+      "media": [
+        {
+          "format": "mp4",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261029-revised/W01_Nanami_20261029.mp4",
+          "bytes": 204938400,
+          "sha256": "28480ed91b04f0e5f1ea1c3438f961814950e3be0765e8b116514076ddb8e411"
+        },
+        {
+          "format": "mp3",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261029-revised/W01_Nanami_20261029.mp3",
+          "bytes": 64994156,
+          "sha256": "f386877d4ae1d790613c7f676b6f06d87e91671c13e55482eaf474e0211e8138"
+        },
+        {
+          "format": "srt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261029-revised/W01_Nanami_20261029.srt",
+          "bytes": 103553,
+          "sha256": "2e2252a9edff903affc94a251b261c37c1bd271a980b0e35312c8d16abd083f3"
+        },
+        {
+          "format": "vtt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261029-revised/W01_Nanami_20261029.vtt",
+          "bytes": 99733,
+          "sha256": "94dae98ef65bbe6e572feb5f2502e5d38e7fa6941b4148c32d920cfab7d0ea64"
+        }
+      ]
+    },
+    {
+      "lesson": 2,
+      "title": "第02回　組織と年輪",
+      "pages": 38,
+      "video_seconds": 5405.92,
+      "pdf": "第02回/02_授業スライド_v1.0.pdf",
+      "pdf_sha256": "cb52dfb8880305aca4e392cb09edfb0f698f46c48351af87a9700ab45a3456ac",
+      "materials": "第02回/README.md",
+      "release_tag": "lecture02-v1.0",
+      "media": [
+        {
+          "format": "mp4",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture02-v1.0/W02_Nanami_v1.0.mp4",
+          "bytes": 221469107,
+          "sha256": "e3bf6bb8efe66d62aa23de8fe5d2781529a57f932e3abb242120414d127a31d4"
+        },
+        {
+          "format": "mp3",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture02-v1.0/W02_Nanami_v1.0.mp3",
+          "bytes": 64872044,
+          "sha256": "3d5cde402fbd0b3c6db5b2e988eabdfd2ed4414d8d8d5c7f15a4c3448e54740f"
+        },
+        {
+          "format": "srt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture02-v1.0/W02_Nanami_v1.0.srt",
+          "bytes": 102954,
+          "sha256": "3002d9546f1eb156cd1de98efbb1677e076a66857459a776b7a4e8cdadf91e54"
+        },
+        {
+          "format": "vtt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture02-v1.0/W02_Nanami_v1.0.vtt",
+          "bytes": 99139,
+          "sha256": "902dc99baf158c125c867b8e437d5a913134b4be16c1d4b61f16bc296eca92db"
+        }
+      ]
+    },
+    {
+      "lesson": 3,
+      "title": "第03回　超微細構造",
+      "pages": 30,
+      "video_seconds": 5400.0,
+      "pdf": "第03回/03_オンデマンド_授業スライド.pdf",
+      "pdf_sha256": "c507d85a54cf556053679faf780b4b250d74fa9a2ecfa1bd0df97aa3c4293eb2",
+      "materials": "第03回/README.md",
+      "release_tag": "lecture03-20261027-wait",
+      "media": [
+        {
+          "format": "mp4",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture03-20261027-wait/W03_WaitTimer_Nanami_90min_20261027.mp4",
+          "bytes": 190852910,
+          "sha256": "46db8d659a99becf8d6d0302497c7d6ace3a05fcc1b68240ecba5a6fcd799886"
+        },
+        {
+          "format": "mp3",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture03-20261027-wait/W03_WaitTimer_Nanami_90min_20261027.mp3",
+          "bytes": 64800908,
+          "sha256": "db389ad9139b6663b057314fc3a010713d020fe08138023231ae8c51578cd9e3"
+        },
+        {
+          "format": "srt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture03-20261027-wait/W03_WaitTimer_Nanami_90min_20261027.srt",
+          "bytes": 104923,
+          "sha256": "9163d7f9255c086806855dbb953c0f5debc14575ff927cbe461ddb50b9a8ab99"
+        },
+        {
+          "format": "vtt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture03-20261027-wait/W03_WaitTimer_Nanami_90min_20261027.vtt",
+          "bytes": 101023,
+          "sha256": "67cbe9612f39478535a3a0cdad5b5df5a5e5a0238ca80b64a630ff293ae2759f"
+        }
+      ]
+    },
+    {
+      "lesson": 4,
+      "title": "第04回　主要構成成分",
+      "pages": 38,
+      "video_seconds": 5400.0,
+      "pdf": "第04回/04_オンデマンド_授業スライド.pdf",
+      "pdf_sha256": "ea1cae7184b7d24074e8b8e19b0f07990f9eb959b30aef40eb80ba1cb2079c11",
+      "materials": "第04回/README.md",
+      "release_tag": "lecture04-20261027-wait",
+      "media": [
+        {
+          "format": "mp4",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture04-20261027-wait/W04_WaitTimer_Nanami_90min_20261027.mp4",
+          "bytes": 197216328,
+          "sha256": "84181f6eb11fb35f77ab8611ecf00a81cb1980373c941945e148f8714fe157ab"
+        },
+        {
+          "format": "mp3",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture04-20261027-wait/W04_WaitTimer_Nanami_90min_20261027.mp3",
+          "bytes": 64800908,
+          "sha256": "27aa5e47a6c2111f9866f216542db63b66ec74cf8ae804ef8a5755a51ed24ffa"
+        },
+        {
+          "format": "srt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture04-20261027-wait/W04_WaitTimer_Nanami_90min_20261027.srt",
+          "bytes": 101518,
+          "sha256": "4d326ddd54bf4ca73d9f922282604d71634fdd11fd0cb11e3051eda1b84bed01"
+        },
+        {
+          "format": "vtt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture04-20261027-wait/W04_WaitTimer_Nanami_90min_20261027.vtt",
+          "bytes": 97813,
+          "sha256": "c49e44671ab9be982e9aaf005e6ea44161feaf00d08703646fa03a27777f38e2"
+        }
+      ]
+    },
+    {
+      "lesson": 5,
+      "title": "第05回　強度と物性値",
+      "pages": 35,
+      "video_seconds": 5400.0,
+      "pdf": "第05回/05_オンデマンド_授業スライド.pdf",
+      "pdf_sha256": "6955f311f4c293f23469664086973d6c8b695884b63291fb000766f209845e38",
+      "materials": "第05回/README.md",
+      "release_tag": "lecture05-20261027-wait",
+      "media": [
+        {
+          "format": "mp4",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture05-20261027-wait/W05_WaitTimer_Nanami_90min_20261027.mp4",
+          "bytes": 141719104,
+          "sha256": "3bfe377bffd8685f1e40187e3e89b57a3627980d953e9acdaa6aeb6bf68e8165"
+        },
+        {
+          "format": "mp3",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture05-20261027-wait/W05_WaitTimer_Nanami_90min_20261027.mp3",
+          "bytes": 64800908,
+          "sha256": "ace3a522aaccb7b77246c0173b837917c2ea258472ace9c134fdd8bca5760669"
+        },
+        {
+          "format": "srt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture05-20261027-wait/W05_WaitTimer_Nanami_90min_20261027.srt",
+          "bytes": 79160,
+          "sha256": "1f2c92a0f590e24b43ffb669d836cfd8b5feb71fba565cb62aa467894a89dae6"
+        },
+        {
+          "format": "vtt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture05-20261027-wait/W05_WaitTimer_Nanami_90min_20261027.vtt",
+          "bytes": 76230,
+          "sha256": "6f8b0b047ea58bb78fb15e6ca2a7ce8a3b7a5e1a2451633a386a8101d1cd1ade"
+        }
+      ]
+    },
+    {
+      "lesson": 6,
+      "title": "第06回　異方性と欠点",
+      "pages": 35,
+      "video_seconds": 5400.0,
+      "pdf": "第06回/06_オンデマンド_授業スライド.pdf",
+      "pdf_sha256": "c144acde74f53b893622962743fdfff21ac03d72c5b75c4e9cd55396c752bed0",
+      "materials": "第06回/README.md",
+      "release_tag": "lecture06-20261027-wait",
+      "media": [
+        {
+          "format": "mp4",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture06-20261027-wait/W06_WaitTimer_Nanami_90min_20261027.mp4",
+          "bytes": 135498571,
+          "sha256": "63608ced510381e24afe6043d1d5f075e995f11bb71f95907fee9be56bf4a832"
+        },
+        {
+          "format": "mp3",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture06-20261027-wait/W06_WaitTimer_Nanami_90min_20261027.mp3",
+          "bytes": 64800908,
+          "sha256": "ec1f0a94f3722f1a816c42d97ae9a1124a880248d6fc8fbcfdb3ec2dc6a502af"
+        },
+        {
+          "format": "srt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture06-20261027-wait/W06_WaitTimer_Nanami_90min_20261027.srt",
+          "bytes": 71991,
+          "sha256": "14fe10f02ea89d99a877110fe651f903e6fcf11e5b41c6d5a0ec76fe682848d7"
+        },
+        {
+          "format": "vtt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture06-20261027-wait/W06_WaitTimer_Nanami_90min_20261027.vtt",
+          "bytes": 69316,
+          "sha256": "5cf822cf061956c18239861133b85b939a3858d98cc062e901e000fa2d1be1db"
+        }
+      ]
+    },
+    {
+      "lesson": 7,
+      "title": "第07回　密度と比重",
+      "pages": 37,
+      "video_seconds": 5400.0,
+      "pdf": "第07回/07_オンデマンド_授業スライド.pdf",
+      "pdf_sha256": "d71fe0ac4d15071688ebebfe17a475fa1b5bc1ac5271094a79ad02ef1508411e",
+      "materials": "第07回/README.md",
+      "release_tag": "lecture07-20261027",
+      "media": [
+        {
+          "format": "mp4",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture07-20261027/W07_Nanami_90min_20261027.mp4",
+          "bytes": 130690316,
+          "sha256": "43b7c12547d798a996b181413dc1780f476267961a0b12fa0959e081625ecd2d"
+        },
+        {
+          "format": "mp3",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture07-20261027/W07_Nanami_90min_20261027.mp3",
+          "bytes": 64800908,
+          "sha256": "32d7283edbc6ec1d5d639a02f94a2c67f9259692bbd8de58ef9b1cca9df6df08"
+        },
+        {
+          "format": "srt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture07-20261027/W07_Nanami_90min_20261027.srt",
+          "bytes": 66535,
+          "sha256": "6de382a4183dd8c57b36f375f28ff533ed97017fbd0ec2bd5baeb6cd8c5c6365"
+        },
+        {
+          "format": "vtt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture07-20261027/W07_Nanami_90min_20261027.vtt",
+          "bytes": 64100,
+          "sha256": "af8fef1beb720602596778169e9638214e8607cbdcee60329378c519d5848f82"
+        }
+      ]
+    },
+    {
+      "lesson": 8,
+      "title": "第8回　木材と水",
+      "pages": 39,
+      "video_seconds": 5461.34,
+      "pdf": "第08回/08_授業スライド_20261029.pdf",
+      "pdf_sha256": "817afea1fd6bd1ed927ba055181ca4d4a06cec2aca8a8f469d3d233c2a750e28",
+      "materials": "第08回/README.md",
+      "release_tag": "lecture08-20261029-revised",
+      "media": [
+        {
+          "format": "mp4",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture08-20261029-revised/W08_Nanami_20261029.mp4",
+          "bytes": 133171490,
+          "sha256": "990e738319279a7a383514517c0fa7a738c6c42a2cb10a86b32228bdbe088813"
+        },
+        {
+          "format": "mp3",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture08-20261029-revised/W08_Nanami_20261029.mp3",
+          "bytes": 65537036,
+          "sha256": "8bc0c8b7cc9b56cbf158fe86fa40f078910a834220e9e6a5117f4517d25d73ba"
+        },
+        {
+          "format": "srt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture08-20261029-revised/W08_Nanami_20261029.srt",
+          "bytes": 63847,
+          "sha256": "5180f92892d3eba5bd345afc6d1dc280d8802c5cf1210f395d319db51ced8bb4"
+        },
+        {
+          "format": "vtt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture08-20261029-revised/W08_Nanami_20261029.vtt",
+          "bytes": 61527,
+          "sha256": "8d60f80a81dd64cd308c0aa7d0c4118cc24b3fce0d04b4d30bff9647e5fd0b1a"
+        }
+      ]
+    },
+    {
+      "lesson": 9,
+      "title": "第09回　水分と寸法変化",
+      "pages": 35,
+      "video_seconds": 5400.0,
+      "pdf": "第09回/09_オンデマンド_授業スライド.pdf",
+      "pdf_sha256": "e075ef8cacf9a2e11f538c7a6e78f86fbe682314e2352ef09e10a2a126bb81cf",
+      "materials": "第09回/README.md",
+      "release_tag": "lecture09-20261027",
+      "media": [
+        {
+          "format": "mp4",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture09-20261027/W09_Nanami_90min_20261027.mp4",
+          "bytes": 126057768,
+          "sha256": "b78771c9e9bbc91e61629f4bfbd17824fd59804162af04c509077db244778e30"
+        },
+        {
+          "format": "mp3",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture09-20261027/W09_Nanami_90min_20261027.mp3",
+          "bytes": 64800908,
+          "sha256": "f1626544fdc3ef203b6d46df60f6dc90c8e553ef97a71db2ffb2c1f8fe7939fa"
+        },
+        {
+          "format": "srt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture09-20261027/W09_Nanami_90min_20261027.srt",
+          "bytes": 55743,
+          "sha256": "f4f189dcdd7e2ce85aae0801f8223defeac358e39fd687e6690d804ab0d18573"
+        },
+        {
+          "format": "vtt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture09-20261027/W09_Nanami_90min_20261027.vtt",
+          "bytes": 53743,
+          "sha256": "b29ebf8088578b96b810973cb3e7efba03f545cd8ab9f37f67157c53dea90bd4"
+        }
+      ]
+    },
+    {
+      "lesson": 10,
+      "title": "第10回　生物劣化と木材防腐",
+      "pages": 43,
+      "video_seconds": 5400.0,
+      "pdf": "第10回/10_オンデマンド_授業スライド.pdf",
+      "pdf_sha256": "bac833d0730d4431a43c2a62f72d3bcf4731f5ec23d437cd877e824db4b71158",
+      "materials": "第10回/README.md",
+      "release_tag": "lecture10-20261028-preservation",
+      "media": [
+        {
+          "format": "mp4",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture10-20261028-preservation/W10_Nanami_90min_preservation_20261028.mp4",
+          "bytes": 135911252,
+          "sha256": "75fe08d07ff0ba28102753a5f0960b427217784a15c92f0e0478dae466e60140"
+        },
+        {
+          "format": "mp3",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture10-20261028-preservation/W10_Nanami_90min_preservation_20261028.mp3",
+          "bytes": 64800908,
+          "sha256": "14e00c4d6cc56232a6858e1a1c296899ee1fd340336363825c5ad0d017523af6"
+        },
+        {
+          "format": "srt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture10-20261028-preservation/W10_Nanami_90min_preservation_20261028.srt",
+          "bytes": 65337,
+          "sha256": "a7aea993f137c43cd3bdf23a697c7e5574963ae1e65e671db2925e1bb58e3044"
+        },
+        {
+          "format": "vtt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture10-20261028-preservation/W10_Nanami_90min_preservation_20261028.vtt",
+          "bytes": 63002,
+          "sha256": "39fb8b0f67b55ad8dbb60755c1f16dd98ce4c8c41f3d0ff715ac03abe1bce6b5"
+        }
+      ]
+    },
+    {
+      "lesson": 11,
+      "title": "第11回　木材の接着と塗装",
+      "pages": 41,
+      "video_seconds": 2167.316,
+      "pdf": "第11回/11_授業スライド_20261029.pdf",
+      "pdf_sha256": "7e1714effbd379e959920bec9d118960f5fc6987753cf148edd81843714cf667",
+      "materials": "第11回/README.md",
+      "release_tag": "lecture11-v1.0",
+      "media": [
+        {
+          "format": "mp4",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture11-v1.0/W11_Nanami_v1.0.mp4",
+          "bytes": 61817786,
+          "sha256": "ed6d3d31ab042fab2ec608b1a20c7243fdd45fd371bd06684ebfe94a6cbd4fa9"
+        },
+        {
+          "format": "mp3",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture11-v1.0/W11_Nanami_v1.0.mp3",
+          "bytes": 26008748,
+          "sha256": "7e578fd8dfa856af6dfbd3e631f0253e0b28e8cac428ea27cbae3075352cabbf"
+        },
+        {
+          "format": "srt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture11-v1.0/W11_Nanami_v1.0.srt",
+          "bytes": 38509,
+          "sha256": "04fd450c911c691ab3c62aad8545f621b95e815f368a6591f74ecc8376e0f8a7"
+        },
+        {
+          "format": "vtt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture11-v1.0/W11_Nanami_v1.0.vtt",
+          "bytes": 37159,
+          "sha256": "9f3c019960b9e5f299e4f3cb548706f9f8337ae6a400c72bcc722d7abd1785fb"
+        }
+      ]
+    },
+    {
+      "lesson": 12,
+      "title": "第12回　合板・LVLとボード類",
+      "pages": 40,
+      "video_seconds": 1870.304,
+      "pdf": "第12回/12_授業スライド_20261029.pdf",
+      "pdf_sha256": "df846f3d5c1d98a84cd8f4a927898d285eedfcfc0a3265f2d4a91864e1478214",
+      "materials": "第12回/README.md",
+      "release_tag": "lecture12-20261029-revised",
+      "media": [
+        {
+          "format": "mp4",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture12-20261029-revised/W12_Nanami_20261029.mp4",
+          "bytes": 53673410,
+          "sha256": "6b2279342ebc1658f74cefbccf6610c0942b58f6e49d95e971fecfac87ae99ed"
+        },
+        {
+          "format": "mp3",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture12-20261029-revised/W12_Nanami_20261029.mp3",
+          "bytes": 22444748,
+          "sha256": "24e5e1e51b767d58e3345a9083d2397ef0d8cd68ac5f4e20337bbd26a248dc67"
+        },
+        {
+          "format": "srt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture12-20261029-revised/W12_Nanami_20261029.srt",
+          "bytes": 33289,
+          "sha256": "4bf7b735b478e7912fa99687c4a65ea1a35157ed4f384c584a4a394d682b6ea8"
+        },
+        {
+          "format": "vtt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture12-20261029-revised/W12_Nanami_20261029.vtt",
+          "bytes": 32094,
+          "sha256": "04ea6749f10806880142d89c4e58c4b83de5f07235e42a0a880f80492f8890f2"
+        }
+      ]
+    },
+    {
+      "lesson": 13,
+      "title": "第13回　集成材とCLT",
+      "pages": 45,
+      "video_seconds": 2094.26,
+      "pdf": "第13回/13_授業スライド_v1.0.pdf",
+      "pdf_sha256": "e9662344f7043473228f377668d11ecf296580de4db2fc3252bcb6771d9b7ee4",
+      "materials": "第13回/README.md",
+      "release_tag": "lecture13-v1.0",
+      "media": [
+        {
+          "format": "mp4",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-v1.0/W13_Nanami_v1.0.mp4",
+          "bytes": 64750964,
+          "sha256": "89626339110cf4bb0909c247a3f8324d23f85b9216ccf41afc7ccb6eeff28ae4"
+        },
+        {
+          "format": "mp3",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-v1.0/W13_Nanami_v1.0.mp3",
+          "bytes": 25132076,
+          "sha256": "c4fc3767dca2d6fd7ff20c9b51d82a7430096d708a6374152ed6c825fd061ced"
+        },
+        {
+          "format": "srt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-v1.0/W13_Nanami_v1.0.srt",
+          "bytes": 36739,
+          "sha256": "7961e6446c3819337362d83b1806b87837c98fea04ae2d8c731d64783ca50938"
+        },
+        {
+          "format": "vtt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-v1.0/W13_Nanami_v1.0.vtt",
+          "bytes": 35394,
+          "sha256": "dbecaadd74604365568cbd282e6b90438c542babc5d350f3a5f2f93b4d764063"
+        }
+      ]
+    },
+    {
+      "lesson": 14,
+      "title": "第14回　木材資源と環境・循環利用",
+      "pages": 28,
+      "video_seconds": 1332.344,
+      "pdf": "第14回/14_授業スライド_20261029.pdf",
+      "pdf_sha256": "33b146d28bb8a383a76e7326a194116cb9448189c25fb697e8c25f3dd72df710",
+      "materials": "第14回/README.md",
+      "release_tag": "lecture14-20261029-revised",
+      "media": [
+        {
+          "format": "mp4",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture14-20261029-revised/W14_Nanami_20261029.mp4",
+          "bytes": 36115887,
+          "sha256": "1c02b5ea56f8bdf17ed787bbe664937661fe0fc3e61c8ed5e3b9fdb0d397af93"
+        },
+        {
+          "format": "mp3",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture14-20261029-revised/W14_Nanami_20261029.mp3",
+          "bytes": 15989228,
+          "sha256": "7466f5666dcc38e47376633d94cd0e9133492678140d35ec0a655f7020a94c0e"
+        },
+        {
+          "format": "srt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture14-20261029-revised/W14_Nanami_20261029.srt",
+          "bytes": 23569,
+          "sha256": "85592d3c5df285062fc6adbdb6f535a35e586472a73ca83152d6caa59f48ba1a"
+        },
+        {
+          "format": "vtt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture14-20261029-revised/W14_Nanami_20261029.vtt",
+          "bytes": 22709,
+          "sha256": "2c324121f163a9f30f35f7bc0db611a8badddb1bdd2df0b0c5485a30c4a114fa"
+        }
+      ]
+    },
+    {
+      "lesson": 15,
+      "title": "第15回　加工・材料選択と技術科への統合",
+      "pages": 25,
+      "video_seconds": 1204.396,
+      "pdf": "第15回/15_授業スライド_20261029.pdf",
+      "pdf_sha256": "1bceef0797a61f393e544beb0d89d7456a05c2a46a4bb63af1ad5c3dc6b18b21",
+      "materials": "第15回/README.md",
+      "release_tag": "lecture15-20261029-revised",
+      "media": [
+        {
+          "format": "mp4",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture15-20261029-revised/W15_Nanami_20261029.mp4",
+          "bytes": 32084347,
+          "sha256": "f6b1654d2566343454242cf53cf108660064cf25ad3dea75646b06b56b546338"
+        },
+        {
+          "format": "mp3",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture15-20261029-revised/W15_Nanami_20261029.mp3",
+          "bytes": 14453900,
+          "sha256": "3670697f393a820a04ce1512825c8ec7c1001e3509ec0a1471be760aafeb8326"
+        },
+        {
+          "format": "srt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture15-20261029-revised/W15_Nanami_20261029.srt",
+          "bytes": 21280,
+          "sha256": "c85b04b883d06f1569624c37468e7e604edf21c0b4c812a731b35636fe74fb32"
+        },
+        {
+          "format": "vtt",
+          "url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture15-20261029-revised/W15_Nanami_20261029.vtt",
+          "bytes": 20510,
+          "sha256": "c331aca65b0f77051ac4b9f86086b7446ef0a5191ce5b04cc040e0c95b49f87e"
+        }
+      ]
+    }
+  ],
+  "human_full_listening": false
+}

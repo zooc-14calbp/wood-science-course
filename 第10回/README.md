@@ -15,7 +15,7 @@
 ## 補助資料・別形式
 
 - [スライドを編集・書込みする場合のPPTX](10_オンデマンド_授業スライド.pptx)
-- [音声のみ MP3](10_オンデマンド_ナレーション.mp3)
+- [音声のみ MP3](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture10-20261028-preservation/W10_Nanami_90min_preservation_20261028.mp3)
 - [外部字幕 SRT](10_オンデマンド_授業動画.srt) ／ [VTT](10_オンデマンド_授業動画.vtt)
 
 動画内の日本語字幕は再生ソフトで選択できます。MP3にも演習・休憩の無音があります。
