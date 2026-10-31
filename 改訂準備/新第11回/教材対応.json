@@ -1,9 +1,9 @@
 {
   "date": "2026-10-31",
-  "status": "整備初版・構成改訂準備",
+  "status": "整備初版。講義動画約90分を目標に拡充中",
   "pages": 30,
   "video_seconds": 1069.848,
-  "learning_minutes_planned": 90,
+  "learning_minutes_planned": null,
   "learning_time_pilot_done": false,
   "human_full_listening": false,
   "files": [
@@ -36,21 +36,9 @@
       "name": "11_授業動画_20261031.vtt",
       "sha256": "594e144b6902ef26bcd19000366e2bf49d479f8f5907328ccce71f9b84ccb2a1",
       "bytes": 18514
-    },
-    {
-      "name": "README.md",
-      "sha256": "906b7ff3177b572e4f49a0bd529fb0e4e6628560dc15365aaee5f1fd2bcd71c8",
-      "bytes": 2153
-    },
-    {
-      "name": "動画の目次.md",
-      "sha256": "bf281b64571a85e5e42ea67f4d4527e1c89f9703eb16edecee60849806c82d95",
-      "bytes": 2326
-    },
-    {
-      "name": "学習ワークシート.md",
-      "sha256": "627ba3b4974fe993ff258a3e896d6d0dc7955ed9865db98481e777fe823cd326",
-      "bytes": 5545
     }
-  ]
+  ],
+  "lecture_video_minutes_target": 90,
+  "activity_policy": "短い理解確認と任意の補足。全7題の実施を必須としない。",
+  "hash_scope": "PDF・PowerPoint・動画・音声・字幕のバイナリ。案内・ワークシートの改訂はGit履歴を参照。"
 }
