@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-31",
+  "lesson": 14,
+  "status": "再構成初版・正式受講番号切替前",
+  "pages": 57,
+  "planned_class_minutes": 90,
+  "integrated_video_created": false,
+  "audio_and_subtitles_updated": false,
+  "formal_numbering_switched": false,
+  "assessment_A1_A4_changed": false,
+  "visual_check": "全ページの内容・表示を個別確認。13回は例題追加後の数値例以降も再確認、14回の参照表記短縮後も該当頁を再確認。",
+  "native_tables": 10,
+  "native_charts": 1,
+  "strict_source_recheck_all_content": false,
+  "human_full_listening": false,
+  "files": [
+    {
+      "name": "14_授業スライド.pdf",
+      "bytes": 2062301,
+      "sha256": "e83ac1a4729d1c9d3d67281c743c3f2119f264682783148010e61a77900c2213"
+    },
+    {
+      "name": "14_授業スライド.pptx",
+      "bytes": 12280639,
+      "sha256": "a144a42997228e88fd0892facf34113ca79fc4aed227d52df3e9779926356700"
+    },
+    {
+      "name": "README.md",
+      "bytes": 2406,
+      "sha256": "85766e5ab2d5b8b046903f9294eb20394f0f36ffc5e8cebfd3406ea55116ccc5"
+    },
+    {
+      "name": "学習ガイド.md",
+      "bytes": 4962,
+      "sha256": "76072e596a3f28146098b855c2295e39da150bb18a3a34716ce9733d21d39151"
+    },
+    {
+      "name": "新旧ページ対応.csv",
+      "bytes": 3982,
+      "sha256": "cc6e9a7b68d2d5695dab26ee20376837f5a585b16dd697463c07be1aa0166893"
+    },
+    {
+      "name": "旧動画との対応表.md",
+      "bytes": 6372,
+      "sha256": "044247a4cc86f8f1056c84101830013be7537087a6f0905762596f447050f79c"
+    }
+  ]
+}
