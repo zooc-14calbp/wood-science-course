@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-31",
+  "status": "整備初版・構成改訂準備",
+  "pages": 43,
+  "video_seconds": 1687.756,
+  "lecture_video_minutes_target": 90,
+  "human_full_listening": false,
+  "files": [
+    {
+      "name": "12_ナレーション_20261031.mp3",
+      "sha256": "d347265fd2e432127b8ee8cf54c2cd0edf45adc5732930bdbd2d61f9c27554c1",
+      "bytes": 20254220
+    },
+    {
+      "name": "12_授業スライド.pdf",
+      "sha256": "8757e8ca61aceacb42912334b16a83a1be35dc60d84f658c32662a591734991b",
+      "bytes": 935691
+    },
+    {
+      "name": "12_授業スライド.pptx",
+      "sha256": "abaf89f8a8c1bb641c452f40030ec979f8716c6b97ab71bdacaf798490dde8f2",
+      "bytes": 186577
+    },
+    {
+      "name": "12_授業動画_20261031.mp4",
+      "sha256": "e3de33831a5bc6b5a1afe2cc4a1c2fd310d54aaa7af1047e13400c055eaf0588",
+      "bytes": 41136434
+    },
+    {
+      "name": "12_授業動画_20261031.srt",
+      "sha256": "eb08e295e388ca0a4791d61684ccfa36de4eb6a92012c047e46e0b5c99d578db",
+      "bytes": 30422
+    },
+    {
+      "name": "12_授業動画_20261031.vtt",
+      "sha256": "2d292487d9cbf904434a01c71126d01a8e8e57ae3a931d0bb72c5b7559ae0995",
+      "bytes": 29497
+    }
+  ]
+}
