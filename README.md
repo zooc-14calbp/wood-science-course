@@ -2,24 +2,24 @@
 
 ## ここから始める
 
-下の表から各回の**PDF・ハンドアウト・動画**を開いてください。[受講方法](受講方法.md)も確認してください。受講する回・時期、正式な課題と提出先・締切は**Teams**で案内します。
+下の表から各回の**PDF・PowerPoint・学習ガイド・動画**を開いてください。[受講方法](受講方法.md)も確認してください。受講する回・時期、正式な課題と提出先・締切は**Teams**で案内します。
 
 ## 各回の教材
 
-現在受講できる教材はv1.0の構成です。動画の表示は実際の再生時間で、演習・読解に取り組む時間は別に必要です。動画はダウンロードして再生できます。
+第1～10回のスライド・ガイドは2026年11月1日版です。**動画・音声・字幕は旧版**のため、各回の相違点を確認してください。新11～14回を含む全体の受講順の切替はTeamsで案内します。動画の表示は実際の再生時間で、演習・読解に取り組む時間は別に必要です。動画はダウンロードして再生できます。
 
-| 回 | タイトル | 教材（PDF・ハンドアウト・動画） | 最終更新日時（JST） |
+| 回 | タイトル | 教材（PDF・PowerPoint・ガイド・動画） | 最終更新日時（JST） |
 |---|---|---|---|
-| 01 | 導入と外観的構造 | [PDF](第01回/01_授業スライド_20261029.pdf)・[ハンドアウト／ガイド](第01回/学習ガイド.md)・[動画 90:16](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261029-revised/W01_Nanami_20261029.mp4)・[音声・字幕](第01回/README.md) | 2026-10-29 14:48 |
-| 02 | 組織と年輪 | [PDF](第02回/02_授業スライド_v1.0.pdf)・[ハンドアウト／ガイド](第02回/02_オンデマンド_配布資料.pdf)・[動画 90:05](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture02-v1.0/W02_Nanami_v1.0.mp4)・[音声・字幕](第02回/README.md) | 2026-10-29 15:52 |
-| 03 | 超微細構造 | [PDF](第03回/03_オンデマンド_授業スライド.pdf)・[ハンドアウト／ガイド](第03回/03_オンデマンド_配布資料.pdf)・[動画 90:00](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture03-20261027-wait/W03_WaitTimer_Nanami_90min_20261027.mp4)・[音声・字幕](第03回/README.md) | 2026-10-29 15:52 |
-| 04 | 主要構成成分 | [PDF](第04回/04_オンデマンド_授業スライド.pdf)・[ハンドアウト／ガイド](第04回/04_オンデマンド_配布資料.pdf)・[動画 90:00](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture04-20261027-wait/W04_WaitTimer_Nanami_90min_20261027.mp4)・[音声・字幕](第04回/README.md) | 2026-10-29 15:52 |
-| 05 | 強度と物性値 | [PDF](第05回/05_オンデマンド_授業スライド.pdf)・[ハンドアウト／ガイド](第05回/05_オンデマンド_配布資料.pdf)・[動画 90:00](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture05-20261027-wait/W05_WaitTimer_Nanami_90min_20261027.mp4)・[音声・字幕](第05回/README.md) | 2026-10-29 15:52 |
-| 06 | 異方性と欠点 | [PDF](第06回/06_オンデマンド_授業スライド.pdf)・[ハンドアウト／ガイド](第06回/06_オンデマンド_配布資料.pdf)・[動画 90:00](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture06-20261027-wait/W06_WaitTimer_Nanami_90min_20261027.mp4)・[音声・字幕](第06回/README.md) | 2026-10-29 15:52 |
-| 07 | 密度と比重 | [PDF](第07回/07_オンデマンド_授業スライド.pdf)・[ハンドアウト／ガイド](第07回/07_オンデマンド_配布資料.pdf)・[動画 90:00](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture07-20261027/W07_Nanami_90min_20261027.mp4)・[音声・字幕](第07回/README.md) | 2026-10-29 15:52 |
-| 08 | 木材と水 | [PDF](第08回/08_授業スライド_20261029.pdf)・[ハンドアウト／ガイド](第08回/学習ガイド.md)・[動画 91:01](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture08-20261029-revised/W08_Nanami_20261029.mp4)・[音声・字幕](第08回/README.md) | 2026-10-29 14:48 |
-| 09 | 水分と寸法変化 | [PDF](第09回/09_オンデマンド_授業スライド.pdf)・[ハンドアウト／ガイド](第09回/09_オンデマンド_配布資料.pdf)・[動画 90:00](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture09-20261027/W09_Nanami_90min_20261027.mp4)・[音声・字幕](第09回/README.md) | 2026-10-29 15:52 |
-| 10 | 生物劣化と木材防腐 | [PDF](第10回/10_オンデマンド_授業スライド.pdf)・[ハンドアウト／ガイド](第10回/10_オンデマンド_配布資料.pdf)・[動画 90:00](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture10-20261028-preservation/W10_Nanami_90min_preservation_20261028.mp4)・[音声・字幕](第10回/README.md) | 2026-10-29 15:52 |
+| 01 | 導入と外観的構造 | [PDF](第01回/01_授業スライド_20261101.pdf)・[PowerPoint](第01回/01_授業スライド_20261101.pptx)・[学習ガイド](第01回/学習ガイド.md)・[旧版動画 90:16](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261029-revised/W01_Nanami_20261029.mp4)・[相違点・音声・字幕](第01回/README.md) | 2026-11-01（資料） |
+| 02 | 組織と年輪 | [PDF](第02回/02_授業スライド_20261101.pdf)・[PowerPoint](第02回/02_授業スライド_20261101.pptx)・[学習ガイド](第02回/学習ガイド.md)・[旧版動画 90:05](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture02-v1.0/W02_Nanami_v1.0.mp4)・[相違点・音声・字幕](第02回/README.md) | 2026-11-01（資料） |
+| 03 | 超微細構造 | [PDF](第03回/03_授業スライド_20261101.pdf)・[PowerPoint](第03回/03_授業スライド_20261101.pptx)・[学習ガイド](第03回/学習ガイド.md)・[旧版動画 90:00](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture03-20261027-wait/W03_WaitTimer_Nanami_90min_20261027.mp4)・[相違点・音声・字幕](第03回/README.md) | 2026-11-01（資料） |
+| 04 | 主要構成成分 | [PDF](第04回/04_授業スライド_20261101.pdf)・[PowerPoint](第04回/04_授業スライド_20261101.pptx)・[学習ガイド](第04回/学習ガイド.md)・[旧版動画 90:00](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture04-20261027-wait/W04_WaitTimer_Nanami_90min_20261027.mp4)・[相違点・音声・字幕](第04回/README.md) | 2026-11-01（資料） |
+| 05 | 強度と物性値 | [PDF](第05回/05_授業スライド_20261101.pdf)・[PowerPoint](第05回/05_授業スライド_20261101.pptx)・[学習ガイド](第05回/学習ガイド.md)・[旧版動画 90:00](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture05-20261027-wait/W05_WaitTimer_Nanami_90min_20261027.mp4)・[相違点・音声・字幕](第05回/README.md) | 2026-11-01（資料） |
+| 06 | 異方性と欠点 | [PDF](第06回/06_授業スライド_20261101.pdf)・[PowerPoint](第06回/06_授業スライド_20261101.pptx)・[学習ガイド](第06回/学習ガイド.md)・[旧版動画 90:00](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture06-20261027-wait/W06_WaitTimer_Nanami_90min_20261027.mp4)・[相違点・音声・字幕](第06回/README.md) | 2026-11-01（資料） |
+| 07 | 密度と比重 | [PDF](第07回/07_授業スライド_20261101.pdf)・[PowerPoint](第07回/07_授業スライド_20261101.pptx)・[学習ガイド](第07回/学習ガイド.md)・[旧版動画 90:00](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture07-20261027/W07_Nanami_90min_20261027.mp4)・[相違点・音声・字幕](第07回/README.md) | 2026-11-01（資料） |
+| 08 | 木材と水 | [PDF](第08回/08_授業スライド_20261101.pdf)・[PowerPoint](第08回/08_授業スライド_20261101.pptx)・[学習ガイド](第08回/学習ガイド.md)・[旧版動画 91:01](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture08-20261029-revised/W08_Nanami_20261029.mp4)・[相違点・音声・字幕](第08回/README.md) | 2026-11-01（資料） |
+| 09 | 水分と寸法変化 | [PDF](第09回/09_授業スライド_20261101.pdf)・[PowerPoint](第09回/09_授業スライド_20261101.pptx)・[学習ガイド](第09回/学習ガイド.md)・[旧版動画 90:00](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture09-20261027/W09_Nanami_90min_20261027.mp4)・[相違点・音声・字幕](第09回/README.md) | 2026-11-01（資料） |
+| 10 | 生物劣化と木材防腐 | [PDF](第10回/10_授業スライド_20261101.pdf)・[PowerPoint](第10回/10_授業スライド_20261101.pptx)・[学習ガイド](第10回/学習ガイド.md)・[旧版動画 90:00](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture10-20261028-preservation/W10_Nanami_90min_preservation_20261028.mp4)・[相違点・音声・字幕](第10回/README.md) | 2026-11-01（資料） |
 | 11 | 木材の接着と塗装 | [PDF](第11回/11_授業スライド_20261029.pdf)・[ハンドアウト／ガイド](第11回/学習ガイド.md)・[動画 36:07](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture11-v1.0/W11_Nanami_v1.0.mp4)・[音声・字幕](第11回/README.md) | 2026-10-29 15:52 |
 | 12 | 合板・LVLとボード類 | [PDF](第12回/12_授業スライド_20261029.pdf)・[ハンドアウト／ガイド](第12回/学習ガイド.md)・[動画 31:10](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture12-20261029-revised/W12_Nanami_20261029.mp4)・[音声・字幕](第12回/README.md) | 2026-10-29 15:52 |
 | 13 | 集成材とCLT | [PDF](第13回/13_授業スライド_v1.0.pdf)・[ハンドアウト／ガイド](第13回/学習ガイド.md)・[動画 34:54](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-v1.0/W13_Nanami_v1.0.mp4)・[音声・字幕](第13回/README.md) | 2026-10-29 15:52 |
@@ -67,6 +67,8 @@ PDF版は閲覧用です。Wordフォームに入力し、PDFとして保存し�
 新13・14は90分の授業配分案を示した再構成初版です。統合動画・音声・字幕は未作成で、旧動画の該当ページ・時刻を示す対応表を付けています。
 
 ## 改訂情報
+
+- 2026年11月1日：第1～10回の新版資料を公開。用語・条件・課題案内を整合し、科目コード05242020へ統一。動画との差は各回の入口に掲載。
 
 - 2026年10月31日：A1～A4の専用フォーム・PDF提出方法・評価基準を更新。提出名の先頭に科目コード05242020を付けます。
 - 2026年10月31日：教材を探しやすい表へ入口を整理し、各動画の再生時間を表示しました。全15回の内容構成は改訂準備中です。新しい回の公開と受講順はTeamsでも案内します。
