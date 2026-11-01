@@ -1,0 +1,34 @@
+{
+  "updated_jst": "2026-11-01 14:31",
+  "title": "樹木・木材の進化史と人類史",
+  "pages": 96,
+  "video_seconds": 5592.936,
+  "video_display": "93:13",
+  "video_release": "new-lecture11-20261101-map-climate",
+  "human_full_listening": false,
+  "lecture_minutes_target": 90,
+  "video_within_one_minute_of_target": false,
+  "files": [
+    {
+      "name": "11_授業スライド_20261101.pdf",
+      "sha256": "b5aedfcdb15967cb3547d20da9145e3d38e35e3e491299b06a1e20b6be888146",
+      "bytes": 3668385
+    },
+    {
+      "name": "11_授業スライド_20261101.pptx",
+      "sha256": "4021de5db384759d3dfc86df576fad41b811af94f54b39f924dce6728b5a6ad9",
+      "bytes": 8951363
+    },
+    {
+      "name": "11_授業動画_20261101.srt",
+      "sha256": "546eeedf052628514f8433ac8c1166f5f8ce518b00b274830944aa83c96b0157",
+      "bytes": 109574
+    },
+    {
+      "name": "11_授業動画_20261101.vtt",
+      "sha256": "2daf1db2cf83c9dba5bbe50dab73d4a42947357aef1fd3a77e30b268f4618ca7",
+      "bytes": 105564
+    }
+  ],
+  "release_assets": []
+}

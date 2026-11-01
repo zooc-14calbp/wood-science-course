@@ -1,0 +1,55 @@
+{
+  "updated_jst": "2026-11-01 14:31",
+  "title": "接着・塗装と木質材料の設計",
+  "pages": 61,
+  "video_seconds": 2644.252,
+  "video_display": "44:04",
+  "video_release": "lecture13-20261101-restructured",
+  "human_full_listening": false,
+  "lecture_minutes_target": 90,
+  "video_within_one_minute_of_target": false,
+  "files": [
+    {
+      "name": "13_授業スライド_20261101.pdf",
+      "sha256": "caaac2d149798cde9f27ce588f8fd11244bc81776e5196abe01c0001e56fe4ef",
+      "bytes": 1705212
+    },
+    {
+      "name": "13_授業スライド_20261101.pptx",
+      "sha256": "27038176c6edd474766866833f1f188a13e81512ded65fca2f137f09359ee188",
+      "bytes": 2451736
+    },
+    {
+      "name": "13_授業動画_20261101.srt",
+      "sha256": "5d704234b2bd15757c38dc58dc7f2e18bc8fa277258dd377171dedf07654c809",
+      "bytes": 47876
+    },
+    {
+      "name": "13_授業動画_20261101.vtt",
+      "sha256": "f19f9c1f7c794d00247c1abb7f8cb3ccfe165b10761771c431806ea3e7e609c0",
+      "bytes": 46206
+    }
+  ],
+  "release_assets": [
+    {
+      "name": "W13_Nanami_20261101.mp4",
+      "sha256": "38b2b9dd1dfe7753e1555893abe6de6ca3a9f8ab7869b763c1d2d321712416b5",
+      "bytes": 82826909
+    },
+    {
+      "name": "W13_Nanami_20261101.mp3",
+      "sha256": "ba6e312dbadfd9d8733aa50c7c5c7bcbbe5a4bfea3b2c672421450dbc3317899",
+      "bytes": 31732260
+    },
+    {
+      "name": "W13_Nanami_20261101.srt",
+      "sha256": "5d704234b2bd15757c38dc58dc7f2e18bc8fa277258dd377171dedf07654c809",
+      "bytes": 47876
+    },
+    {
+      "name": "W13_Nanami_20261101.vtt",
+      "sha256": "f19f9c1f7c794d00247c1abb7f8cb3ccfe165b10761771c431806ea3e7e609c0",
+      "bytes": 46206
+    }
+  ]
+}

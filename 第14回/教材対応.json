@@ -1,0 +1,55 @@
+{
+  "updated_jst": "2026-11-01 14:31",
+  "title": "木造の大規模利用と資源・環境",
+  "pages": 57,
+  "video_seconds": 2170.308,
+  "video_display": "36:10",
+  "video_release": "lecture14-20261101-restructured",
+  "human_full_listening": false,
+  "lecture_minutes_target": 90,
+  "video_within_one_minute_of_target": false,
+  "files": [
+    {
+      "name": "14_授業スライド_20261101.pdf",
+      "sha256": "a5fb941fcda18d9a694e4ab523b79066a99f5e4f21841fae1bfe5d42f239b241",
+      "bytes": 2062104
+    },
+    {
+      "name": "14_授業スライド_20261101.pptx",
+      "sha256": "28d4c5303745119ab6db6b798f9e30f0aa097c558180e5c7c3b3534faefafee5",
+      "bytes": 12270985
+    },
+    {
+      "name": "14_授業動画_20261101.srt",
+      "sha256": "1639e15c26031a3bf3639279622541e898866af7269fa9e8e83620229a1aa3df",
+      "bytes": 37123
+    },
+    {
+      "name": "14_授業動画_20261101.vtt",
+      "sha256": "6c25317bd5eab272c562a68235475f96cf738985749125fb8f339d420f7a8900",
+      "bytes": 35698
+    }
+  ],
+  "release_assets": [
+    {
+      "name": "W14_Nanami_20261101.mp4",
+      "sha256": "ef2e2fe8c59274c768965433a61c230ff57220ca06bf85196521010734b66514",
+      "bytes": 74830267
+    },
+    {
+      "name": "W14_Nanami_20261101.mp3",
+      "sha256": "8d2ad543b08a943426101c89e7c4e8ee6374f970b2b4dbaf4a3466af53dbdeeb",
+      "bytes": 26044839
+    },
+    {
+      "name": "W14_Nanami_20261101.srt",
+      "sha256": "1639e15c26031a3bf3639279622541e898866af7269fa9e8e83620229a1aa3df",
+      "bytes": 37123
+    },
+    {
+      "name": "W14_Nanami_20261101.vtt",
+      "sha256": "6c25317bd5eab272c562a68235475f96cf738985749125fb8f339d420f7a8900",
+      "bytes": 35698
+    }
+  ]
+}

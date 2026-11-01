@@ -1,0 +1,55 @@
+{
+  "updated_jst": "2026-11-01 14:31",
+  "title": "日本の木の文化：森林管理と木造建築",
+  "pages": 102,
+  "video_seconds": 5378.784,
+  "video_display": "89:39",
+  "video_release": "new-lecture12-20261101-history",
+  "human_full_listening": false,
+  "lecture_minutes_target": 90,
+  "video_within_one_minute_of_target": true,
+  "files": [
+    {
+      "name": "12_授業スライド_20261101.pdf",
+      "sha256": "948b417b2f0ef18c743fe5174a7e9922995f154438bcc146548032634ded2dfe",
+      "bytes": 3512874
+    },
+    {
+      "name": "12_授業スライド_20261101.pptx",
+      "sha256": "36c6ce754825ab6dab8ebeb606fdb07d7490147e8d3ad18d8a8aa012d3eeecd2",
+      "bytes": 20564788
+    },
+    {
+      "name": "12_授業動画_20261101.srt",
+      "sha256": "ebc696b1c9afd45c020e975422e22576ca9012b0cbf22281be617af8e4a7785a",
+      "bytes": 102712
+    },
+    {
+      "name": "12_授業動画_20261101.vtt",
+      "sha256": "5de7426638a7a34bcb234f5dfef922fa2f1aa90c06d9f6dd3aeb7d01e001cfb3",
+      "bytes": 99072
+    }
+  ],
+  "release_assets": [
+    {
+      "name": "NEW12_Nanami_20261101_history.mp4",
+      "sha256": "3dd6f1de13b1b64501df9b9e00a437866dc4425c351c35579fafde8b6a8f4bf5",
+      "bytes": 178071146
+    },
+    {
+      "name": "NEW12_Nanami_20261101_history.mp3",
+      "sha256": "985edf115c5c93511d3e076f30bb17e73cfbc26ad8bcce9d86d68c1555d8a4a0",
+      "bytes": 64546414
+    },
+    {
+      "name": "NEW12_Nanami_20261101_history.srt",
+      "sha256": "ebc696b1c9afd45c020e975422e22576ca9012b0cbf22281be617af8e4a7785a",
+      "bytes": 102712
+    },
+    {
+      "name": "NEW12_Nanami_20261101_history.vtt",
+      "sha256": "5de7426638a7a34bcb234f5dfef922fa2f1aa90c06d9f6dd3aeb7d01e001cfb3",
+      "bytes": 99072
+    }
+  ]
+}

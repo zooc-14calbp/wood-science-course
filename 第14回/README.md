@@ -1,36 +1,28 @@
-# 第14回　木材資源と環境・循環利用
+# 第14回 木造の大規模利用と資源・環境
 
-**2026年10月29日改訂版：動画・音声・字幕を新版PDFに対応させました。**
+**2026年11月1日版／57ページ／動画 36:10**。学生用教材を新構成へ切り替えました。受講する回・時期と正式課題はTeamsで確認してください。
 
-## この順に開いてください
+1. [授業スライドPDF](14_授業スライド_20261101.pdf)
+2. [PowerPoint・PDFと同じページ順](14_授業スライド_20261101.pptx)
+3. [説明動画・36:10](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture14-20261101-restructured/W14_Nanami_20261101.mp4)
+4. [学習ガイド・配布資料](学習ガイド.md)
+5. [動画の目次とPDFページ](動画の目次.md)
 
-1. [授業動画をダウンロード（MP4・22:12）](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture14-20261029-revised/W14_Nanami_20261029.mp4)
-2. [授業スライドPDF（28ページ）](14_授業スライド_20261029.pdf)
-3. [学習ガイド・自己確認の解説](学習ガイド.md)
-4. [動画の目次とPDFページ対応](動画の目次.md)
+集成材・CLT、大空間と高層建築、燃焼・火災時の性能、森林資源と炭素・循環利用を扱います。
 
-教材はGitHubから開けます。動画がブラウザーで再生されない場合は、ダウンロードして再生してください。[配信ページ](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture14-20261029-revised)の「Assets」からも取得できます。
+動画だけで90分には達していません。学習ガイドの90分は、演習・計算・読解を含む授業配分案です。
 
-## 演習と字幕
+## 音声・字幕
 
-再生時間は22:12です。演習の計算・作図・記述、資料を読む時間は、必要に応じて動画を一時停止して確保してください。動画の再生時間だけが学修時間ではありません。
+- [音声のみ](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture14-20261101-restructured/W14_Nanami_20261101.mp3)
+- [SRT字幕](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture14-20261101-restructured/W14_Nanami_20261101.srt) ／ [VTT字幕](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture14-20261101-restructured/W14_Nanami_20261101.vtt)
 
-音声がない思考・休憩の区間には、画面上部に目的・残り時間・再開時刻が表示されます。日本語字幕は再生ソフトの字幕設定で表示できます。内蔵字幕に対応しない場合は、下記のSRTまたはVTTを利用してください。
+Nanami・速度−5%。MP4には選択式の日本語字幕と章区切りがあります。再生ソフトの字幕設定から表示できます。演習では一時停止してください。この版には長い待機用の無音区間を設けていません。
 
-## 音声・外部字幕
+画面全ページと切替、動画全編の復号、音声信号、字幕時刻を機械点検しています。音声認識による抜き取り確認も行いました。人による全編聴取と上位モデルによる厳格校正は未実施です。
 
-- [音声のみ（MP3）](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture14-20261029-revised/W14_Nanami_20261029.mp3) — 動画と同じ待ち時間を含みます。
-- [外部字幕（SRT）](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture14-20261029-revised/W14_Nanami_20261029.srt)
-- [外部字幕（VTT）](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture14-20261029-revised/W14_Nanami_20261029.vtt)
+正式課題A1～A4の設問・配点は今回の切替では変更していません。配信・提出・締切はTeamsです。
 
-音声はNanami、速度は標準の−5%です。PDFと動画のページ順は共通です。
+[全15回の教材一覧](../README.md) ／ [切替前の教材（旧構成）](https://github.com/zooc-14calbp/wood-science-course/tree/5225a9fa0fcc73a25a099ea4c02ea2bb36949cea)
 
-## 課題・授業連絡
-
-受講する回・時期、正式な課題の配信・提出・締切は、Teamsの本科目専用チームで確認してください。動画の自己確認は追加の提出課題ではありません。
-
-## 以前の資料について
-
-日付のない旧版ファイルと過去の配信動画は、以前の構成の記録です。今回の受講では、このページ上部の2026年10月29日版を使用してください。
-
-[全15回の教材一覧](../README.md) ／ [受講方法](../受講方法.md)
+更新：2026-11-01 14:31（JST）
