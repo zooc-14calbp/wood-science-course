@@ -1,57 +1,57 @@
 {
   "date": "2026-11-01",
   "title": "樹木・木材の進化史と人類史",
-  "status": "90分版への増補中。41頁・31分43秒",
-  "pages": 41,
-  "video_seconds": 1903.844,
+  "status": "90分版への増補中。62頁・49分16秒",
+  "pages": 62,
+  "video_seconds": 2956.328,
   "lecture_video_minutes_target": 90,
   "human_full_listening": false,
   "learning_time_pilot_done": false,
   "activity_policy": "短い理解確認と任意の補足。全7題の実施を必須としない。",
   "files": [
     {
-      "name": "11_授業スライド_20261101.pdf",
-      "sha256": "fc8d67e7e31a055551ec4043e9b0808ac456e3c4e02ff973e2fcdf9a2765150c",
-      "bytes": 1019052
+      "name": "11_授業スライド_20261101_history.pdf",
+      "sha256": "41acee720638de9d4c034c7300e5c065c2d6895dfc5aaf5d1ba3fe851817106f",
+      "bytes": 1358246
     },
     {
-      "name": "11_授業スライド_20261101.pptx",
-      "sha256": "e8c9824171d033a9f463a238374b50fbcbf4a6c86d38165925313ea2c4959f47",
-      "bytes": 186242
+      "name": "11_授業スライド_20261101_history.pptx",
+      "sha256": "a2587eac47c47f927ae7ea7b207d7088a69d352320ab67603798fd601e88e301",
+      "bytes": 274485
     },
     {
-      "name": "11_授業動画_20261101.srt",
-      "sha256": "c4cad3bac867dd7a55eaa1e07015d449d99f68b913cbf2f9b428b18101a98c78",
-      "bytes": 36878
+      "name": "11_授業動画_20261101_history.srt",
+      "sha256": "e60336e3cf5b6d3d3dbe63fc096476b71bbf22c154f84ed0caaa2439f148f28b",
+      "bytes": 57545
     },
     {
-      "name": "11_授業動画_20261101.vtt",
-      "sha256": "87b489294ad096b0598491272f29ddf7850b471a1e82c3653641bdf0c1689af3",
-      "bytes": 35583
+      "name": "11_授業動画_20261101_history.vtt",
+      "sha256": "620061f5a9ef563cf976e675604e85e8f902564cf031d5907e017ae4e8478dcf",
+      "bytes": 55470
     }
   ],
   "release_assets": [
     {
-      "name": "NEW11_Nanami_20261101.mp4",
-      "sha256": "5625956a2174bc7fa86c2d3d737af2e0c5206c35c8978e2376e2417477b72274",
-      "bytes": 51930166
+      "name": "NEW11_Nanami_20261101_history.mp4",
+      "sha256": "e354eb03c069dbad7263ae89b65000b6f968d72a25c20da0e8a92abf2a354bef",
+      "bytes": 81894645
     },
     {
-      "name": "NEW11_Nanami_20261101.mp3",
-      "sha256": "a5fc88154f366488ec2a1b88557e0b4b6453d3f68319fcb6e207d47fa5e689bf",
-      "bytes": 22847172
+      "name": "NEW11_Nanami_20261101_history.mp3",
+      "sha256": "5c7c73efe840c3a401504f5213b0031ef5f806983404784dcc0ae514aa200702",
+      "bytes": 35477124
     },
     {
-      "name": "NEW11_Nanami_20261101.srt",
-      "sha256": "c4cad3bac867dd7a55eaa1e07015d449d99f68b913cbf2f9b428b18101a98c78",
-      "bytes": 36878
+      "name": "NEW11_Nanami_20261101_history.srt",
+      "sha256": "e60336e3cf5b6d3d3dbe63fc096476b71bbf22c154f84ed0caaa2439f148f28b",
+      "bytes": 57545
     },
     {
-      "name": "NEW11_Nanami_20261101.vtt",
-      "sha256": "87b489294ad096b0598491272f29ddf7850b471a1e82c3653641bdf0c1689af3",
-      "bytes": 35583
+      "name": "NEW11_Nanami_20261101_history.vtt",
+      "sha256": "620061f5a9ef563cf976e675604e85e8f902564cf031d5907e017ae4e8478dcf",
+      "bytes": 55470
     }
   ],
-  "video_release": "new-lecture11-20261101-expanded",
-  "source_sha": "7107a78d9c68766ee4bacf518b8ad656afd54159"
+  "video_release": "new-lecture11-20261101-history",
+  "source_sha": "9e6c8d69f14e5ebb419684236182f79e68373e0b"
 }

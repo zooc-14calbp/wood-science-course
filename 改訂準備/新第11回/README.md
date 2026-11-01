@@ -1,39 +1,32 @@
 # 新第11回 樹木・木材の進化史と人類史
 
-**2026年11月1日増補版**。現在の受講用第11回「接着と塗装」とは別の改訂準備版です。新しい受講順への切替はTeamsで案内します。
+**2026年11月1日・系統と人類史の増補版**。現在の受講用第11回「接着と塗装」とは別の改訂準備版です。受講順の切替はTeamsで案内します。
 
-1. [授業スライドPDF・41ページ](11_授業スライド_20261101.pdf)
-2. [PowerPoint・同じ41ページ](11_授業スライド_20261101.pptx)
+1. [授業スライドPDF・62ページ](11_授業スライド_20261101_history.pdf)
+2. [PowerPoint・同じ62ページ](11_授業スライド_20261101_history.pptx)
 3. [学習ワークシート・自己確認の解説](学習ワークシート.md)
-4. [説明動画・31分43秒](https://github.com/zooc-14calbp/wood-science-course/releases/download/new-lecture11-20261101-expanded/NEW11_Nanami_20261101.mp4)
+4. [説明動画・49分16秒](https://github.com/zooc-14calbp/wood-science-course/releases/download/new-lecture11-20261101-history/NEW11_Nanami_20261101_history.mp4)
 5. [動画の目次とPDFページ](動画の目次.md)
+6. [参考資料の読み方](参考資料の読み方.md)
 
-第1部は地球環境、維管束、木材の形成と樹木の長寿、第2部は人類による木材利用と資料の読み方です。維管束の木部・師部、二次木部と二次壁、個体の寿命と部分の更新を分けて扱います。
+第1部は地球環境、維管束、木本植物の系統上の位置、木材形成と長寿です。第2部は初期人類の木材利用から、材料・燃料としての木材利用史へ進みます。
 
-## 今回の増補
-
-- 30枚から41枚へ拡充。太さ・樹齢・強度・使用期間を区別する図を追加。
-- 酸素の生成と蓄積の収支、地質時間と人類史の尺度を計算例で説明。
-- 植物全体と細胞の尺度、二次木部と二次壁、木部の細胞の状態を図示。
-- 年輪数と平均成長量、用途に必要な性質、保存条件と出土資料の解釈を補足。
-- 表紙、読み上げ、動画・音声のタイトル、教材一覧を「樹木・木材の進化史と人類史」へ統一。
+今回、木本と分類群の違い、ヤシ・木生シダとの比較、サメ・二枚貝・ヒドラの長寿や老化、初期の火、Kalambo Fallsの木組み、Clactonの木製尖頭器を加えました。観察された事実、年代推定、用途の解釈を区別します。
 
 ## 再生時間と学修
 
-説明動画は旧版17分49秒から**31分43秒**へ増補しました。約90分の講義版を目指して改訂中で、まだ完成版ではありません。長い無音や活動時間を足して90分とする構成ではありません。短い確認は必要に応じて一時停止して行ってください。ワークシート全7題を必須とするものではありません。
+41ページ・31分43秒から、**62ページ・49分16秒**へ増補しました。約90分の講義版を目指して改訂中です。短い理解確認は必要に応じて一時停止してください。ワークシート全問を必須とするものではありません。
 
-全41ページの画像と40か所の切替前後、動画全編の復号、音声信号と字幕時刻を機械点検しました。人による全編聴取および上位モデルによる厳格校正は未実施です。
+全62ページと61か所の切替前後、動画全編の復号、音声信号、字幕の時刻を機械点検しました。人による全編聴取と上位モデルによる厳格校正は未実施です。
 
 ## 音声と字幕
 
-- [音声のみ](https://github.com/zooc-14calbp/wood-science-course/releases/download/new-lecture11-20261101-expanded/NEW11_Nanami_20261101.mp3)
-- [SRT字幕](https://github.com/zooc-14calbp/wood-science-course/releases/download/new-lecture11-20261101-expanded/NEW11_Nanami_20261101.srt)
-- [VTT字幕](https://github.com/zooc-14calbp/wood-science-course/releases/download/new-lecture11-20261101-expanded/NEW11_Nanami_20261101.vtt)
+- [音声のみ](https://github.com/zooc-14calbp/wood-science-course/releases/download/new-lecture11-20261101-history/NEW11_Nanami_20261101_history.mp3)
+- [SRT字幕](https://github.com/zooc-14calbp/wood-science-course/releases/download/new-lecture11-20261101-history/NEW11_Nanami_20261101_history.srt)
+- [VTT字幕](https://github.com/zooc-14calbp/wood-science-course/releases/download/new-lecture11-20261101-history/NEW11_Nanami_20261101_history.vtt)
 
-Nanami、速度−5%。MP4には選択式の日本語字幕と章区切りを収録しています。再生ソフトの字幕設定から表示できます。正式課題の配信・提出はTeamsです。
+Nanami、速度−5%。MP4には選択式の日本語字幕と章区切りがあります。再生ソフトの字幕設定から表示できます。正式課題の配信・提出はTeamsです。
 
-[樹木・木材史の補足解説と用語の確認](../樹木・木材史の補足解説.md)には、今回組み込んだ維管束・二次成長に加え、木製井戸や丹波材の輸送もあります。後二者は今回の動画には未収録です。
+[以前の増補版・31分43秒](https://github.com/zooc-14calbp/wood-science-course/releases/tag/new-lecture11-20261101-expanded) ／ [全体一覧へ](../../README.md)
 
-[以前の動画（17分49秒）](https://github.com/zooc-14calbp/wood-science-course/releases/tag/new-lecture11-20261031) ／ [全体一覧へ](../../README.md)
-
-更新：2026-11-01 12:04（JST）
+更新：2026-11-01 12:23（JST）
