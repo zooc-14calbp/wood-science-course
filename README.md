@@ -24,11 +24,19 @@
 | 10 | 生物劣化と木材防腐 | [PDF](第10回/10_授業スライド_20261101.pdf)・[PowerPoint](第10回/10_授業スライド_20261101.pptx)・[学習ガイド](第10回/学習ガイド.md)・[動画 92:07](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture10-20261101-revised/W10_Nanami_20261101.mp4)・[音声・字幕](第10回/README.md) | 2026-11-01 11:18 |
 | 11 | 接着・塗装と木質材料の設計 | [PDF](第11回/11_授業スライド_20261101.pdf)・[PowerPoint](第11回/11_授業スライド_20261101.pptx)・[学習ガイド](第11回/学習ガイド.md)・[動画 88:34](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture11-20261101-renumbered/W11_Nanami_20261101.mp4)・[音声・字幕](第11回/README.md) | 2026-11-01 16:12 |
 | 12 | 集成材・CLTと木材資源の利用 | [PDF](第12回/12_授業スライド_20261101.pdf)・[PowerPoint](第12回/12_授業スライド_20261101.pptx)・[学習ガイド](第12回/学習ガイド.md)・[動画 88:03](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture12-20261101-renumbered/W12_Nanami_20261101.mp4)・[音声・字幕](第12回/README.md) | 2026-11-01 16:12 |
-| 13 | 加工・材料選択と技術科への統合 | [PDF](第13回/13_授業スライド_20261101.pdf)・[PowerPoint](第13回/13_授業スライド_20261101.pptx)・[学習ガイド](第13回/学習ガイド.md)・[動画 20:04](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-20261101-renumbered/W13_Nanami_20261101.mp4)・[音声・字幕](第13回/README.md) | 2026-11-01 16:12 |
+| 13 | 加工・材料選択と技術科への統合 | [PDF](第13回/13_授業スライド_20261101.pdf)・[PowerPoint](第13回/13_授業スライド_20261101.pptx)・[学習ガイド](第13回/学習ガイド.md)・[動画 88:47](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-20261101-expanded-final/W13_Nanami_20261101_expanded.mp4)・[音声・字幕](第13回/README.md) | 2026-11-01 17:18 |
 | 14 | 樹木・木材の進化史と人類史 | [PDF](第14回/14_授業スライド_20261101.pdf)・[PowerPoint](第14回/14_授業スライド_20261101.pptx)・[学習ガイド](第14回/学習ガイド.md)・[動画 93:12](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture14-20261101-renumbered/W14_Nanami_20261101.mp4)・[音声・字幕](第14回/README.md) | 2026-11-01 16:12 |
 | 15 | 日本の木の文化：森林管理と木造建築 | [PDF](第15回/15_授業スライド_20261101.pdf)・[PowerPoint](第15回/15_授業スライド_20261101.pptx)・[学習ガイド](第15回/学習ガイド.md)・[動画 89:38](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture15-20261101-renumbered/W15_Nanami_20261101.mp4)・[音声・字幕](第15回/README.md) | 2026-11-01 16:12 |
 
+第1～10回の再生時間には、表示付きの演習・休憩の無音区間を含みます。[動画の時間の内訳](動画の時間の内訳.md)も確認してください。
+
 全15回にPDFとPowerPointを併記しています。音声・字幕・動画の目次は各回の案内から開けます。最終更新日時は、各回の教材・配布資料・案内を更新した時刻です。入口だけの体裁変更日は含めません。
+
+## 毎週の受講確認
+
+**毎週木曜日13時まで、変更がなくても提出**。[受講確認票と記入・提出方法](受講確認/README.md)を確認してください。受講確認はExcel、A1～A4はPDFでTeamsへ提出します。
+
+[学習前の確認：割合・単位・グラフ](学習前の確認.md)
 
 ## 提出課題
 
@@ -49,7 +57,9 @@ PDF版は閲覧用です。Wordフォームに入力し、PDFとして保存し�
 
 ## 改訂情報
 
-- 2026年11月1日：第11～14回を新構成へ切替。第12回は通史・図版を増補して102ページ、動画89:39。第13・14回の統合動画・音声・字幕を作成。旧構成はGit履歴と旧版控えに保存。
+- 2026年11月1日：第13回を82ページ・動画88:47へ増補し、動画・音声・字幕を同期。毎週の受講確認票と、学習前の確認を追加。番号変更に伴う受講方法・参照表を修正。
+
+- 2026年11月1日：第11～14回を新構成へ切替。旧第12回（現第15回）は通史・図版を増補。旧第13・14回（現第11・12回）の統合動画・音声・字幕を作成。旧構成はGit履歴と旧版控えに保存。
 
 - 2026年11月1日：第1～10回の新版資料を公開。用語・条件・課題案内を整合し、科目コード05242020へ統一。改訂点は各回の学習ガイドに掲載。
 

@@ -47,6 +47,6 @@ ICT機器を使ったという事実だけで学習の達成としません。�
 - [中学校学習指導要領（平成29年告示）解説・文部科学省の入口](https://www.mext.go.jp/a_menu/shotou/new-cs/1387016.htm)の「技術・家庭編」。
 - [技術分野の指導事例集](https://www.mext.go.jp/a_menu/shotou/new-cs/senseiouen/mext_02685.html)。材料と加工、情報の技術へつながる活動の例を確認。
 - [情報・技術ワーキンググループ](https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/118/)の配付資料。検討案の位置付けと資料日付を確認。
-- [2026年6月8日・体系整理の方向性（案）](https://www.mext.go.jp/content/20260608-mxt_kyoiku01-000050297-3.pdf)。その後の検討で変更される可能性があります。
+- [2026年8月4日・情報・技術WG取りまとめ（案）](https://www.mext.go.jp/content/20260804-mxt_kyoiku01-000051433-1.pdf)。PDFの42・79・97ページなどの例を参照。現行の解説や、各学校の実施方法が確定した資料とは区別します。
 
 [第13回の教材へ](README.md)
