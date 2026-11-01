@@ -1,57 +1,57 @@
 {
   "date": "2026-11-01",
   "title": "樹木・木材の進化史と人類史",
-  "status": "90分版への増補中。78頁・65分34秒",
-  "pages": 78,
-  "video_seconds": 3934.128,
+  "status": "約90分の講義版。96頁・93分13秒",
+  "pages": 96,
+  "video_seconds": 5592.936,
   "lecture_video_minutes_target": 90,
   "human_full_listening": false,
   "learning_time_pilot_done": false,
   "activity_policy": "短い理解確認と任意の補足。全問の実施を必須としない。",
   "files": [
     {
-      "name": "11_授業スライド_20261101_tools.pdf",
-      "sha256": "e773c7a1a48defe932f22c6600a5e7a581a1b6d179baa506d9cd63ac58a14076",
-      "bytes": 1511868
+      "name": "11_授業スライド_20261101_map_climate.pdf",
+      "sha256": "b5aedfcdb15967cb3547d20da9145e3d38e35e3e491299b06a1e20b6be888146",
+      "bytes": 3668385
     },
     {
-      "name": "11_授業スライド_20261101_tools.pptx",
-      "sha256": "b719cf9c204f55380ce3960fb45dddee27c397cb4e0a53a911ef87329b184d5a",
-      "bytes": 342809
+      "name": "11_授業スライド_20261101_map_climate.pptx",
+      "sha256": "4021de5db384759d3dfc86df576fad41b811af94f54b39f924dce6728b5a6ad9",
+      "bytes": 8951363
     },
     {
-      "name": "11_授業動画_20261101_tools.srt",
-      "sha256": "7391c4f9a3f1fad9d6e03e2d12aefd9baebb07984cf7dc6ed90687db67c85d08",
-      "bytes": 76431
+      "name": "11_授業動画_20261101_map_climate.srt",
+      "sha256": "546eeedf052628514f8433ac8c1166f5f8ce518b00b274830944aa83c96b0157",
+      "bytes": 109574
     },
     {
-      "name": "11_授業動画_20261101_tools.vtt",
-      "sha256": "6e6cc306f7d52714d630c4af41fc97986560e6875f7cd57167e61fe69b542488",
-      "bytes": 73646
+      "name": "11_授業動画_20261101_map_climate.vtt",
+      "sha256": "2daf1db2cf83c9dba5bbe50dab73d4a42947357aef1fd3a77e30b268f4618ca7",
+      "bytes": 105564
     }
   ],
   "release_assets": [
     {
-      "name": "NEW11_Nanami_20261101_tools.mp4",
-      "sha256": "84d619eab33b5c7a8a46713bb033ac1ec44fc3eb751c8e3c860b4165963685c9",
-      "bytes": 110607294
+      "name": "NEW11_Nanami_20261101_map_climate.mp4",
+      "sha256": "0ab339fb13ee52b002f399b105b4adce9ab7e51cd9e4d875f9b02639d15b764d",
+      "bytes": 186429869
     },
     {
-      "name": "NEW11_Nanami_20261101_tools.mp3",
-      "sha256": "fed8c99bc82518cca4e37be6d3dff537e9512a299198003bdaf553714cd41e80",
-      "bytes": 47210532
+      "name": "NEW11_Nanami_20261101_map_climate.mp3",
+      "sha256": "19a90e1a8f834cab09145951b7a846f87f5fc33d153f27e1b37b90afe5e29f57",
+      "bytes": 67116228
     },
     {
-      "name": "NEW11_Nanami_20261101_tools.srt",
-      "sha256": "7391c4f9a3f1fad9d6e03e2d12aefd9baebb07984cf7dc6ed90687db67c85d08",
-      "bytes": 76431
+      "name": "NEW11_Nanami_20261101_map_climate.srt",
+      "sha256": "546eeedf052628514f8433ac8c1166f5f8ce518b00b274830944aa83c96b0157",
+      "bytes": 109574
     },
     {
-      "name": "NEW11_Nanami_20261101_tools.vtt",
-      "sha256": "6e6cc306f7d52714d630c4af41fc97986560e6875f7cd57167e61fe69b542488",
-      "bytes": 73646
+      "name": "NEW11_Nanami_20261101_map_climate.vtt",
+      "sha256": "2daf1db2cf83c9dba5bbe50dab73d4a42947357aef1fd3a77e30b268f4618ca7",
+      "bytes": 105564
     }
   ],
-  "video_release": "new-lecture11-20261101-tools",
-  "source_sha": "e525d72753fdd08e9de3b7081c49f0b3c1900e60"
+  "video_release": "new-lecture11-20261101-map-climate",
+  "source_sha": "bd88f6feccba6c01125ea3ae9a5ce2543934ba85"
 }
