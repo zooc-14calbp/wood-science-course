@@ -1,55 +1,33 @@
-# 第06回　異方性と欠点
+# 第6回　異方性と欠点
 
-**スライド・ガイドは2026年11月1日版、動画・音声・字幕は旧版です。** 動画と記述が異なる箇所は新版資料を確認してください。受講順・課題はTeamsで案内します。
-
-## 最初に開くもの
-
-- [新版スライドPDF](06_授業スライド_20261101.pdf) ／ [PowerPoint](06_授業スライド_20261101.pptx)
-- [新版学習ガイド](学習ガイド.md)
-- [旧版動画 90:00](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture06-20261027-wait/W06_WaitTimer_Nanami_90min_20261027.mp4)
-- [課題・専用フォーム・評価基準](../課題/README.md)
-
-## 動画との主な相違点
-
-PDF10～11・17～18頁の演習番号を整理。同じ断面積、高さ変更、90度回転の比較条件を区別。
-
-参照はPDFページ順です。スライド内の旧番号や動画の時刻とは一致しない場合があります。
-
-<details>
-<summary>旧動画用の資料・音声・字幕・補助資料</summary>
-
-以下は旧版の案内です。通常のスライド・ガイドは上の新版を使用してください。
-
-# 第06回　異方性と欠点
-
-**受講する回・時期と正式な課題はTeamsの本科目専用チームで確認し、課題はTeamsから提出してください。** [受講方法](../受講方法.md)
+**2026年11月1日版：動画・音声・字幕を新版スライドに合わせて更新しました。**
 
 ## 最初に開くもの
 
-1. **動画**：[GitHubで開く](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture06-20261027-wait)。GitHubの配信ページからMP4をダウンロードして再生します。
-2. **スライドPDF**：[06_オンデマンド_授業スライド.pdf](06_オンデマンド_授業スライド.pdf)
-3. **配布資料**：[06_オンデマンド_配布資料.pdf](06_オンデマンド_配布資料.pdf)
+1. [動画（MP4・91:18）](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture06-20261101-revised/W06_Nanami_20261101.mp4)
+2. [スライドPDF（35ページ）](06_授業スライド_20261101.pdf) ／ [PowerPoint](06_授業スライド_20261101.pptx)
+3. [学習ガイド・自己確認](学習ガイド.md)
+4. [動画の目次とPDFページ対応](動画の目次.md)
 
-動画は現行の90分版で、説明・自己確認・休憩を含みます。画面の待ち表示が進む間は意図した無音です。必要に応じて一時停止・再開してください。学生が実際に必要とする学修時間は再生時間と同じとは限りません。
+動画がブラウザーで再生されない場合はダウンロードしてください。[配信ページ](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture06-20261101-revised)のAssetsからも取得できます。
 
-自己確認は解説と照合します。提出課題は第6回後の **A2** です。[課題一覧](../README.md#提出課題)で設問と回答フォームを確認してください。正式な配信元・提出先はTeamsです。締切・提出形式はTeamsの案内に従います。
+## 音声・字幕と演習
 
-## 補助資料・別形式
+- [音声のみ（MP3）](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture06-20261101-revised/W06_Nanami_20261101.mp3)
+- [字幕（SRT）](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture06-20261101-revised/W06_Nanami_20261101.srt) ／ [字幕（VTT）](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture06-20261101-revised/W06_Nanami_20261101.vtt)
 
-- [スライドを編集・書込みする場合のPPTX](06_オンデマンド_授業スライド.pptx)
-- [音声のみ MP3](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture06-20261027-wait/W06_WaitTimer_Nanami_90min_20261027.mp3)
-- [外部字幕 SRT](06_オンデマンド_授業動画.srt) ／ [VTT](06_オンデマンド_授業動画.vtt)
+音声はNanami、速度は標準の−5%です。日本語字幕は再生ソフトの字幕設定で表示できます。MP4には選択式字幕と章区切りを収録しています。
 
-動画内の日本語字幕は再生ソフトで選択できます。MP3にも演習・休憩の無音があります。
+音声のない思考・休憩時間には、画面上部に目的・残り時間・再開時刻を表示します。MP3にも同じ待ち時間を含みます。動画は91:18で、必要に応じて一時停止して計算・作図・読解に取り組んでください。学修に要する時間と動画の再生時間は同じとは限りません。
 
-## 対面授業用の別資料（授業で指定された場合）
+ページ番号は新版PDFの順序です。画面内に残る旧番号とは区別してください。
 
-- [06_異方性と欠点.pptx](06_異方性と欠点.pptx)
+## 課題と受講順
 
-オンデマンド受講では上の本編を使います。
+正式な課題の配信・提出・期限と、受講する回・時期はTeamsで確認します。[課題・専用フォーム・評価基準](../課題/README.md)。動画内の自己確認は追加の提出課題ではありません。新11～14回への切替もTeamsの案内に従ってください。
 
-[全15回の一覧へ戻る](../README.md)
+[全15回の教材一覧](../README.md) ／ [受講方法](../受講方法.md)
 
-更新：2026年10月29日
+以前の記録：[旧版の動画配信ページ](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture06-20261027-wait)。通常の受講には上記の2026年11月1日版を使用します。
 
-</details>
+更新：2026-11-01 11:18（JST）
