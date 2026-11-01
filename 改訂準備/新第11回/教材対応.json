@@ -1,44 +1,57 @@
 {
-  "date": "2026-10-31",
-  "status": "整備初版。講義動画約90分を目標に拡充中",
-  "pages": 30,
-  "video_seconds": 1069.848,
-  "learning_minutes_planned": null,
-  "learning_time_pilot_done": false,
+  "date": "2026-11-01",
+  "title": "樹木・木材の進化史と人類史",
+  "status": "90分版への増補中。41頁・31分43秒",
+  "pages": 41,
+  "video_seconds": 1903.844,
+  "lecture_video_minutes_target": 90,
   "human_full_listening": false,
+  "learning_time_pilot_done": false,
+  "activity_policy": "短い理解確認と任意の補足。全7題の実施を必須としない。",
   "files": [
     {
-      "name": "11_ナレーション_20261031.mp3",
-      "sha256": "898f500fe8a37756562b008754788bd090a3ac89ff705f67988438271f776754",
-      "bytes": 12839084
+      "name": "11_授業スライド_20261101.pdf",
+      "sha256": "fc8d67e7e31a055551ec4043e9b0808ac456e3c4e02ff973e2fcdf9a2765150c",
+      "bytes": 1019052
     },
     {
-      "name": "11_授業スライド.pdf",
-      "sha256": "3031c07d7e353075f9a6f6ebe649401201076b9b9d173124b6530fde471b4eec",
-      "bytes": 894680
+      "name": "11_授業スライド_20261101.pptx",
+      "sha256": "e8c9824171d033a9f463a238374b50fbcbf4a6c86d38165925313ea2c4959f47",
+      "bytes": 186242
     },
     {
-      "name": "11_授業スライド.pptx",
-      "sha256": "8a69666f89c185ab58953fbd1dbec0cbdfa4efe6960b58181c83aec654b125ff",
-      "bytes": 133121
+      "name": "11_授業動画_20261101.srt",
+      "sha256": "c4cad3bac867dd7a55eaa1e07015d449d99f68b913cbf2f9b428b18101a98c78",
+      "bytes": 36878
     },
     {
-      "name": "11_授業動画_20261031.mp4",
-      "sha256": "660d67d998e69aa199652e08266be4ada80daa577e43f53890f6732a019e9ac4",
-      "bytes": 26490002
-    },
-    {
-      "name": "11_授業動画_20261031.srt",
-      "sha256": "543beb8a22c8128a276f64c1464059a07e4082b946b58c91002438c05d903492",
-      "bytes": 19134
-    },
-    {
-      "name": "11_授業動画_20261031.vtt",
-      "sha256": "594e144b6902ef26bcd19000366e2bf49d479f8f5907328ccce71f9b84ccb2a1",
-      "bytes": 18514
+      "name": "11_授業動画_20261101.vtt",
+      "sha256": "87b489294ad096b0598491272f29ddf7850b471a1e82c3653641bdf0c1689af3",
+      "bytes": 35583
     }
   ],
-  "lecture_video_minutes_target": 90,
-  "activity_policy": "短い理解確認と任意の補足。全7題の実施を必須としない。",
-  "hash_scope": "PDF・PowerPoint・動画・音声・字幕のバイナリ。案内・ワークシートの改訂はGit履歴を参照。"
+  "release_assets": [
+    {
+      "name": "NEW11_Nanami_20261101.mp4",
+      "sha256": "5625956a2174bc7fa86c2d3d737af2e0c5206c35c8978e2376e2417477b72274",
+      "bytes": 51930166
+    },
+    {
+      "name": "NEW11_Nanami_20261101.mp3",
+      "sha256": "a5fc88154f366488ec2a1b88557e0b4b6453d3f68319fcb6e207d47fa5e689bf",
+      "bytes": 22847172
+    },
+    {
+      "name": "NEW11_Nanami_20261101.srt",
+      "sha256": "c4cad3bac867dd7a55eaa1e07015d449d99f68b913cbf2f9b428b18101a98c78",
+      "bytes": 36878
+    },
+    {
+      "name": "NEW11_Nanami_20261101.vtt",
+      "sha256": "87b489294ad096b0598491272f29ddf7850b471a1e82c3653641bdf0c1689af3",
+      "bytes": 35583
+    }
+  ],
+  "video_release": "new-lecture11-20261101-expanded",
+  "source_sha": "7107a78d9c68766ee4bacf518b8ad656afd54159"
 }
