@@ -1,34 +1,60 @@
 {
-  "updated_jst": "2026-11-01 14:31",
-  "title": "樹木・木材の進化史と人類史",
-  "pages": 96,
-  "video_seconds": 5592.936,
-  "video_display": "93:13",
-  "video_release": "new-lecture11-20261101-map-climate",
+  "updated_jst": "2026-11-01 16:12",
+  "title": "接着・塗装と木質材料の設計",
+  "lesson": 11,
+  "previous_lesson": 13,
+  "pages": 95,
+  "video_seconds": 5314.532,
+  "video_display": "88:34",
+  "video_release": "lecture11-20261101-renumbered",
   "human_full_listening": false,
-  "lecture_minutes_target": 90,
-  "video_within_one_minute_of_target": false,
   "files": [
     {
       "name": "11_授業スライド_20261101.pdf",
-      "sha256": "b5aedfcdb15967cb3547d20da9145e3d38e35e3e491299b06a1e20b6be888146",
-      "bytes": 3668385
+      "bytes": 3191526,
+      "sha256": "dd8c8f85a5afeb7d8c0aea01057fb1eb7ba5fba4d8acc94ba1c87edb511717c3"
     },
     {
       "name": "11_授業スライド_20261101.pptx",
-      "sha256": "4021de5db384759d3dfc86df576fad41b811af94f54b39f924dce6728b5a6ad9",
-      "bytes": 8951363
+      "bytes": 9970409,
+      "sha256": "e4a39967754bd4da94a7179143b4d66e762c74a1d14be776e9ccb3faa10435bd"
     },
     {
       "name": "11_授業動画_20261101.srt",
-      "sha256": "546eeedf052628514f8433ac8c1166f5f8ce518b00b274830944aa83c96b0157",
-      "bytes": 109574
+      "bytes": 100385,
+      "sha256": "e9288315e86097ff18cb77d2be2c9fcfe837ce48a5c73a7b92fe1aff409278e8"
     },
     {
       "name": "11_授業動画_20261101.vtt",
-      "sha256": "2daf1db2cf83c9dba5bbe50dab73d4a42947357aef1fd3a77e30b268f4618ca7",
-      "bytes": 105564
+      "bytes": 96795,
+      "sha256": "704ad3621c6eb90ad3c666dd8c8b311db87450927e4fcfbe028b7e70a3a6d280"
+    },
+    {
+      "name": "11_接着・塗装の実践ガイド.pdf",
+      "bytes": 198241,
+      "sha256": "305f64291e0b3874106c2535a38e11b6ad053eb3dba00ce21fa4314354d5aae4"
     }
   ],
-  "release_assets": []
+  "release_assets": [
+    {
+      "name": "W11_Nanami_20261101.mp3",
+      "bytes": 63775340,
+      "sha256": "c988926ef402eb5854538a1e5620e05c02fda45e8d4d6d0340fefb8523d9eb7f"
+    },
+    {
+      "name": "W11_Nanami_20261101.mp4",
+      "bytes": 191612619,
+      "sha256": "dc861d4cab9789473830da9af233314cf7b36c4cc3d2b2507c1b45e0a2ece0ad"
+    },
+    {
+      "name": "W11_Nanami_20261101.srt",
+      "bytes": 100385,
+      "sha256": "e9288315e86097ff18cb77d2be2c9fcfe837ce48a5c73a7b92fe1aff409278e8"
+    },
+    {
+      "name": "W11_Nanami_20261101.vtt",
+      "bytes": 96795,
+      "sha256": "704ad3621c6eb90ad3c666dd8c8b311db87450927e4fcfbe028b7e70a3a6d280"
+    }
+  ]
 }

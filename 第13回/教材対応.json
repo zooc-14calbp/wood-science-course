@@ -1,60 +1,55 @@
 {
-  "updated_jst": "2026-11-01 15:21",
-  "title": "接着・塗装と木質材料の設計",
-  "pages": 95,
-  "video_seconds": 5314.508,
-  "video_display": "88:34",
-  "video_release": "lecture13-20261101-expanded",
+  "updated_jst": "2026-11-01 16:12",
+  "title": "加工・材料選択と技術科への統合",
+  "lesson": 13,
+  "previous_lesson": 15,
+  "pages": 25,
+  "video_seconds": 1204.492,
+  "video_display": "20:04",
+  "video_release": "lecture13-20261101-renumbered",
   "human_full_listening": false,
-  "lecture_minutes_target": 90,
-  "duration_accepted_by_instructor": true,
   "files": [
     {
       "name": "13_授業スライド_20261101.pdf",
-      "bytes": 3191530,
-      "sha256": "5c14dc39bc125b56a86e04babf7fae62cd2a6b028d2b2a51a1ef376e49b070ef"
+      "bytes": 1009921,
+      "sha256": "3ca834035a309bfe7e85597a140273a75a15f9c5e00fd242874c26bd7f95e04b"
     },
     {
       "name": "13_授業スライド_20261101.pptx",
-      "bytes": 9970367,
-      "sha256": "0c4f2a4bd71ba16ec2f414653e23680c2256214e0f049bcf51b7b4f0c6cfbda7"
+      "bytes": 135755,
+      "sha256": "30f96712fd0364a3e6dba0549f43bc49ec87487e523d30ba0d9784bfa98fd63b"
     },
     {
       "name": "13_授業動画_20261101.srt",
-      "bytes": 100385,
-      "sha256": "1255ee1c39e37f57f7c3ae87f0cbc9dcab9e9ba7796490ce5427f088af017ee7"
+      "bytes": 21276,
+      "sha256": "8d92d04af1524f6a46aaf34c1bccdef510b757bddd3855e622803b24f654863a"
     },
     {
       "name": "13_授業動画_20261101.vtt",
-      "bytes": 96795,
-      "sha256": "9adbd39a04afda49545338665563af7380c8a45644facf74faf98767d846c0af"
-    },
-    {
-      "name": "13_接着・塗装の実践ガイド.pdf",
-      "bytes": 197917,
-      "sha256": "e3d19c5bd173237b8a13258939bdda45851aa8fb565b57650fb2056b4ba33965"
+      "bytes": 20506,
+      "sha256": "53110042b7e62046c0772c345a036ac7db530daf8c3d7ee9e4a4d38f54d45355"
     }
   ],
   "release_assets": [
     {
-      "name": "W13_Nanami_20261101_expanded.mp3",
-      "bytes": 63775140,
-      "sha256": "30c65aca3c879fe1a6cb02e75c8ee762f6ccda14220cef05613de4af8d4dcc24"
+      "name": "W13_Nanami_20261101.mp3",
+      "bytes": 14455052,
+      "sha256": "b2abff0193dcc6074e3da09ecf0c9d3d3265e5ac51283e370c7fcc1602e02afb"
     },
     {
-      "name": "W13_Nanami_20261101_expanded.mp4",
-      "bytes": 191794342,
-      "sha256": "f450dd79e108805b5cf0cf681ba53e937ab57218d3dc7bcef4d577b2c65c25f8"
+      "name": "W13_Nanami_20261101.mp4",
+      "bytes": 34633109,
+      "sha256": "cf89a17f900e7e2e5b352698e335b9b50c2239b1a9ada961faa9ea7e205c0752"
     },
     {
-      "name": "W13_Nanami_20261101_expanded.srt",
-      "bytes": 100385,
-      "sha256": "1255ee1c39e37f57f7c3ae87f0cbc9dcab9e9ba7796490ce5427f088af017ee7"
+      "name": "W13_Nanami_20261101.srt",
+      "bytes": 21276,
+      "sha256": "8d92d04af1524f6a46aaf34c1bccdef510b757bddd3855e622803b24f654863a"
     },
     {
-      "name": "W13_Nanami_20261101_expanded.vtt",
-      "bytes": 96795,
-      "sha256": "9adbd39a04afda49545338665563af7380c8a45644facf74faf98767d846c0af"
+      "name": "W13_Nanami_20261101.vtt",
+      "bytes": 20506,
+      "sha256": "53110042b7e62046c0772c345a036ac7db530daf8c3d7ee9e4a4d38f54d45355"
     }
   ]
 }

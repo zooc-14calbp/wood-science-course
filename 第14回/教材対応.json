@@ -1,55 +1,55 @@
 {
-  "updated_jst": "2026-11-01 14:31",
-  "title": "木造の大規模利用と資源・環境",
-  "pages": 57,
-  "video_seconds": 2170.308,
-  "video_display": "36:10",
-  "video_release": "lecture14-20261101-restructured",
+  "updated_jst": "2026-11-01 16:12",
+  "title": "樹木・木材の進化史と人類史",
+  "lesson": 14,
+  "previous_lesson": 11,
+  "pages": 96,
+  "video_seconds": 5592.936,
+  "video_display": "93:12",
+  "video_release": "lecture14-20261101-renumbered",
   "human_full_listening": false,
-  "lecture_minutes_target": 90,
-  "video_within_one_minute_of_target": false,
   "files": [
     {
       "name": "14_授業スライド_20261101.pdf",
-      "sha256": "a5fb941fcda18d9a694e4ab523b79066a99f5e4f21841fae1bfe5d42f239b241",
-      "bytes": 2062104
+      "bytes": 3680450,
+      "sha256": "fe460c7689a659875b32fc9013dc5d7b29c3dc6326cb219c4c6235eeb5804c8e"
     },
     {
       "name": "14_授業スライド_20261101.pptx",
-      "sha256": "28d4c5303745119ab6db6b798f9e30f0aa097c558180e5c7c3b3534faefafee5",
-      "bytes": 12270985
+      "bytes": 8960316,
+      "sha256": "de9cb59b04893a840b4fda43ef1bb8e60eb6f743af0726d9dc39dd23cb4bce33"
     },
     {
       "name": "14_授業動画_20261101.srt",
-      "sha256": "1639e15c26031a3bf3639279622541e898866af7269fa9e8e83620229a1aa3df",
-      "bytes": 37123
+      "bytes": 109570,
+      "sha256": "7b3907379710a4e4a7fad07baab77e10649bb02a7f7aa15388d21b00b8b3e95c"
     },
     {
       "name": "14_授業動画_20261101.vtt",
-      "sha256": "6c25317bd5eab272c562a68235475f96cf738985749125fb8f339d420f7a8900",
-      "bytes": 35698
+      "bytes": 105560,
+      "sha256": "39da15cdd45723d077be37c50f68cf7c1535f2b6f4fe33f9f1ae4bf685fa748e"
     }
   ],
   "release_assets": [
     {
-      "name": "W14_Nanami_20261101.mp4",
-      "sha256": "ef2e2fe8c59274c768965433a61c230ff57220ca06bf85196521010734b66514",
-      "bytes": 74830267
+      "name": "W14_Nanami_20261101.mp3",
+      "bytes": 67116140,
+      "sha256": "4cb1f67098d3bcc32c5083a6deb52b6e1bf9e9e36e1ba6530477e6ba76c4d760"
     },
     {
-      "name": "W14_Nanami_20261101.mp3",
-      "sha256": "8d2ad543b08a943426101c89e7c4e8ee6374f970b2b4dbaf4a3466af53dbdeeb",
-      "bytes": 26044839
+      "name": "W14_Nanami_20261101.mp4",
+      "bytes": 190545652,
+      "sha256": "51014bb7b5536c75c0846a0cf2772c70b514d33e547c4fbd2da5ed98e67ba238"
     },
     {
       "name": "W14_Nanami_20261101.srt",
-      "sha256": "1639e15c26031a3bf3639279622541e898866af7269fa9e8e83620229a1aa3df",
-      "bytes": 37123
+      "bytes": 109570,
+      "sha256": "7b3907379710a4e4a7fad07baab77e10649bb02a7f7aa15388d21b00b8b3e95c"
     },
     {
       "name": "W14_Nanami_20261101.vtt",
-      "sha256": "6c25317bd5eab272c562a68235475f96cf738985749125fb8f339d420f7a8900",
-      "bytes": 35698
+      "bytes": 105560,
+      "sha256": "39da15cdd45723d077be37c50f68cf7c1535f2b6f4fe33f9f1ae4bf685fa748e"
     }
   ]
 }
