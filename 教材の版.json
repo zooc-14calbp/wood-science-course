@@ -1,66 +1,97 @@
 {
   "baseline": "2026-11-04",
+  "edition": "視聴配色版",
   "policy": "今年度の学生使用版。必要な訂正は継続する。",
   "lessons": [
     {
       "lesson": 1,
-      "pptx": "第01回/01_授業スライド_20261104.pptx"
+      "pptx": "第01回/01_授業スライド_視聴配色_20261104.pptx",
+      "pdf": "第01回/01_授業スライド_視聴配色_20261104.pdf",
+      "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261104-viewing-colors/W01_Nanami_20261104_viewing.mp4"
     },
     {
       "lesson": 2,
-      "pptx": "第02回/02_授業スライド_20261104.pptx"
+      "pptx": "第02回/02_授業スライド_視聴配色_20261104.pptx",
+      "pdf": "第02回/02_授業スライド_視聴配色_20261104.pdf",
+      "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture02-20261104-viewing-colors/W02_Nanami_20261104_viewing.mp4"
     },
     {
       "lesson": 3,
-      "pptx": "第03回/03_授業スライド_20261104.pptx"
+      "pptx": "第03回/03_授業スライド_視聴配色_20261104.pptx",
+      "pdf": "第03回/03_授業スライド_視聴配色_20261104.pdf",
+      "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture03-20261104-viewing-colors/W03_Nanami_20261104_viewing.mp4"
     },
     {
       "lesson": 4,
-      "pptx": "第04回/04_授業スライド_20261104.pptx"
+      "pptx": "第04回/04_授業スライド_視聴配色_20261104.pptx",
+      "pdf": "第04回/04_授業スライド_視聴配色_20261104.pdf",
+      "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture04-20261104-viewing-colors/W04_Nanami_20261104_viewing.mp4"
     },
     {
       "lesson": 5,
-      "pptx": "第05回/05_授業スライド_20261104.pptx"
+      "pptx": "第05回/05_授業スライド_視聴配色_20261104.pptx",
+      "pdf": "第05回/05_授業スライド_視聴配色_20261104.pdf",
+      "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture05-20261104-viewing-colors/W05_Nanami_20261104_viewing.mp4"
     },
     {
       "lesson": 6,
-      "pptx": "第06回/06_授業スライド_20261101.pptx"
+      "pptx": "第06回/06_授業スライド_視聴配色_20261104.pptx",
+      "pdf": "第06回/06_授業スライド_視聴配色_20261104.pdf",
+      "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture06-20261104-viewing-colors/W06_Nanami_20261104_viewing.mp4"
     },
     {
       "lesson": 7,
-      "pptx": "第07回/07_授業スライド_20261101.pptx"
+      "pptx": "第07回/07_授業スライド_視聴配色_20261104.pptx",
+      "pdf": "第07回/07_授業スライド_視聴配色_20261104.pdf",
+      "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture07-20261104-viewing-colors/W07_Nanami_20261104_viewing.mp4"
     },
     {
       "lesson": 8,
-      "pptx": "第08回/08_授業スライド_20261104.pptx"
+      "pptx": "第08回/08_授業スライド_視聴配色_20261104.pptx",
+      "pdf": "第08回/08_授業スライド_視聴配色_20261104.pdf",
+      "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture08-20261104-viewing-colors/W08_Nanami_20261104_viewing.mp4"
     },
     {
       "lesson": 9,
-      "pptx": "第09回/09_授業スライド_20261104.pptx"
+      "pptx": "第09回/09_授業スライド_視聴配色_20261104.pptx",
+      "pdf": "第09回/09_授業スライド_視聴配色_20261104.pdf",
+      "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture09-20261104-viewing-colors/W09_Nanami_20261104_viewing.mp4"
     },
     {
       "lesson": 10,
-      "pptx": "第10回/10_授業スライド_20261104.pptx"
+      "pptx": "第10回/10_授業スライド_視聴配色_20261104.pptx",
+      "pdf": "第10回/10_授業スライド_視聴配色_20261104.pdf",
+      "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture10-20261104-viewing-colors/W10_Nanami_20261104_viewing.mp4"
     },
     {
       "lesson": 11,
-      "pptx": "第11回/11_授業スライド_20261104.pptx"
+      "pptx": "第11回/11_授業スライド_視聴配色_20261104.pptx",
+      "pdf": "第11回/11_授業スライド_視聴配色_20261104.pdf",
+      "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture11-20261104-viewing-colors/W11_Nanami_20261104_viewing.mp4"
     },
     {
       "lesson": 12,
-      "pptx": "第12回/12_授業スライド_20261104.pptx"
+      "pptx": "第12回/12_授業スライド_視聴配色_20261104.pptx",
+      "pdf": "第12回/12_授業スライド_視聴配色_20261104.pdf",
+      "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture12-20261104-viewing-colors/W12_Nanami_20261104_viewing.mp4"
     },
     {
       "lesson": 13,
-      "pptx": "第13回/13_授業スライド_20261101.pptx"
+      "pptx": "第13回/13_授業スライド_視聴配色_20261104.pptx",
+      "pdf": "第13回/13_授業スライド_視聴配色_20261104.pdf",
+      "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-20261104-viewing-colors/W13_Nanami_20261104_viewing.mp4"
     },
     {
       "lesson": 14,
-      "pptx": "第14回/14_授業スライド_20261104.pptx"
+      "pptx": "第14回/14_授業スライド_視聴配色_20261104.pptx",
+      "pdf": "第14回/14_授業スライド_視聴配色_20261104.pdf",
+      "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture14-20261104-viewing-colors/W14_Nanami_20261104_viewing.mp4"
     },
     {
       "lesson": 15,
-      "pptx": "第15回/15_授業スライド_20261104.pptx"
+      "pptx": "第15回/15_授業スライド_視聴配色_20261104.pptx",
+      "pdf": "第15回/15_授業スライド_視聴配色_20261104.pdf",
+      "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture15-20261104-viewing-colors/W15_Nanami_20261104_viewing.mp4"
     }
   ]
 }

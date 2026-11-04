@@ -1,55 +1,34 @@
 {
-  "updated_jst": "2026-11-04 13:00",
+  "updated_jst": "2026-11-04 13:48",
   "lesson": 11,
   "title": "接着・塗装と木質材料の設計",
   "pages": 95,
+  "edition": "2026-11-04-viewing-colors",
   "video_seconds": 5339.252,
   "video_display": "88:59",
-  "video_release": "lecture11-20261104-student-final",
-  "wait_seconds": 0,
-  "media_changed": true,
+  "video_release": "lecture11-20261104-viewing-colors",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture11-20261104-viewing-colors/W11_Nanami_20261104_viewing.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture11-20261104-student-final/W11_Nanami_20261104_final.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture11-20261104-student-final/W11_Nanami_20261104_final.mp3",
+  "subtitle_urls": {
+    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture11-20261104-student-final/W11_Nanami_20261104_final.srt",
+    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture11-20261104-student-final/W11_Nanami_20261104_final.vtt"
+  },
   "files": [
     {
-      "name": "11_授業スライド_20261104.pdf",
-      "bytes": 3192966,
-      "sha256": "f9fd73e824f0d77e4c5ea4f3ad48ba8933ca8ecea6b3d653d4b321af7d082ea0"
+      "name": "11_授業スライド_視聴配色_20261104.pptx",
+      "bytes": 9973593,
+      "sha256": "17c90e9f9e97a68ffc536ebf028cda8c78cbb3d1df3210fb30831e9108b6d99c"
     },
     {
-      "name": "11_授業スライド_20261104.pptx",
-      "bytes": 9970449,
-      "sha256": "5551730c4a60cf4edd43ea44d07c0b34d9e8e288e2602f1ba23ff97a78c33093"
-    },
-    {
-      "name": "11_授業動画_20261104.srt",
-      "bytes": 100936,
-      "sha256": "8fc6bbce4009a24ca490480dcc761e302f071204e20cd4e442745d8bdfde302c"
-    },
-    {
-      "name": "11_授業動画_20261104.vtt",
-      "bytes": 97321,
-      "sha256": "ca0ecb7dc79896cd6686aebca6f5c8f85a65e5f2bb1e7a93e5e447d9c7e6d001"
+      "name": "11_授業スライド_視聴配色_20261104.pdf",
+      "bytes": 3193646,
+      "sha256": "9092cbf10e705e3d31443e9ea32c64d35b634b85bfde3824bded823b4ed59139"
     }
   ],
-  "release_assets": [
-    {
-      "name": "W11_Nanami_20261104_final.mp3",
-      "bytes": 64071980,
-      "sha256": "ac69bf3a4e7f80d59347246b353c6cadbd53c22183a41bbd6242baf60e03b344"
-    },
-    {
-      "name": "W11_Nanami_20261104_final.mp4",
-      "bytes": 193047428,
-      "sha256": "5ccae9c3dea536914f4aa1b66f354d49344ee4ef300d58d93e248572dd8ce2fc"
-    },
-    {
-      "name": "W11_Nanami_20261104_final.srt",
-      "bytes": 100936,
-      "sha256": "8fc6bbce4009a24ca490480dcc761e302f071204e20cd4e442745d8bdfde302c"
-    },
-    {
-      "name": "W11_Nanami_20261104_final.vtt",
-      "bytes": 97321,
-      "sha256": "ca0ecb7dc79896cd6686aebca6f5c8f85a65e5f2bb1e7a93e5e447d9c7e6d001"
-    }
-  ]
+  "video_asset": {
+    "name": "W11_Nanami_20261104_viewing.mp4",
+    "sha256": "0a0f99181869a6ed60d5e2e8be5062c7ad1cfbc1b72adb9f97dbc717b58df6b3",
+    "bytes": 191210100
+  }
 }

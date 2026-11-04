@@ -1,56 +1,34 @@
 {
-  "updated_jst": "2026-11-04 10:33",
-  "title": "導入と外観的構造",
+  "updated_jst": "2026-11-04 13:48",
   "lesson": 1,
+  "title": "導入と外観的構造",
   "pages": 37,
+  "edition": "2026-11-04-viewing-colors",
   "video_seconds": 5398.229375,
   "video_display": "89:58",
-  "video_release": "lecture01-20261104-proofread",
-  "human_full_listening": false,
-  "wait_seconds": 328.89041811270056,
-  "content_review": "2026-11-04 全37ページ・全説明台本を校正",
+  "video_release": "lecture01-20261104-viewing-colors",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261104-viewing-colors/W01_Nanami_20261104_viewing.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261104-proofread/W01_Nanami_20261104.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261104-proofread/W01_Nanami_20261104.mp3",
+  "subtitle_urls": {
+    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261104-proofread/W01_Nanami_20261104.srt",
+    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261104-proofread/W01_Nanami_20261104.vtt"
+  },
   "files": [
     {
-      "name": "01_授業スライド_20261104.pdf",
-      "bytes": 2337145,
-      "sha256": "c614f4fa72c68cd9af7bc76e2f6399ac9911114b3a2e5f79058610898d009b16"
+      "name": "01_授業スライド_視聴配色_20261104.pptx",
+      "bytes": 2431526,
+      "sha256": "691c5f698ec39309d71fb95cf8574e6e055e0b8e7e61d453c6097adeefe19ae7"
     },
     {
-      "name": "01_授業スライド_20261104.pptx",
-      "bytes": 2430226,
-      "sha256": "f38f583179a1e9ca5aa1fc1f92cc5c6a2bc35a30196ed1a826a22f13cbba4ff0"
-    },
-    {
-      "name": "01_授業動画_20261104.srt",
-      "bytes": 102977,
-      "sha256": "8882181961ff7ce28edc106ebcb26efb40dfe21081f053cf75bea3c230b00b58"
-    },
-    {
-      "name": "01_授業動画_20261104.vtt",
-      "bytes": 99172,
-      "sha256": "87b380407a71f90c344ec5f047af5d306c87dd430e2e3ddfb6277c08c334b0cb"
+      "name": "01_授業スライド_視聴配色_20261104.pdf",
+      "bytes": 2337510,
+      "sha256": "2b12530102e44cd7218ecd351b34c194050bd3aa3153e09cd22727a62d93ed5c"
     }
   ],
-  "release_assets": [
-    {
-      "name": "W01_Nanami_20261104.mp3",
-      "bytes": 64779884,
-      "sha256": "5593915981dfd5fa68a0b860ed35454cad5427e9d70c38de938146954b7ad88b"
-    },
-    {
-      "name": "W01_Nanami_20261104.mp4",
-      "bytes": 218014620,
-      "sha256": "b6427def51bcffe57293884b1ee605c83ee3224c54e0b1a2e96112cd0e0f1432"
-    },
-    {
-      "name": "W01_Nanami_20261104.srt",
-      "bytes": 102977,
-      "sha256": "8882181961ff7ce28edc106ebcb26efb40dfe21081f053cf75bea3c230b00b58"
-    },
-    {
-      "name": "W01_Nanami_20261104.vtt",
-      "bytes": 99172,
-      "sha256": "87b380407a71f90c344ec5f047af5d306c87dd430e2e3ddfb6277c08c334b0cb"
-    }
-  ]
+  "video_asset": {
+    "name": "W01_Nanami_20261104_viewing.mp4",
+    "sha256": "f2f15e8c3388f108c86903406a48d314c16307d6a191a1e869fed9421a7259b2",
+    "bytes": 216827870
+  }
 }

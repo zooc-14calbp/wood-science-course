@@ -1,55 +1,34 @@
 {
-  "updated_jst": "2026-11-04 13:00",
+  "updated_jst": "2026-11-04 13:48",
   "lesson": 5,
   "title": "強度と物性値",
   "pages": 35,
+  "edition": "2026-11-04-viewing-colors",
   "video_seconds": 5479.816,
   "video_display": "91:19",
-  "video_release": "lecture05-20261104-student-final",
-  "wait_seconds": 1514.3090380000003,
-  "media_changed": true,
+  "video_release": "lecture05-20261104-viewing-colors",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture05-20261104-viewing-colors/W05_Nanami_20261104_viewing.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture05-20261104-student-final/W05_Nanami_20261104_final.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture05-20261104-student-final/W05_Nanami_20261104_final.mp3",
+  "subtitle_urls": {
+    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture05-20261104-student-final/W05_Nanami_20261104_final.srt",
+    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture05-20261104-student-final/W05_Nanami_20261104_final.vtt"
+  },
   "files": [
     {
-      "name": "05_授業スライド_20261104.pdf",
-      "bytes": 1043028,
-      "sha256": "b672cb23ee8701fd5aac7849be5374e675aa2b0e9cd5efb5b5ae9b7c03a86944"
+      "name": "05_授業スライド_視聴配色_20261104.pptx",
+      "bytes": 189010,
+      "sha256": "97a9ca0d11b9055c11e9ec2a39ef4dfd52a8de75b2d2139dcbc5d025912ed9c7"
     },
     {
-      "name": "05_授業スライド_20261104.pptx",
-      "bytes": 188960,
-      "sha256": "60b2fd0cfe28fc9e0c6da7263d50f7084530a298e7bafda8b129c31dd7998b6b"
-    },
-    {
-      "name": "05_授業動画_20261104.srt",
-      "bytes": 80810,
-      "sha256": "52c256e8a0229fde6d5dcf9dd8c9c97836334cba75aa525629f3f64ab4e8f28d"
-    },
-    {
-      "name": "05_授業動画_20261104.vtt",
-      "bytes": 77820,
-      "sha256": "a69dcbe0525bbdbc8cacf3c973673fa55673ef090130c7049694f0f4035b0cb4"
+      "name": "05_授業スライド_視聴配色_20261104.pdf",
+      "bytes": 1043322,
+      "sha256": "b7e441efe709712e1bc36a53c1eab904e1fe8e1fbb8883249a90ac8751e1cf0a"
     }
   ],
-  "release_assets": [
-    {
-      "name": "W05_Nanami_20261104_final.mp3",
-      "bytes": 65758796,
-      "sha256": "d291d848b462070191c8cb6a30b813fedc8bdcdc686490715371feb33d3f7ae8"
-    },
-    {
-      "name": "W05_Nanami_20261104_final.mp4",
-      "bytes": 144667868,
-      "sha256": "f52cc5b9ea82c642dfc78c03000e78969447af7293cc6476a1d1f1068e0e1294"
-    },
-    {
-      "name": "W05_Nanami_20261104_final.srt",
-      "bytes": 80810,
-      "sha256": "52c256e8a0229fde6d5dcf9dd8c9c97836334cba75aa525629f3f64ab4e8f28d"
-    },
-    {
-      "name": "W05_Nanami_20261104_final.vtt",
-      "bytes": 77820,
-      "sha256": "a69dcbe0525bbdbc8cacf3c973673fa55673ef090130c7049694f0f4035b0cb4"
-    }
-  ]
+  "video_asset": {
+    "name": "W05_Nanami_20261104_viewing.mp4",
+    "sha256": "6356618a48291916941ff3b8ccce7b8e2614f15ccd43f469e139e3852cc60360",
+    "bytes": 142967626
+  }
 }

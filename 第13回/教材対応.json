@@ -1,56 +1,34 @@
 {
-  "updated_jst": "2026-11-01 17:18",
-  "title": "加工・材料選択と技術科への統合",
+  "updated_jst": "2026-11-04 13:48",
   "lesson": 13,
-  "previous_lesson": 15,
+  "title": "加工・材料選択と技術科への統合",
   "pages": 82,
+  "edition": "2026-11-04-viewing-colors",
   "video_seconds": 5327.32,
   "video_display": "88:47",
-  "video_release": "lecture13-20261101-expanded-final",
-  "human_full_listening": false,
-  "lecture_minutes_target": 90,
+  "video_release": "lecture13-20261104-viewing-colors",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-20261104-viewing-colors/W13_Nanami_20261104_viewing.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-20261101-expanded-final/W13_Nanami_20261101_expanded.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-20261101-expanded-final/W13_Nanami_20261101_expanded.mp3",
+  "subtitle_urls": {
+    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-20261101-expanded-final/W13_Nanami_20261101_expanded.srt",
+    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-20261101-expanded-final/W13_Nanami_20261101_expanded.vtt"
+  },
   "files": [
     {
-      "name": "13_授業スライド_20261101.pdf",
-      "bytes": 1679717,
-      "sha256": "6b4c013bddf006810bc608a90001be8495a6114ac2fbd99d344c6b0e9e2d7c92"
+      "name": "13_授業スライド_視聴配色_20261104.pptx",
+      "bytes": 464893,
+      "sha256": "68e6a047c7e8cc1d26e03530ef298211d86d742f4dd7386e7997873502c64b42"
     },
     {
-      "name": "13_授業スライド_20261101.pptx",
-      "bytes": 462181,
-      "sha256": "61b99546c1fafa429bd22b0697a91ec945fdb23cab6b6a73ffd88a9a6113963f"
-    },
-    {
-      "name": "13_授業動画_20261101.srt",
-      "bytes": 103811,
-      "sha256": "6155dc9bc0b5e1dfd4ae3f3d9fe9930d4d7ce603dbfb4a960531b25b3ac8239b"
-    },
-    {
-      "name": "13_授業動画_20261101.vtt",
-      "bytes": 100066,
-      "sha256": "f85e1fb509cc4a086dc0da0018ad4f4c41dbaa661cca909fedb4b65fa544088f"
+      "name": "13_授業スライド_視聴配色_20261104.pdf",
+      "bytes": 1680214,
+      "sha256": "b0f5d1e59d1b784a0e5b9a7a9e09e0ac0b0d2eebd71a01f6010433b1e4753be6"
     }
   ],
-  "release_assets": [
-    {
-      "name": "W13_Nanami_20261101_expanded.mp3",
-      "bytes": 63928938,
-      "sha256": "477815b2f0dba4cb36596628bbe43a6fa65557848665e53a3dc1b7fd2d34f580"
-    },
-    {
-      "name": "W13_Nanami_20261101_expanded.mp4",
-      "bytes": 182074942,
-      "sha256": "944c21fad7680ac242e1af24bdaa2939648e02541d44156f40dfa592c2255a04"
-    },
-    {
-      "name": "W13_Nanami_20261101_expanded.srt",
-      "bytes": 103811,
-      "sha256": "6155dc9bc0b5e1dfd4ae3f3d9fe9930d4d7ce603dbfb4a960531b25b3ac8239b"
-    },
-    {
-      "name": "W13_Nanami_20261101_expanded.vtt",
-      "bytes": 100066,
-      "sha256": "f85e1fb509cc4a086dc0da0018ad4f4c41dbaa661cca909fedb4b65fa544088f"
-    }
-  ]
+  "video_asset": {
+    "name": "W13_Nanami_20261104_viewing.mp4",
+    "sha256": "390f23d58f7f6a8955d296051224a622cda1ebb5fb2b252432fe1f414d375b35",
+    "bytes": 180171879
+  }
 }

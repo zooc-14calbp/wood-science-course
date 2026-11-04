@@ -1,24 +1,34 @@
 {
-  "updated_jst": "2026-11-04 13:00",
+  "updated_jst": "2026-11-04 13:48",
   "lesson": 9,
   "title": "水分と寸法変化",
   "pages": 35,
+  "edition": "2026-11-04-viewing-colors",
   "video_seconds": 5541.300666666667,
   "video_display": "92:21",
-  "video_release": "lecture09-20261101-revised",
-  "wait_seconds": 2617.653288666666,
-  "media_changed": false,
+  "video_release": "lecture09-20261104-viewing-colors",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture09-20261104-viewing-colors/W09_Nanami_20261104_viewing.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture09-20261101-revised/W09_Nanami_20261101.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture09-20261101-revised/W09_Nanami_20261101.mp3",
+  "subtitle_urls": {
+    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture09-20261101-revised/W09_Nanami_20261101.srt",
+    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture09-20261101-revised/W09_Nanami_20261101.vtt"
+  },
   "files": [
     {
-      "name": "09_授業スライド_20261104.pdf",
-      "bytes": 1063759,
-      "sha256": "3f2fd28b708ce92de55313bad6d1707ac0cb12c57a95e361beab2c3e594dbcbf"
+      "name": "09_授業スライド_視聴配色_20261104.pptx",
+      "bytes": 181539,
+      "sha256": "1ed844e480e142c3613398decc4c8aeed9b97202f49b4b82aadf5dd572fe382a"
     },
     {
-      "name": "09_授業スライド_20261104.pptx",
-      "bytes": 181448,
-      "sha256": "6469a23acf3a118997361d045c2a4a60039d51b2e4eb6b7228cf012f1547bab1"
+      "name": "09_授業スライド_視聴配色_20261104.pdf",
+      "bytes": 1064041,
+      "sha256": "c87b2891eeec76add3ff96884f5dc7c823db3062320fe1672ee8c20355343b8d"
     }
   ],
-  "release_assets": []
+  "video_asset": {
+    "name": "W09_Nanami_20261104_viewing.mp4",
+    "sha256": "7e6cb914834c50d3a92eb2ba07713171a84b10f94716e4635fe2dd151fb0ac6a",
+    "bytes": 144033730
+  }
 }
