@@ -12,7 +12,7 @@
 
 | 回 | タイトル | 教材（PDF・PowerPoint・ガイド・動画） | 最終更新日時（JST） |
 |---|---|---|---|
-| 01 | 導入と外観的構造 | [PDF](第01回/01_授業スライド_20261101.pdf)・[PowerPoint](第01回/01_授業スライド_20261101.pptx)・[学習ガイド](第01回/学習ガイド.md)・[動画 91:46](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261101-revised/W01_Nanami_20261101.mp4)・[音声・字幕](第01回/README.md) | 2026-11-01 11:18 |
+| 01 | 導入と外観的構造 | [PDF](第01回/01_授業スライド_20261104.pdf)・[PowerPoint](第01回/01_授業スライド_20261104.pptx)・[学習ガイド](第01回/学習ガイド.md)・[動画 89:58](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261104-proofread/W01_Nanami_20261104.mp4)・[音声・字幕](第01回/README.md) | 2026-11-04 10:33 |
 | 02 | 組織と年輪 | [PDF](第02回/02_授業スライド_20261101.pdf)・[PowerPoint](第02回/02_授業スライド_20261101.pptx)・[学習ガイド](第02回/学習ガイド.md)・[動画 90:55](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture02-20261101-revised/W02_Nanami_20261101.mp4)・[音声・字幕](第02回/README.md) | 2026-11-01 11:18 |
 | 03 | 超微細構造 | [PDF](第03回/03_授業スライド_20261101.pdf)・[PowerPoint](第03回/03_授業スライド_20261101.pptx)・[学習ガイド](第03回/学習ガイド.md)・[動画 91:19](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture03-20261101-revised/W03_Nanami_20261101.mp4)・[音声・字幕](第03回/README.md) | 2026-11-01 11:18 |
 | 04 | 主要構成成分 | [PDF](第04回/04_授業スライド_20261101.pdf)・[PowerPoint](第04回/04_授業スライド_20261101.pptx)・[学習ガイド](第04回/学習ガイド.md)・[動画 91:28](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture04-20261101-revised/W04_Nanami_20261101.mp4)・[音声・字幕](第04回/README.md) | 2026-11-01 11:18 |
@@ -56,6 +56,8 @@
 PDF版は閲覧用です。Wordフォームに入力し、PDFとして保存して提出します。動画中の自己確認と正式課題は区別してください。
 
 ## 改訂情報
+
+- 2026年11月4日：第1回を校正。構成表・模式図・計算の足場・説明台本を整え、動画・音声・字幕を同期。37ページ、89分58秒。
 
 - 2026年11月1日：第13回を82ページ・動画88:47へ増補し、動画・音声・字幕を同期。毎週の受講確認票と、学習前の確認を追加。番号変更に伴う受講方法・参照表を修正。
 

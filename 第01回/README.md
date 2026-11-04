@@ -1,33 +1,31 @@
-# 第1回　導入と外観的構造
+# 第1回 導入と外観的構造
 
-**2026年11月1日版：動画・音声・字幕を新版スライドに合わせて更新しました。**
+**2026年11月4日校正版：37ページ・動画89:58。** 全15回の構成表を現行の番号へ修正し、幹の構造と棒の引張りの図、説明台本、動画・音声・字幕を整えました。
 
 ## 最初に開くもの
 
-1. [動画（MP4・91:46）](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261101-revised/W01_Nanami_20261101.mp4)
-2. [スライドPDF（37ページ）](01_授業スライド_20261101.pdf) ／ [PowerPoint](01_授業スライド_20261101.pptx)
-3. [学習ガイド・自己確認](学習ガイド.md)
+1. [動画（MP4・89:58）](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261104-proofread/W01_Nanami_20261104.mp4)
+2. [スライドPDF](01_授業スライド_20261104.pdf) ／ [PowerPoint](01_授業スライド_20261104.pptx)
+3. [学習ガイド・自己確認の解説](学習ガイド.md)
 4. [動画の目次とPDFページ対応](動画の目次.md)
 
-動画がブラウザーで再生されない場合はダウンロードしてください。[配信ページ](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture01-20261101-revised)のAssetsからも取得できます。
+動画がブラウザーで再生されない場合はダウンロードしてください。[配信ページ](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture01-20261104-proofread)のAssetsからも取得できます。
 
 ## 音声・字幕と演習
 
-- [音声のみ（MP3）](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261101-revised/W01_Nanami_20261101.mp3)
-- [字幕（SRT）](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261101-revised/W01_Nanami_20261101.srt) ／ [字幕（VTT）](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261101-revised/W01_Nanami_20261101.vtt)
+- [音声のみ（MP3）](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261104-proofread/W01_Nanami_20261104.mp3)
+- [字幕（SRT）](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261104-proofread/W01_Nanami_20261104.srt) ／ [字幕（VTT）](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261104-proofread/W01_Nanami_20261104.vtt)
 
-音声はNanami、速度は標準の−5%です。日本語字幕は再生ソフトの字幕設定で表示できます。MP4には選択式字幕と章区切りを収録しています。
+音声はNanami、速度−5%。MP4に選択式日本語字幕と章区切りを収録しています。字幕は再生ソフトの設定から表示します。
 
-音声のない思考・休憩時間には、画面上部に目的・残り時間・再開時刻を表示します。MP3にも同じ待ち時間を含みます。動画は91:46で、必要に応じて一時停止して計算・作図・読解に取り組んでください。学修に要する時間と動画の再生時間は同じとは限りません。
+動画の89分58秒には、表示付きの思考・休憩時間約5分29秒を含みます。待機時間を増やす調整はしていません。MP3にも同じ待機時間を含みます。理解や計算・作図・読解に必要な時間は、動画の再生時間とは別に確保してください。
 
-ページ番号は新版PDFの順序です。画面内に残る旧番号とは区別してください。
+## 課題と受講確認
 
-## 課題と受講順
+正式課題の配信・提出・期限と受講時期はTeamsで確認します。[課題・専用フォーム・評価基準](../課題/README.md)。動画内の自己確認は追加の提出課題ではありません。A1は第4回後の内容に対応します。
 
-正式な課題の配信・提出・期限と、受講する回・時期はTeamsで確認します。[課題・専用フォーム・評価基準](../課題/README.md)。動画内の自己確認は追加の提出課題ではありません。新11～14回への切替もTeamsの案内に従ってください。
+[毎週の受講確認票](../受講確認/README.md)は、木曜日13時まで、前週から変更がなくてもTeamsへ提出します。
 
 [全15回の教材一覧](../README.md) ／ [受講方法](../受講方法.md)
 
-以前の記録：[旧版の動画配信ページ](https://github.com/zooc-14calbp/wood-science-course/releases/tag/lecture01-20261029-revised)。通常の受講には上記の2026年11月1日版を使用します。
-
-更新：2026-11-01 11:18（JST）
+更新：2026-11-04 10:33（JST）

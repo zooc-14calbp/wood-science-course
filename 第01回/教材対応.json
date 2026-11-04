@@ -1,0 +1,56 @@
+{
+  "updated_jst": "2026-11-04 10:33",
+  "title": "導入と外観的構造",
+  "lesson": 1,
+  "pages": 37,
+  "video_seconds": 5398.229375,
+  "video_display": "89:58",
+  "video_release": "lecture01-20261104-proofread",
+  "human_full_listening": false,
+  "wait_seconds": 328.89041811270056,
+  "content_review": "2026-11-04 全37ページ・全説明台本を校正",
+  "files": [
+    {
+      "name": "01_授業スライド_20261104.pdf",
+      "bytes": 2337145,
+      "sha256": "c614f4fa72c68cd9af7bc76e2f6399ac9911114b3a2e5f79058610898d009b16"
+    },
+    {
+      "name": "01_授業スライド_20261104.pptx",
+      "bytes": 2430226,
+      "sha256": "f38f583179a1e9ca5aa1fc1f92cc5c6a2bc35a30196ed1a826a22f13cbba4ff0"
+    },
+    {
+      "name": "01_授業動画_20261104.srt",
+      "bytes": 102977,
+      "sha256": "8882181961ff7ce28edc106ebcb26efb40dfe21081f053cf75bea3c230b00b58"
+    },
+    {
+      "name": "01_授業動画_20261104.vtt",
+      "bytes": 99172,
+      "sha256": "87b380407a71f90c344ec5f047af5d306c87dd430e2e3ddfb6277c08c334b0cb"
+    }
+  ],
+  "release_assets": [
+    {
+      "name": "W01_Nanami_20261104.mp3",
+      "bytes": 64779884,
+      "sha256": "5593915981dfd5fa68a0b860ed35454cad5427e9d70c38de938146954b7ad88b"
+    },
+    {
+      "name": "W01_Nanami_20261104.mp4",
+      "bytes": 218014620,
+      "sha256": "b6427def51bcffe57293884b1ee605c83ee3224c54e0b1a2e96112cd0e0f1432"
+    },
+    {
+      "name": "W01_Nanami_20261104.srt",
+      "bytes": 102977,
+      "sha256": "8882181961ff7ce28edc106ebcb26efb40dfe21081f053cf75bea3c230b00b58"
+    },
+    {
+      "name": "W01_Nanami_20261104.vtt",
+      "bytes": 99172,
+      "sha256": "87b380407a71f90c344ec5f047af5d306c87dd430e2e3ddfb6277c08c334b0cb"
+    }
+  ]
+}
