@@ -14,7 +14,7 @@
 |---|---|---|---|
 | 01 | 導入と外観的構造 | [PDF](第01回/01_授業スライド_20261104.pdf)・[PowerPoint](第01回/01_授業スライド_20261104.pptx)・[学習ガイド](第01回/学習ガイド.md)・[動画 89:58](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261104-proofread/W01_Nanami_20261104.mp4)・[音声・字幕](第01回/README.md) | 2026-11-04 10:33 |
 | 02 | 組織と年輪 | [PDF](第02回/02_授業スライド_20261104.pdf)・[PowerPoint](第02回/02_授業スライド_20261104.pptx)・[学習ガイド](第02回/学習ガイド.md)・[動画 90:38](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture02-20261104-proofread/W02_Nanami_20261104.mp4)・[音声・字幕](第02回/README.md) | 2026-11-04 11:05 |
-| 03 | 超微細構造 | [PDF](第03回/03_授業スライド_20261101.pdf)・[PowerPoint](第03回/03_授業スライド_20261101.pptx)・[学習ガイド](第03回/学習ガイド.md)・[動画 91:19](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture03-20261101-revised/W03_Nanami_20261101.mp4)・[音声・字幕](第03回/README.md) | 2026-11-01 11:18 |
+| 03 | 超微細構造 | [PDF](第03回/03_授業スライド_20261104.pdf)・[PowerPoint](第03回/03_授業スライド_20261104.pptx)・[学習ガイド](第03回/学習ガイド.md)・[動画 91:02](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture03-20261104-proofread/W03_Nanami_20261104.mp4)・[音声・字幕](第03回/README.md) | 2026-11-04 11:35 |
 | 04 | 主要構成成分 | [PDF](第04回/04_授業スライド_20261101.pdf)・[PowerPoint](第04回/04_授業スライド_20261101.pptx)・[学習ガイド](第04回/学習ガイド.md)・[動画 91:28](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture04-20261101-revised/W04_Nanami_20261101.mp4)・[音声・字幕](第04回/README.md) | 2026-11-01 11:18 |
 | 05 | 強度と物性値 | [PDF](第05回/05_授業スライド_20261101.pdf)・[PowerPoint](第05回/05_授業スライド_20261101.pptx)・[学習ガイド](第05回/学習ガイド.md)・[動画 91:11](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture05-20261101-revised/W05_Nanami_20261101.mp4)・[音声・字幕](第05回/README.md) | 2026-11-01 11:18 |
 | 06 | 異方性と欠点 | [PDF](第06回/06_授業スライド_20261101.pdf)・[PowerPoint](第06回/06_授業スライド_20261101.pptx)・[学習ガイド](第06回/学習ガイド.md)・[動画 91:18](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture06-20261101-revised/W06_Nanami_20261101.mp4)・[音声・字幕](第06回/README.md) | 2026-11-01 11:18 |
@@ -56,6 +56,8 @@
 PDF版は閲覧用です。Wordフォームに入力し、PDFとして保存して提出します。動画中の自己確認と正式課題は区別してください。
 
 ## 改訂情報
+
+- 2026年11月4日：第3回を校正。層の記号ML、倍率の図、棒の変形式、計算表と研究例を校正。動画・音声・字幕を同期。30ページ、91分02秒。
 
 - 2026年11月4日：第2回を校正。壁割合・密度の途中式、棒の図と数値例、ページ番号と台本を修正。動画・音声・字幕を同期。38ページ、90分38秒。
 

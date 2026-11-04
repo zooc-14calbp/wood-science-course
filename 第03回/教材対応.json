@@ -1,0 +1,56 @@
+{
+  "updated_jst": "2026-11-04 11:35",
+  "title": "超微細構造",
+  "lesson": 3,
+  "pages": 30,
+  "video_seconds": 5462.904,
+  "video_display": "91:02",
+  "video_release": "lecture03-20261104-proofread",
+  "human_full_listening": false,
+  "wait_seconds": 260.32108000000017,
+  "content_review": "2026-11-04 全30ページ・全説明台本を校正",
+  "files": [
+    {
+      "name": "03_授業スライド_20261104.pdf",
+      "bytes": 1237107,
+      "sha256": "a7cd30c63418bae2686a1c0f0d8f598f66dfafc1196430ec2f9ea5cfbae85701"
+    },
+    {
+      "name": "03_授業スライド_20261104.pptx",
+      "bytes": 457684,
+      "sha256": "046331b62add1fce530441c4187da5ac1696dd904661ed2846f0309e8e44c188"
+    },
+    {
+      "name": "03_授業動画_20261104.srt",
+      "bytes": 106042,
+      "sha256": "74ac8439ba668cfba84a2fa4dc00e35798ea5c07fb9553b01602d84b1d255609"
+    },
+    {
+      "name": "03_授業動画_20261104.vtt",
+      "bytes": 102097,
+      "sha256": "05512ba1ebff9a0591032e5848688e0ab3d23daad2d8c8b29f27da8b1187e53e"
+    }
+  ],
+  "release_assets": [
+    {
+      "name": "W03_Nanami_20261104.mp3",
+      "bytes": 65555756,
+      "sha256": "03930a495126ba1d0884929e571c3f974cf0be0877790aab3e9645be473777e1"
+    },
+    {
+      "name": "W03_Nanami_20261104.mp4",
+      "bytes": 190170763,
+      "sha256": "d6236198d45b2c80940d106f7a934f76089cd659b15c1d5c06f01f8278f50d2d"
+    },
+    {
+      "name": "W03_Nanami_20261104.srt",
+      "bytes": 106042,
+      "sha256": "74ac8439ba668cfba84a2fa4dc00e35798ea5c07fb9553b01602d84b1d255609"
+    },
+    {
+      "name": "W03_Nanami_20261104.vtt",
+      "bytes": 102097,
+      "sha256": "05512ba1ebff9a0591032e5848688e0ab3d23daad2d8c8b29f27da8b1187e53e"
+    }
+  ]
+}
