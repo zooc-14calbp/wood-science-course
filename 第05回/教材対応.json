@@ -1,0 +1,55 @@
+{
+  "updated_jst": "2026-11-04 13:00",
+  "lesson": 5,
+  "title": "強度と物性値",
+  "pages": 35,
+  "video_seconds": 5479.816,
+  "video_display": "91:19",
+  "video_release": "lecture05-20261104-student-final",
+  "wait_seconds": 1514.3090380000003,
+  "media_changed": true,
+  "files": [
+    {
+      "name": "05_授業スライド_20261104.pdf",
+      "bytes": 1043028,
+      "sha256": "b672cb23ee8701fd5aac7849be5374e675aa2b0e9cd5efb5b5ae9b7c03a86944"
+    },
+    {
+      "name": "05_授業スライド_20261104.pptx",
+      "bytes": 188960,
+      "sha256": "60b2fd0cfe28fc9e0c6da7263d50f7084530a298e7bafda8b129c31dd7998b6b"
+    },
+    {
+      "name": "05_授業動画_20261104.srt",
+      "bytes": 80810,
+      "sha256": "52c256e8a0229fde6d5dcf9dd8c9c97836334cba75aa525629f3f64ab4e8f28d"
+    },
+    {
+      "name": "05_授業動画_20261104.vtt",
+      "bytes": 77820,
+      "sha256": "a69dcbe0525bbdbc8cacf3c973673fa55673ef090130c7049694f0f4035b0cb4"
+    }
+  ],
+  "release_assets": [
+    {
+      "name": "W05_Nanami_20261104_final.mp3",
+      "bytes": 65758796,
+      "sha256": "d291d848b462070191c8cb6a30b813fedc8bdcdc686490715371feb33d3f7ae8"
+    },
+    {
+      "name": "W05_Nanami_20261104_final.mp4",
+      "bytes": 144667868,
+      "sha256": "f52cc5b9ea82c642dfc78c03000e78969447af7293cc6476a1d1f1068e0e1294"
+    },
+    {
+      "name": "W05_Nanami_20261104_final.srt",
+      "bytes": 80810,
+      "sha256": "52c256e8a0229fde6d5dcf9dd8c9c97836334cba75aa525629f3f64ab4e8f28d"
+    },
+    {
+      "name": "W05_Nanami_20261104_final.vtt",
+      "bytes": 77820,
+      "sha256": "a69dcbe0525bbdbc8cacf3c973673fa55673ef090130c7049694f0f4035b0cb4"
+    }
+  ]
+}

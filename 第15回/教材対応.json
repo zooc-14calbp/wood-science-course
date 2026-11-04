@@ -1,55 +1,55 @@
 {
-  "updated_jst": "2026-11-01 16:12",
-  "title": "日本の木の文化：森林管理と木造建築",
+  "updated_jst": "2026-11-04 13:00",
   "lesson": 15,
-  "previous_lesson": 12,
+  "title": "日本の木の文化：森林管理と木造建築",
   "pages": 102,
-  "video_seconds": 5378.784,
-  "video_display": "89:38",
-  "video_release": "lecture15-20261101-renumbered",
-  "human_full_listening": false,
+  "video_seconds": 5405.976,
+  "video_display": "90:05",
+  "video_release": "lecture15-20261104-student-final",
+  "wait_seconds": 0,
+  "media_changed": true,
   "files": [
     {
-      "name": "15_授業スライド_20261101.pdf",
-      "bytes": 3525821,
-      "sha256": "ca843fa86c5356de463c3ebf1ec5564100bbe8dae98b329e5397e4a9818f8753"
+      "name": "15_授業スライド_20261104.pdf",
+      "bytes": 3527960,
+      "sha256": "675ec3925e08de607cbd35dcaf121dfedd58d2d6ea4ddfd964ebf8dc8c69f50b"
     },
     {
-      "name": "15_授業スライド_20261101.pptx",
-      "bytes": 20582397,
-      "sha256": "d5d555f05515f1ccc53281992e8640584d2f5af76dd56d2c87928547e047fdcc"
+      "name": "15_授業スライド_20261104.pptx",
+      "bytes": 20582361,
+      "sha256": "51db5798ae356397bb49272199da10cbc45dcbca97cb5504e3916cd9f82ac43e"
     },
     {
-      "name": "15_授業動画_20261101.srt",
-      "bytes": 102712,
-      "sha256": "98fba9a0d0e4cd590827f810036f5720d640a5023d6b1b136a6173f2fdebfd27"
+      "name": "15_授業動画_20261104.srt",
+      "bytes": 103249,
+      "sha256": "4ad3c8551219b53a9017dbdeefff7739ce04617d1ab0166a0401f51d18925256"
     },
     {
-      "name": "15_授業動画_20261101.vtt",
-      "bytes": 99072,
-      "sha256": "0256c7ef8fca49c4112709f3f529f2aa6e19794094a5f28c6a6da6a2c3656516"
+      "name": "15_授業動画_20261104.vtt",
+      "bytes": 99594,
+      "sha256": "7ca8e8007b378a6b465610081bddf539a1358b98aa885e4e216c7d42c6ddaeaf"
     }
   ],
   "release_assets": [
     {
-      "name": "W15_Nanami_20261101.mp3",
-      "bytes": 64546316,
-      "sha256": "e133c1cfdf318592c584c2704a5684a9032e3e532278e1561079ae0cd1655f16"
+      "name": "W15_Nanami_20261104_final.mp3",
+      "bytes": 64872620,
+      "sha256": "fe1ac0244aae0b39ad93e3125c867b655dbd61eadeea242b95888fdb42b2a7ed"
     },
     {
-      "name": "W15_Nanami_20261101.mp4",
-      "bytes": 178629346,
-      "sha256": "9f8bb0c5cd5e4a2ccf261e157a09c892300f0ed635acaf7edc12a086dafbe3ce"
+      "name": "W15_Nanami_20261104_final.mp4",
+      "bytes": 179528136,
+      "sha256": "5bede4d9f91ef5502cb1c47a4cd5d54e34f84f5adaca9328dfc710f98d20d0d2"
     },
     {
-      "name": "W15_Nanami_20261101.srt",
-      "bytes": 102712,
-      "sha256": "98fba9a0d0e4cd590827f810036f5720d640a5023d6b1b136a6173f2fdebfd27"
+      "name": "W15_Nanami_20261104_final.srt",
+      "bytes": 103249,
+      "sha256": "4ad3c8551219b53a9017dbdeefff7739ce04617d1ab0166a0401f51d18925256"
     },
     {
-      "name": "W15_Nanami_20261101.vtt",
-      "bytes": 99072,
-      "sha256": "0256c7ef8fca49c4112709f3f529f2aa6e19794094a5f28c6a6da6a2c3656516"
+      "name": "W15_Nanami_20261104_final.vtt",
+      "bytes": 99594,
+      "sha256": "7ca8e8007b378a6b465610081bddf539a1358b98aa885e4e216c7d42c6ddaeaf"
     }
   ]
 }

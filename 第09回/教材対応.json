@@ -1,0 +1,24 @@
+{
+  "updated_jst": "2026-11-04 13:00",
+  "lesson": 9,
+  "title": "水分と寸法変化",
+  "pages": 35,
+  "video_seconds": 5541.300666666667,
+  "video_display": "92:21",
+  "video_release": "lecture09-20261101-revised",
+  "wait_seconds": 2617.653288666666,
+  "media_changed": false,
+  "files": [
+    {
+      "name": "09_授業スライド_20261104.pdf",
+      "bytes": 1063759,
+      "sha256": "3f2fd28b708ce92de55313bad6d1707ac0cb12c57a95e361beab2c3e594dbcbf"
+    },
+    {
+      "name": "09_授業スライド_20261104.pptx",
+      "bytes": 181448,
+      "sha256": "6469a23acf3a118997361d045c2a4a60039d51b2e4eb6b7228cf012f1547bab1"
+    }
+  ],
+  "release_assets": []
+}

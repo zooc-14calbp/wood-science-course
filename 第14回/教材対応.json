@@ -1,55 +1,55 @@
 {
-  "updated_jst": "2026-11-01 16:12",
-  "title": "樹木・木材の進化史と人類史",
+  "updated_jst": "2026-11-04 13:00",
   "lesson": 14,
-  "previous_lesson": 11,
+  "title": "樹木・木材の進化史と人類史",
   "pages": 96,
-  "video_seconds": 5592.936,
-  "video_display": "93:12",
-  "video_release": "lecture14-20261101-renumbered",
-  "human_full_listening": false,
+  "video_seconds": 5589.096,
+  "video_display": "93:09",
+  "video_release": "lecture14-20261104-student-final",
+  "wait_seconds": 0,
+  "media_changed": true,
   "files": [
     {
-      "name": "14_授業スライド_20261101.pdf",
+      "name": "14_授業スライド_20261104.pdf",
       "bytes": 3680450,
-      "sha256": "fe460c7689a659875b32fc9013dc5d7b29c3dc6326cb219c4c6235eeb5804c8e"
+      "sha256": "3d621016ae3e87727ec09e486ca0781fea283a1a5216feeb0a07d8d9266ffab9"
     },
     {
-      "name": "14_授業スライド_20261101.pptx",
-      "bytes": 8960316,
-      "sha256": "de9cb59b04893a840b4fda43ef1bb8e60eb6f743af0726d9dc39dd23cb4bce33"
+      "name": "14_授業スライド_20261104.pptx",
+      "bytes": 8960295,
+      "sha256": "a23f8f7dd21de5c1e5494a182ea6913efba29b558cdb8e375312e23e23ec2b80"
     },
     {
-      "name": "14_授業動画_20261101.srt",
-      "bytes": 109570,
-      "sha256": "7b3907379710a4e4a7fad07baab77e10649bb02a7f7aa15388d21b00b8b3e95c"
+      "name": "14_授業動画_20261104.srt",
+      "bytes": 109580,
+      "sha256": "89d2d279988dca93c337d24cf6d54074cf86c95daaa68d9a4523546d9f38dec1"
     },
     {
-      "name": "14_授業動画_20261101.vtt",
-      "bytes": 105560,
-      "sha256": "39da15cdd45723d077be37c50f68cf7c1535f2b6f4fe33f9f1ae4bf685fa748e"
+      "name": "14_授業動画_20261104.vtt",
+      "bytes": 105570,
+      "sha256": "1de2f56490dfa24d92bed7ffd96397333e8f18789bfbacb6f476f889be2b3697"
     }
   ],
   "release_assets": [
     {
-      "name": "W14_Nanami_20261101.mp3",
-      "bytes": 67116140,
-      "sha256": "4cb1f67098d3bcc32c5083a6deb52b6e1bf9e9e36e1ba6530477e6ba76c4d760"
+      "name": "W14_Nanami_20261104_final.mp3",
+      "bytes": 67070060,
+      "sha256": "96d43df7ad8311b734a5173ec76dc7bbf5efaeb244c31ea23668f875f9923ed6"
     },
     {
-      "name": "W14_Nanami_20261101.mp4",
-      "bytes": 190545652,
-      "sha256": "51014bb7b5536c75c0846a0cf2772c70b514d33e547c4fbd2da5ed98e67ba238"
+      "name": "W14_Nanami_20261104_final.mp4",
+      "bytes": 190348441,
+      "sha256": "ca1451437ab56773049a46aed0374d2f2042b7458c8b0c9003ac166f9544dd77"
     },
     {
-      "name": "W14_Nanami_20261101.srt",
-      "bytes": 109570,
-      "sha256": "7b3907379710a4e4a7fad07baab77e10649bb02a7f7aa15388d21b00b8b3e95c"
+      "name": "W14_Nanami_20261104_final.srt",
+      "bytes": 109580,
+      "sha256": "89d2d279988dca93c337d24cf6d54074cf86c95daaa68d9a4523546d9f38dec1"
     },
     {
-      "name": "W14_Nanami_20261101.vtt",
-      "bytes": 105560,
-      "sha256": "39da15cdd45723d077be37c50f68cf7c1535f2b6f4fe33f9f1ae4bf685fa748e"
+      "name": "W14_Nanami_20261104_final.vtt",
+      "bytes": 105570,
+      "sha256": "1de2f56490dfa24d92bed7ffd96397333e8f18789bfbacb6f476f889be2b3697"
     }
   ]
 }

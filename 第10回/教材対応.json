@@ -1,0 +1,55 @@
+{
+  "updated_jst": "2026-11-04 13:00",
+  "lesson": 10,
+  "title": "生物劣化と木材防腐",
+  "pages": 43,
+  "video_seconds": 5524.675791666667,
+  "video_display": "92:04",
+  "video_release": "lecture10-20261104-student-final",
+  "wait_seconds": 2085.762867666667,
+  "media_changed": true,
+  "files": [
+    {
+      "name": "10_授業スライド_20261104.pdf",
+      "bytes": 1461214,
+      "sha256": "116aaa096ab231edaf38633adba35dd4b4071ee5d5f8552f397be3913d01c635"
+    },
+    {
+      "name": "10_授業スライド_20261104.pptx",
+      "bytes": 694448,
+      "sha256": "952e8eae887c739d383cbdcc5f1bfa98a4f8ed53ad87014f7297bd3156758dd5"
+    },
+    {
+      "name": "10_授業動画_20261104.srt",
+      "bytes": 67757,
+      "sha256": "5528cf1e7d752144d0e1069d8b2060d9c6ddd7241867d5aec383bd1c5b75e84c"
+    },
+    {
+      "name": "10_授業動画_20261104.vtt",
+      "bytes": 65342,
+      "sha256": "bc4dd2ce0a59aa0dd2d187aef8c74198a75e1d7baa2b86061dd3414a341c1df0"
+    }
+  ],
+  "release_assets": [
+    {
+      "name": "W10_Nanami_20261104_final.mp3",
+      "bytes": 66297068,
+      "sha256": "d20128700723043400e60658a629b2c02f711e0a4dfaae24bcb9563660af072b"
+    },
+    {
+      "name": "W10_Nanami_20261104_final.mp4",
+      "bytes": 157585884,
+      "sha256": "2003e1d15c6594a424667c1743eb3a7537a92bf60bad6e0446389ed87a4e2c60"
+    },
+    {
+      "name": "W10_Nanami_20261104_final.srt",
+      "bytes": 67757,
+      "sha256": "5528cf1e7d752144d0e1069d8b2060d9c6ddd7241867d5aec383bd1c5b75e84c"
+    },
+    {
+      "name": "W10_Nanami_20261104_final.vtt",
+      "bytes": 65342,
+      "sha256": "bc4dd2ce0a59aa0dd2d187aef8c74198a75e1d7baa2b86061dd3414a341c1df0"
+    }
+  ]
+}

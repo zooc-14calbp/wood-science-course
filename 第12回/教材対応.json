@@ -1,55 +1,55 @@
 {
-  "updated_jst": "2026-11-01 16:12",
-  "title": "集成材・CLTと木材資源の利用",
+  "updated_jst": "2026-11-04 13:00",
   "lesson": 12,
-  "previous_lesson": 14,
+  "title": "集成材・CLTと木材資源の利用",
   "pages": 99,
-  "video_seconds": 5283.348,
-  "video_display": "88:03",
-  "video_release": "lecture12-20261101-renumbered",
-  "human_full_listening": false,
+  "video_seconds": 5282.604,
+  "video_display": "88:02",
+  "video_release": "lecture12-20261104-student-final",
+  "wait_seconds": 0,
+  "media_changed": true,
   "files": [
     {
-      "name": "12_授業スライド_20261101.pdf",
-      "bytes": 2629716,
-      "sha256": "f8be21348957b4a9505aa7ef847defff709149981be8e2919e0173a38b160c50"
+      "name": "12_授業スライド_20261104.pdf",
+      "bytes": 2629682,
+      "sha256": "dd0e65e9804abfcb02ccb96dc038708708b584b51964df9860c340c94a17ab7e"
     },
     {
-      "name": "12_授業スライド_20261101.pptx",
-      "bytes": 14052795,
-      "sha256": "0a274fe90aa140579a42ae6d13a2f0f787c178c028b102fa8becb59c83ce278e"
+      "name": "12_授業スライド_20261104.pptx",
+      "bytes": 14052612,
+      "sha256": "1b80382a032f389925049fc04315bbcc8e2fb20224a0558678c2812ba1b8619a"
     },
     {
-      "name": "12_授業動画_20261101.srt",
-      "bytes": 97909,
-      "sha256": "e9e3ff93af9b41af593801512b9d7c81ba4b316db8e06b1b475361db20ae93b9"
+      "name": "12_授業動画_20261104.srt",
+      "bytes": 97894,
+      "sha256": "dcf33a90379718e02ae2b0ba080fa1ac9c8feefa6de5c69ff613e9c013972344"
     },
     {
-      "name": "12_授業動画_20261101.vtt",
-      "bytes": 94344,
-      "sha256": "d5e67072988bf3d0d983916467edacbd3f649550059d1eb32ee40452525594a4"
+      "name": "12_授業動画_20261104.vtt",
+      "bytes": 94329,
+      "sha256": "e2216ba5ecd4dd024dca724e85355327be9d516b434916ec8638bc0e4214572b"
     }
   ],
   "release_assets": [
     {
-      "name": "W12_Nanami_20261101.mp3",
-      "bytes": 63401316,
-      "sha256": "ed5af982145ecebbd600e14b6e54346d187f8dc3b0944d112f800fcd6bc48970"
+      "name": "W12_Nanami_20261104_final.mp3",
+      "bytes": 63392300,
+      "sha256": "a02ec59b0e98d7101cc1e43172b4dcb7aef7fd850bf75335578f6fec127cbfea"
     },
     {
-      "name": "W12_Nanami_20261101.mp4",
-      "bytes": 187246407,
-      "sha256": "27bda475967056ebe272240419b1714e128553e796fb0a4704775d929cf8dd2a"
+      "name": "W12_Nanami_20261104_final.mp4",
+      "bytes": 187280811,
+      "sha256": "1fa7d9783dfcf673bd648a2eaf065fbfd492b4dd41502546b7979352dc50bf8b"
     },
     {
-      "name": "W12_Nanami_20261101.srt",
-      "bytes": 97909,
-      "sha256": "e9e3ff93af9b41af593801512b9d7c81ba4b316db8e06b1b475361db20ae93b9"
+      "name": "W12_Nanami_20261104_final.srt",
+      "bytes": 97894,
+      "sha256": "dcf33a90379718e02ae2b0ba080fa1ac9c8feefa6de5c69ff613e9c013972344"
     },
     {
-      "name": "W12_Nanami_20261101.vtt",
-      "bytes": 94344,
-      "sha256": "d5e67072988bf3d0d983916467edacbd3f649550059d1eb32ee40452525594a4"
+      "name": "W12_Nanami_20261104_final.vtt",
+      "bytes": 94329,
+      "sha256": "e2216ba5ecd4dd024dca724e85355327be9d516b434916ec8638bc0e4214572b"
     }
   ]
 }

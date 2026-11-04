@@ -1,0 +1,55 @@
+{
+  "updated_jst": "2026-11-04 13:00",
+  "lesson": 8,
+  "title": "木材と水",
+  "pages": 39,
+  "video_seconds": 5555.11,
+  "video_display": "92:35",
+  "video_release": "lecture08-20261104-student-final",
+  "wait_seconds": 2236.1546620000013,
+  "media_changed": true,
+  "files": [
+    {
+      "name": "08_授業スライド_20261104.pdf",
+      "bytes": 1140527,
+      "sha256": "678e88733eda6700f0bee067bbc152e78b3f3379c6b36e621ff1bbb0e84d6efb"
+    },
+    {
+      "name": "08_授業スライド_20261104.pptx",
+      "bytes": 211218,
+      "sha256": "e294025ec301e2eff8f52860a1f7fc1d3125388d82dbd99c6bcd77d6aca5c2ae"
+    },
+    {
+      "name": "08_授業動画_20261104.srt",
+      "bytes": 65712,
+      "sha256": "0a7e1c8e5bdb7351154f66366d427edf816dca1a2eef3716b611e436352301d1"
+    },
+    {
+      "name": "08_授業動画_20261104.vtt",
+      "bytes": 63322,
+      "sha256": "f32ce632533b3b0aeae12e2a32a52118c3811e8b3de714a8357b42810c9cf72c"
+    }
+  ],
+  "release_assets": [
+    {
+      "name": "W08_Nanami_20261104_final.mp3",
+      "bytes": 66662252,
+      "sha256": "32cfe73a3633195eeb80c98b3b8737893ff90cddd8cccdc42c01b00d967f4c43"
+    },
+    {
+      "name": "W08_Nanami_20261104_final.mp4",
+      "bytes": 150807939,
+      "sha256": "d522ba5bcbdaea83cb12de434037c129fa9923d552de5e0a85d725b94f16e672"
+    },
+    {
+      "name": "W08_Nanami_20261104_final.srt",
+      "bytes": 65712,
+      "sha256": "0a7e1c8e5bdb7351154f66366d427edf816dca1a2eef3716b611e436352301d1"
+    },
+    {
+      "name": "W08_Nanami_20261104_final.vtt",
+      "bytes": 63322,
+      "sha256": "f32ce632533b3b0aeae12e2a32a52118c3811e8b3de714a8357b42810c9cf72c"
+    }
+  ]
+}
