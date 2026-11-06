@@ -5,9 +5,9 @@
   "lessons": [
     {
       "lesson": 1,
-      "pptx": "第01回/01_授業スライド_章節版_20261106.pptx",
-      "pdf": "第01回/01_授業スライド_章節版_20261106.pdf",
-      "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W01_Nanami_20261106_sections.mp4"
+      "pptx": "第01回/01_授業スライド_本文校正版_20261106.pptx",
+      "pdf": "第01回/01_授業スライド_本文校正版_20261106.pdf",
+      "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-content-review/W01_Nanami_20261106_reviewed.mp4"
     },
     {
       "lesson": 2,
@@ -65,9 +65,9 @@
     },
     {
       "lesson": 11,
-      "pptx": "第11回/11_授業スライド_章節版_20261106.pptx",
-      "pdf": "第11回/11_授業スライド_章節版_20261106.pdf",
-      "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W11_Nanami_20261106_sections.mp4"
+      "pptx": "第11回/11_授業スライド_本文校正版_20261106.pptx",
+      "pdf": "第11回/11_授業スライド_本文校正版_20261106.pdf",
+      "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-content-review/W11_Nanami_20261106_reviewed.mp4"
     },
     {
       "lesson": 12,
@@ -83,15 +83,15 @@
     },
     {
       "lesson": 14,
-      "pptx": "第14回/14_授業スライド_章節版_20261106.pptx",
-      "pdf": "第14回/14_授業スライド_章節版_20261106.pdf",
-      "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W14_Nanami_20261106_sections.mp4"
+      "pptx": "第14回/14_授業スライド_本文校正版_20261106.pptx",
+      "pdf": "第14回/14_授業スライド_本文校正版_20261106.pdf",
+      "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-content-review/W14_Nanami_20261106_reviewed.mp4"
     },
     {
       "lesson": 15,
-      "pptx": "第15回/15_授業スライド_章節版_20261106.pptx",
-      "pdf": "第15回/15_授業スライド_章節版_20261106.pdf",
-      "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W15_Nanami_20261106_sections.mp4"
+      "pptx": "第15回/15_授業スライド_本文校正版_20261106.pptx",
+      "pdf": "第15回/15_授業スライド_本文校正版_20261106.pdf",
+      "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-content-review/W15_Nanami_20261106_reviewed.mp4"
     }
   ],
   "video_edition": "2026-11-06-chapter-sections",

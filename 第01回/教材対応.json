@@ -1,14 +1,14 @@
 {
-  "updated_jst": "2026-11-06 14:44",
+  "updated_jst": "2026-11-06 15:04",
   "lesson": 1,
   "title": "導入と外観的構造",
   "pages": 37,
   "edition": "2026-11-04-viewing-colors",
   "video_seconds": 5445.23,
   "video_display": "90:45",
-  "video_release": "20261106-chapter-sections",
-  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W01_Nanami_20261106_sections.mp4",
-  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261104-viewing-colors/W01_Nanami_20261104_viewing.mp4",
+  "video_release": "20261106-content-review",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-content-review/W01_Nanami_20261106_reviewed.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W01_Nanami_20261106_sections.mp4",
   "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W01_Nanami_20261106_sections.mp3",
   "subtitle_urls": {
     "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W01_Nanami_20261106_sections.srt",
@@ -16,22 +16,22 @@
   },
   "files": [
     {
-      "name": "01_授業スライド_章節版_20261106.pptx",
-      "bytes": 2448962,
-      "sha256": "33940d44d68b5433040b8a31cb3226e795e47f0a4316c0f671dca0a5d66b0e42"
+      "name": "01_授業スライド_本文校正版_20261106.pdf",
+      "sha256": "e792a58d28b102bdfbe993f678c8db4969668c5bab9c783f15a8a41eac0a167a",
+      "bytes": 2660757
     },
     {
-      "name": "01_授業スライド_章節版_20261106.pdf",
-      "bytes": 2897948,
-      "sha256": "56674348846d154bf967a58d3fc2107831dbfa2ef500025e282902639cfefdcb"
+      "name": "01_授業スライド_本文校正版_20261106.pptx",
+      "sha256": "f6315e34980fe58a12b1702ceac70443e96005b5b4706e0ae37b9fd63300239a",
+      "bytes": 2448942
     }
   ],
   "video_asset": {
-    "name": "W01_Nanami_20261106_sections.mp4",
-    "bytes": 105615089,
-    "sha256": "34ab604fb366783e98bf796f13458a6105babe6544954d65c50e7af805f47db8"
+    "name": "W01_Nanami_20261106_reviewed.mp4",
+    "bytes": 105465727,
+    "sha256": "b816c16b7540d1d5528cf68c078e328d107f315a4a82420d1325a337696fb7a1"
   },
-  "video_edition": "2026-11-06-chapter-sections",
+  "video_edition": "2026-11-06-content-reviewed",
   "audio_asset": {
     "name": "W01_Nanami_20261106_sections.mp3",
     "bytes": 43562540,
@@ -71,7 +71,7 @@
       "title": "形と材質から使い方へ"
     }
   ],
-  "slide_edition": "2026-11-06-chapter-sections",
+  "slide_edition": "2026-11-06-content-reviewed",
   "slide_total": 41,
   "section_previews": [
     {

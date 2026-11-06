@@ -1,14 +1,14 @@
 {
-  "updated_jst": "2026-11-06 14:44",
+  "updated_jst": "2026-11-06 15:04",
   "lesson": 14,
   "title": "樹木・木材の進化史と人類史",
   "pages": 96,
   "edition": "2026-11-04-viewing-colors",
   "video_seconds": 5638.596,
   "video_display": "93:58",
-  "video_release": "20261106-chapter-sections",
-  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W14_Nanami_20261106_sections.mp4",
-  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture14-20261104-viewing-colors/W14_Nanami_20261104_viewing.mp4",
+  "video_release": "20261106-content-review",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-content-review/W14_Nanami_20261106_reviewed.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W14_Nanami_20261106_sections.mp4",
   "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W14_Nanami_20261106_sections.mp3",
   "subtitle_urls": {
     "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W14_Nanami_20261106_sections.srt",
@@ -16,22 +16,22 @@
   },
   "files": [
     {
-      "name": "14_授業スライド_章節版_20261106.pptx",
-      "bytes": 8980778,
-      "sha256": "cd57cc27d8e1afe9366ffed915f417c5ea187ec28500e550e5bd53b608d39679"
+      "name": "14_授業スライド_本文校正版_20261106.pdf",
+      "sha256": "8cb996dcf41704295b82b490fce21649c5275463da6fe540f004a315200a75ba",
+      "bytes": 4160376
     },
     {
-      "name": "14_授業スライド_章節版_20261106.pdf",
-      "bytes": 4382202,
-      "sha256": "f80900f4f404d0c970d0fb44a32d7297d1b8d47e345800d831440cf0460f2b79"
+      "name": "14_授業スライド_本文校正版_20261106.pptx",
+      "sha256": "89853248b28ddafff29a578999baa8d31c67f24d76500a91aae3a8e9769861ae",
+      "bytes": 8980198
     }
   ],
   "video_asset": {
-    "name": "W14_Nanami_20261106_sections.mp4",
-    "bytes": 100111289,
-    "sha256": "d6c6d3053bf47da211b7af9242854a5d0403afeb3454bfffb59947fae370694b"
+    "name": "W14_Nanami_20261106_reviewed.mp4",
+    "bytes": 99976937,
+    "sha256": "3519aaeac77365e44fb8759c8078687b1de76598aa741d4c81a024cc762ead29"
   },
-  "video_edition": "2026-11-06-chapter-sections",
+  "video_edition": "2026-11-06-content-reviewed",
   "audio_asset": {
     "name": "W14_Nanami_20261106_sections.mp3",
     "bytes": 45109484,
@@ -71,7 +71,7 @@
       "title": "木工道具と加工の歴史"
     }
   ],
-  "slide_edition": "2026-11-06-chapter-sections",
+  "slide_edition": "2026-11-06-content-reviewed",
   "slide_total": 100,
   "section_previews": [
     {

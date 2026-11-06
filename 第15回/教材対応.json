@@ -1,14 +1,14 @@
 {
-  "updated_jst": "2026-11-06 14:44",
+  "updated_jst": "2026-11-06 15:04",
   "lesson": 15,
   "title": "日本の木の文化：森林管理と木造建築",
   "pages": 102,
   "edition": "2026-11-04-viewing-colors",
   "video_seconds": 5458.5,
   "video_display": "90:58",
-  "video_release": "20261106-chapter-sections",
-  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W15_Nanami_20261106_sections.mp4",
-  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture15-20261104-viewing-colors/W15_Nanami_20261104_viewing.mp4",
+  "video_release": "20261106-content-review",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-content-review/W15_Nanami_20261106_reviewed.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W15_Nanami_20261106_sections.mp4",
   "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W15_Nanami_20261106_sections.mp3",
   "subtitle_urls": {
     "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W15_Nanami_20261106_sections.srt",
@@ -16,22 +16,22 @@
   },
   "files": [
     {
-      "name": "15_授業スライド_章節版_20261106.pptx",
-      "bytes": 20602399,
-      "sha256": "6c43a5a19fa3b8b33c890c925a12e46ef5c59e5c7596eebced2ae99ebf63b25f"
+      "name": "15_授業スライド_本文校正版_20261106.pdf",
+      "sha256": "eccefa464125014ef5beede9389b4c6321af4fe6370c898b56c5732e80e235d8",
+      "bytes": 3964651
     },
     {
-      "name": "15_授業スライド_章節版_20261106.pdf",
-      "bytes": 4217649,
-      "sha256": "532b6b9854a8b73ec3160c750226d5ff764df46885bf13fd0564254482a56e93"
+      "name": "15_授業スライド_本文校正版_20261106.pptx",
+      "sha256": "63d887652a91417061a886049cc72cbfcef0a8ff946895247f156419cabff741",
+      "bytes": 20579196
     }
   ],
   "video_asset": {
-    "name": "W15_Nanami_20261106_sections.mp4",
-    "bytes": 94781477,
-    "sha256": "60ea6af3692347c53da641d92f1035a25816128abb18af74765d1c9b8a9cf36b"
+    "name": "W15_Nanami_20261106_reviewed.mp4",
+    "bytes": 94628144,
+    "sha256": "65955fd076dc46bad11eb02dec4888e6f5edfd22924ced078e042b690a4a5e43"
   },
-  "video_edition": "2026-11-06-chapter-sections",
+  "video_edition": "2026-11-06-content-reviewed",
   "audio_asset": {
     "name": "W15_Nanami_20261106_sections.mp3",
     "bytes": 43668524,
@@ -71,7 +71,7 @@
       "title": "森林と建物の炭素を読む"
     }
   ],
-  "slide_edition": "2026-11-06-chapter-sections",
+  "slide_edition": "2026-11-06-content-reviewed",
   "slide_total": 106,
   "section_previews": [
     {

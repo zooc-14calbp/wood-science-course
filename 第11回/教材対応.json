@@ -1,14 +1,14 @@
 {
-  "updated_jst": "2026-11-06 14:44",
+  "updated_jst": "2026-11-06 15:04",
   "lesson": 11,
   "title": "接着・塗装と木質材料の設計",
   "pages": 95,
   "edition": "2026-11-04-viewing-colors",
   "video_seconds": 5388.5,
   "video_display": "89:48",
-  "video_release": "20261106-chapter-sections",
-  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W11_Nanami_20261106_sections.mp4",
-  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture11-20261104-viewing-colors/W11_Nanami_20261104_viewing.mp4",
+  "video_release": "20261106-content-review",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-content-review/W11_Nanami_20261106_reviewed.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W11_Nanami_20261106_sections.mp4",
   "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W11_Nanami_20261106_sections.mp3",
   "subtitle_urls": {
     "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W11_Nanami_20261106_sections.srt",
@@ -16,22 +16,22 @@
   },
   "files": [
     {
-      "name": "11_授業スライド_章節版_20261106.pptx",
-      "bytes": 9993832,
-      "sha256": "e34d051c75dd23ec0e21fafa09ba93606d9544e0e8c67b0a97fbc06c12294dba"
+      "name": "11_授業スライド_本文校正版_20261106.pdf",
+      "sha256": "253c2795706e9eb75adede66fcb062e72a7b5099f933f712edf9a56142562e8e",
+      "bytes": 3685555
     },
     {
-      "name": "11_授業スライド_章節版_20261106.pdf",
-      "bytes": 3908989,
-      "sha256": "93a4c9e1aeb2d13eb5c007178b8cc7f9f338fc16dfb140f9676bb47ddcc40ae8"
+      "name": "11_授業スライド_本文校正版_20261106.pptx",
+      "sha256": "7916da9ae137cd914663171c3841c1912da16e816c8a04c9277c385e176efbbb",
+      "bytes": 9993800
     }
   ],
   "video_asset": {
-    "name": "W11_Nanami_20261106_sections.mp4",
-    "bytes": 99063968,
-    "sha256": "0e231e27fa189b37e7f31fe1f5a600071cb22e1f094cecae6f24bc41b4db548d"
+    "name": "W11_Nanami_20261106_reviewed.mp4",
+    "bytes": 99064757,
+    "sha256": "4255cc6eedaf974cf196aa682bd72c860004eed866e09c7fc0585f183b1ed458"
   },
-  "video_edition": "2026-11-06-chapter-sections",
+  "video_edition": "2026-11-06-content-reviewed",
   "audio_asset": {
     "name": "W11_Nanami_20261106_sections.mp3",
     "bytes": 43106732,
@@ -71,7 +71,7 @@
       "title": "棚の作業計画をまとめる"
     }
   ],
-  "slide_edition": "2026-11-06-chapter-sections",
+  "slide_edition": "2026-11-06-content-reviewed",
   "slide_total": 99,
   "section_previews": [
     {
