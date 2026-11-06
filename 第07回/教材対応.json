@@ -1,5 +1,5 @@
 {
-  "updated_jst": "2026-11-06 14:23",
+  "updated_jst": "2026-11-06 14:44",
   "lesson": 7,
   "title": "密度と比重",
   "pages": 37,
@@ -16,14 +16,14 @@
   },
   "files": [
     {
-      "name": "07_授業スライド_視聴配色_20261104.pptx",
-      "bytes": 202271,
-      "sha256": "1bca63ba4b9456b5a1724cac1b2ae5927b40889a6006e424ad3d7c1cbdef41c2"
+      "name": "07_授業スライド_章節版_20261106.pptx",
+      "bytes": 215551,
+      "sha256": "9d0330c8b993aca4f3b3a40693d0e19a30fd7b559a3f43df7a4d28d3227e7962"
     },
     {
-      "name": "07_授業スライド_視聴配色_20261104.pdf",
-      "bytes": 1127177,
-      "sha256": "cd4b91d511ac78d14f929f44b869de9d683c5db8c006205a6f06178f6266832e"
+      "name": "07_授業スライド_章節版_20261106.pdf",
+      "bytes": 1647493,
+      "sha256": "987acc2a9eba63ec040771ee703b2b4ae77856b0e7835184be98a9eccebfc1fb"
     }
   ],
   "video_asset": {
@@ -63,6 +63,31 @@
     {
       "page": 26,
       "start": 3400.366666666667,
+      "title": "気乾と測定計画"
+    }
+  ],
+  "slide_edition": "2026-11-06-chapter-sections",
+  "slide_total": 40,
+  "section_previews": [
+    {
+      "index": 1,
+      "page": 1,
+      "physical_preview": 1,
+      "physical_body": 2,
+      "title": "密度と比重の基準"
+    },
+    {
+      "index": 2,
+      "page": 15,
+      "physical_preview": 16,
+      "physical_body": 17,
+      "title": "同じ木片でも値が変わる"
+    },
+    {
+      "index": 3,
+      "page": 26,
+      "physical_preview": 28,
+      "physical_body": 29,
       "title": "気乾と測定計画"
     }
   ]

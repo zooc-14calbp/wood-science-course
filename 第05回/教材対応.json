@@ -1,5 +1,5 @@
 {
-  "updated_jst": "2026-11-06 14:23",
+  "updated_jst": "2026-11-06 14:44",
   "lesson": 5,
   "title": "強度と物性値",
   "pages": 35,
@@ -16,14 +16,14 @@
   },
   "files": [
     {
-      "name": "05_授業スライド_視聴配色_20261104.pptx",
-      "bytes": 189010,
-      "sha256": "97a9ca0d11b9055c11e9ec2a39ef4dfd52a8de75b2d2139dcbc5d025912ed9c7"
+      "name": "05_授業スライド_章節版_20261106.pptx",
+      "bytes": 202321,
+      "sha256": "821d6dea81bd0170e95ac8cfb776f272b5b22e93f90f2d29b8fc44488400a307"
     },
     {
-      "name": "05_授業スライド_視聴配色_20261104.pdf",
-      "bytes": 1043322,
-      "sha256": "b7e441efe709712e1bc36a53c1eab904e1fe8e1fbb8883249a90ac8751e1cf0a"
+      "name": "05_授業スライド_章節版_20261106.pdf",
+      "bytes": 1557111,
+      "sha256": "9d96ff35d5622dfa244baf17271dc601f762fba07a83d525ba89a02f19389e61"
     }
   ],
   "video_asset": {
@@ -63,6 +63,31 @@
     {
       "page": 23,
       "start": 3435.3986666666665,
+      "title": "何をそろえて比較するか"
+    }
+  ],
+  "slide_edition": "2026-11-06-chapter-sections",
+  "slide_total": 38,
+  "section_previews": [
+    {
+      "index": 1,
+      "page": 1,
+      "physical_preview": 1,
+      "physical_body": 2,
+      "title": "力・応力・物性値"
+    },
+    {
+      "index": 2,
+      "page": 12,
+      "physical_preview": 13,
+      "physical_body": 14,
+      "title": "つりあいから梁の計算へ"
+    },
+    {
+      "index": 3,
+      "page": 23,
+      "physical_preview": 25,
+      "physical_body": 26,
       "title": "何をそろえて比較するか"
     }
   ]

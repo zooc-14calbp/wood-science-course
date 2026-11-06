@@ -5,94 +5,95 @@
   "lessons": [
     {
       "lesson": 1,
-      "pptx": "第01回/01_授業スライド_視聴配色_20261104.pptx",
-      "pdf": "第01回/01_授業スライド_視聴配色_20261104.pdf",
+      "pptx": "第01回/01_授業スライド_章節版_20261106.pptx",
+      "pdf": "第01回/01_授業スライド_章節版_20261106.pdf",
       "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W01_Nanami_20261106_sections.mp4"
     },
     {
       "lesson": 2,
-      "pptx": "第02回/02_授業スライド_視聴配色_20261104.pptx",
-      "pdf": "第02回/02_授業スライド_視聴配色_20261104.pdf",
+      "pptx": "第02回/02_授業スライド_章節版_20261106.pptx",
+      "pdf": "第02回/02_授業スライド_章節版_20261106.pdf",
       "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W02_Nanami_20261106_sections.mp4"
     },
     {
       "lesson": 3,
-      "pptx": "第03回/03_授業スライド_視聴配色_20261104.pptx",
-      "pdf": "第03回/03_授業スライド_視聴配色_20261104.pdf",
+      "pptx": "第03回/03_授業スライド_章節版_20261106.pptx",
+      "pdf": "第03回/03_授業スライド_章節版_20261106.pdf",
       "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W03_Nanami_20261106_sections.mp4"
     },
     {
       "lesson": 4,
-      "pptx": "第04回/04_授業スライド_視聴配色_20261104.pptx",
-      "pdf": "第04回/04_授業スライド_視聴配色_20261104.pdf",
+      "pptx": "第04回/04_授業スライド_章節版_20261106.pptx",
+      "pdf": "第04回/04_授業スライド_章節版_20261106.pdf",
       "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W04_Nanami_20261106_sections.mp4"
     },
     {
       "lesson": 5,
-      "pptx": "第05回/05_授業スライド_視聴配色_20261104.pptx",
-      "pdf": "第05回/05_授業スライド_視聴配色_20261104.pdf",
+      "pptx": "第05回/05_授業スライド_章節版_20261106.pptx",
+      "pdf": "第05回/05_授業スライド_章節版_20261106.pdf",
       "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W05_Nanami_20261106_sections.mp4"
     },
     {
       "lesson": 6,
-      "pptx": "第06回/06_授業スライド_視聴配色_20261104.pptx",
-      "pdf": "第06回/06_授業スライド_視聴配色_20261104.pdf",
+      "pptx": "第06回/06_授業スライド_章節版_20261106.pptx",
+      "pdf": "第06回/06_授業スライド_章節版_20261106.pdf",
       "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W06_Nanami_20261106_sections.mp4"
     },
     {
       "lesson": 7,
-      "pptx": "第07回/07_授業スライド_視聴配色_20261104.pptx",
-      "pdf": "第07回/07_授業スライド_視聴配色_20261104.pdf",
+      "pptx": "第07回/07_授業スライド_章節版_20261106.pptx",
+      "pdf": "第07回/07_授業スライド_章節版_20261106.pdf",
       "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W07_Nanami_20261106_sections.mp4"
     },
     {
       "lesson": 8,
-      "pptx": "第08回/08_授業スライド_視聴配色_20261104.pptx",
-      "pdf": "第08回/08_授業スライド_視聴配色_20261104.pdf",
+      "pptx": "第08回/08_授業スライド_章節版_20261106.pptx",
+      "pdf": "第08回/08_授業スライド_章節版_20261106.pdf",
       "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W08_Nanami_20261106_sections.mp4"
     },
     {
       "lesson": 9,
-      "pptx": "第09回/09_授業スライド_視聴配色_20261104.pptx",
-      "pdf": "第09回/09_授業スライド_視聴配色_20261104.pdf",
+      "pptx": "第09回/09_授業スライド_章節版_20261106.pptx",
+      "pdf": "第09回/09_授業スライド_章節版_20261106.pdf",
       "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W09_Nanami_20261106_sections.mp4"
     },
     {
       "lesson": 10,
-      "pptx": "第10回/10_授業スライド_視聴配色_20261104.pptx",
-      "pdf": "第10回/10_授業スライド_視聴配色_20261104.pdf",
+      "pptx": "第10回/10_授業スライド_章節版_20261106.pptx",
+      "pdf": "第10回/10_授業スライド_章節版_20261106.pdf",
       "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W10_Nanami_20261106_sections.mp4"
     },
     {
       "lesson": 11,
-      "pptx": "第11回/11_授業スライド_視聴配色_20261104.pptx",
-      "pdf": "第11回/11_授業スライド_視聴配色_20261104.pdf",
+      "pptx": "第11回/11_授業スライド_章節版_20261106.pptx",
+      "pdf": "第11回/11_授業スライド_章節版_20261106.pdf",
       "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W11_Nanami_20261106_sections.mp4"
     },
     {
       "lesson": 12,
-      "pptx": "第12回/12_授業スライド_視聴配色_20261104.pptx",
-      "pdf": "第12回/12_授業スライド_視聴配色_20261104.pdf",
+      "pptx": "第12回/12_授業スライド_章節版_20261106.pptx",
+      "pdf": "第12回/12_授業スライド_章節版_20261106.pdf",
       "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W12_Nanami_20261106_sections.mp4"
     },
     {
       "lesson": 13,
-      "pptx": "第13回/13_授業スライド_視聴配色_20261104.pptx",
-      "pdf": "第13回/13_授業スライド_視聴配色_20261104.pdf",
+      "pptx": "第13回/13_授業スライド_章節版_20261106.pptx",
+      "pdf": "第13回/13_授業スライド_章節版_20261106.pdf",
       "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W13_Nanami_20261106_sections.mp4"
     },
     {
       "lesson": 14,
-      "pptx": "第14回/14_授業スライド_視聴配色_20261104.pptx",
-      "pdf": "第14回/14_授業スライド_視聴配色_20261104.pdf",
+      "pptx": "第14回/14_授業スライド_章節版_20261106.pptx",
+      "pdf": "第14回/14_授業スライド_章節版_20261106.pdf",
       "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W14_Nanami_20261106_sections.mp4"
     },
     {
       "lesson": 15,
-      "pptx": "第15回/15_授業スライド_視聴配色_20261104.pptx",
-      "pdf": "第15回/15_授業スライド_視聴配色_20261104.pdf",
+      "pptx": "第15回/15_授業スライド_章節版_20261106.pptx",
+      "pdf": "第15回/15_授業スライド_章節版_20261106.pdf",
       "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W15_Nanami_20261106_sections.mp4"
     }
   ],
-  "video_edition": "2026-11-06-chapter-sections"
+  "video_edition": "2026-11-06-chapter-sections",
+  "slide_edition": "2026-11-06-chapter-sections"
 }

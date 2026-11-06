@@ -1,5 +1,5 @@
 {
-  "updated_jst": "2026-11-06 14:23",
+  "updated_jst": "2026-11-06 14:44",
   "lesson": 8,
   "title": "木材と水",
   "pages": 39,
@@ -16,14 +16,14 @@
   },
   "files": [
     {
-      "name": "08_授業スライド_視聴配色_20261104.pptx",
-      "bytes": 211314,
-      "sha256": "68ddef883837d7c9164ca83936d09efed2fa16f8a33e0ca43168fe8723bf051b"
+      "name": "08_授業スライド_章節版_20261106.pptx",
+      "bytes": 225070,
+      "sha256": "c5ca3f4d93656458dd9e2c7baa45e2c1de71d7b9c14eff8da70f92a1a8a74054"
     },
     {
-      "name": "08_授業スライド_視聴配色_20261104.pdf",
-      "bytes": 1140882,
-      "sha256": "f9f3ed68c5e29e2b4d724d1db82ba43964183851eacb49b8e1ce71235e3d8908"
+      "name": "08_授業スライド_章節版_20261106.pdf",
+      "bytes": 1671936,
+      "sha256": "66284678362b76c83e162c20ead19bc9b0ff03e83441c237fbbf3b33290ce614"
     }
   ],
   "video_asset": {
@@ -63,6 +63,31 @@
     {
       "page": 26,
       "start": 3453.4553333333333,
+      "title": "環境と含水率"
+    }
+  ],
+  "slide_edition": "2026-11-06-chapter-sections",
+  "slide_total": 42,
+  "section_previews": [
+    {
+      "index": 1,
+      "page": 1,
+      "physical_preview": 1,
+      "physical_body": 2,
+      "title": "同じ水を二つの分母で表す"
+    },
+    {
+      "index": 2,
+      "page": 18,
+      "physical_preview": 19,
+      "physical_body": 20,
+      "title": "水の所在と寸法"
+    },
+    {
+      "index": 3,
+      "page": 26,
+      "physical_preview": 28,
+      "physical_body": 29,
       "title": "環境と含水率"
     }
   ]

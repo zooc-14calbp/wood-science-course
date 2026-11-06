@@ -1,5 +1,5 @@
 {
-  "updated_jst": "2026-11-06 14:23",
+  "updated_jst": "2026-11-06 14:44",
   "lesson": 10,
   "title": "生物劣化と木材防腐",
   "pages": 43,
@@ -16,14 +16,14 @@
   },
   "files": [
     {
-      "name": "10_授業スライド_視聴配色_20261104.pptx",
-      "bytes": 694578,
-      "sha256": "95af53dceb2d384a5a3d9a49fc0bf46b7eda8f6bb0c6c36a8b9b5f8f1eeda94e"
+      "name": "10_授業スライド_章節版_20261106.pptx",
+      "bytes": 712119,
+      "sha256": "8a720fcf5f40cd175b5f63c3a09225e4e77a327ca7ff4f0fc4aab3b139bb4eeb"
     },
     {
-      "name": "10_授業スライド_視聴配色_20261104.pdf",
-      "bytes": 1461573,
-      "sha256": "e9df613250fc98b133b634b17ea7f676172a94b3a7b3bdb5c960679521299679"
+      "name": "10_授業スライド_章節版_20261106.pdf",
+      "bytes": 2000470,
+      "sha256": "7b90ecf6577c17f5284ed8f7ded8f3f1e65ba671cad42712bf2bf310800b7f37"
     }
   ],
   "video_asset": {
@@ -68,6 +68,38 @@
     {
       "page": 32,
       "start": 3698.510041666667,
+      "title": "観察計画と授業に結ぶ"
+    }
+  ],
+  "slide_edition": "2026-11-06-chapter-sections",
+  "slide_total": 47,
+  "section_previews": [
+    {
+      "index": 1,
+      "page": 1,
+      "physical_preview": 1,
+      "physical_body": 2,
+      "title": "劣化を外観と条件から考える"
+    },
+    {
+      "index": 2,
+      "page": 15,
+      "physical_preview": 16,
+      "physical_body": 17,
+      "title": "腐朽・虫害と性能の変化"
+    },
+    {
+      "index": 3,
+      "page": 21,
+      "physical_preview": 23,
+      "physical_body": 24,
+      "title": "予防と保存処理を選ぶ"
+    },
+    {
+      "index": 4,
+      "page": 32,
+      "physical_preview": 35,
+      "physical_body": 36,
       "title": "観察計画と授業に結ぶ"
     }
   ]

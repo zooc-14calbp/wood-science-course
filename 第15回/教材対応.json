@@ -1,5 +1,5 @@
 {
-  "updated_jst": "2026-11-06 14:23",
+  "updated_jst": "2026-11-06 14:44",
   "lesson": 15,
   "title": "日本の木の文化：森林管理と木造建築",
   "pages": 102,
@@ -16,14 +16,14 @@
   },
   "files": [
     {
-      "name": "15_授業スライド_視聴配色_20261104.pptx",
-      "bytes": 20582135,
-      "sha256": "16e0fafaa4c94d6a878e8fe70657bec9c73af1922aed24c33e211c8b41f9f86d"
+      "name": "15_授業スライド_章節版_20261106.pptx",
+      "bytes": 20602399,
+      "sha256": "6c43a5a19fa3b8b33c890c925a12e46ef5c59e5c7596eebced2ae99ebf63b25f"
     },
     {
-      "name": "15_授業スライド_視聴配色_20261104.pdf",
-      "bytes": 3528595,
-      "sha256": "0faa4a4d42bb566cde154af2867e21183fdde6d342af9c06146ca043a48a8608"
+      "name": "15_授業スライド_章節版_20261106.pdf",
+      "bytes": 4217649,
+      "sha256": "532b6b9854a8b73ec3160c750226d5ff764df46885bf13fd0564254482a56e93"
     }
   ],
   "video_asset": {
@@ -68,6 +68,38 @@
     {
       "page": 79,
       "start": 4587.8,
+      "title": "森林と建物の炭素を読む"
+    }
+  ],
+  "slide_edition": "2026-11-06-chapter-sections",
+  "slide_total": 106,
+  "section_previews": [
+    {
+      "index": 1,
+      "page": 1,
+      "physical_preview": 1,
+      "physical_body": 2,
+      "title": "古い木材から建築史を読む"
+    },
+    {
+      "index": 2,
+      "page": 17,
+      "physical_preview": 18,
+      "physical_body": 19,
+      "title": "吉野・木曽・木頭と木材資源"
+    },
+    {
+      "index": 3,
+      "page": 54,
+      "physical_preview": 56,
+      "physical_body": 57,
+      "title": "森林管理と建築の保存修理"
+    },
+    {
+      "index": 4,
+      "page": 79,
+      "physical_preview": 82,
+      "physical_body": 83,
       "title": "森林と建物の炭素を読む"
     }
   ]

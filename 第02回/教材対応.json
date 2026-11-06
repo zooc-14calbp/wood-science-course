@@ -1,5 +1,5 @@
 {
-  "updated_jst": "2026-11-06 14:23",
+  "updated_jst": "2026-11-06 14:44",
   "lesson": 2,
   "title": "組織と年輪",
   "pages": 38,
@@ -16,14 +16,14 @@
   },
   "files": [
     {
-      "name": "02_授業スライド_視聴配色_20261104.pptx",
-      "bytes": 2139448,
-      "sha256": "395e5ee44ea864c37d756ed66df0e2fa059748891613eb63cc6249869e6c73f5"
+      "name": "02_授業スライド_章節版_20261106.pptx",
+      "bytes": 2157254,
+      "sha256": "539479467fb9390745ed6b5811b4a3dc11aa2f837315ac7a2e6b6d52ca689e86"
     },
     {
-      "name": "02_授業スライド_視聴配色_20261104.pdf",
-      "bytes": 2782262,
-      "sha256": "64a454be3dab38c7d0320ecb8eab612e8f55b56faffed88910ef5f0b46d9da48"
+      "name": "02_授業スライド_章節版_20261106.pdf",
+      "bytes": 3336091,
+      "sha256": "ca2c85f3faa357a8119bb0cd14aa5fed2b7fc2d02d76239f5420c1a681b8d36c"
     }
   ],
   "video_asset": {
@@ -68,6 +68,38 @@
     {
       "page": 28,
       "start": 4008.3706666666667,
+      "title": "組織の向きと材質"
+    }
+  ],
+  "slide_edition": "2026-11-06-chapter-sections",
+  "slide_total": 42,
+  "section_previews": [
+    {
+      "index": 1,
+      "page": 1,
+      "physical_preview": 1,
+      "physical_body": 2,
+      "title": "木口から組織を読む"
+    },
+    {
+      "index": 2,
+      "page": 19,
+      "physical_preview": 20,
+      "physical_body": 21,
+      "title": "年輪の内側を読む"
+    },
+    {
+      "index": 3,
+      "page": 24,
+      "physical_preview": 26,
+      "physical_body": 27,
+      "title": "壁の量と密度を結ぶ"
+    },
+    {
+      "index": 4,
+      "page": 28,
+      "physical_preview": 31,
+      "physical_body": 32,
       "title": "組織の向きと材質"
     }
   ]

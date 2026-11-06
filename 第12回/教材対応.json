@@ -1,5 +1,5 @@
 {
-  "updated_jst": "2026-11-06 14:23",
+  "updated_jst": "2026-11-06 14:44",
   "lesson": 12,
   "title": "集成材・CLTと木材資源の利用",
   "pages": 99,
@@ -16,14 +16,14 @@
   },
   "files": [
     {
-      "name": "12_授業スライド_視聴配色_20261104.pptx",
-      "bytes": 14055820,
-      "sha256": "e273a1a89fe4c3c99fe4e2bbb4d75fb76aede8688aca3b10672e17baa46f9465"
+      "name": "12_授業スライド_章節版_20261106.pptx",
+      "bytes": 14077147,
+      "sha256": "045f27628f860cf9e8121a5b448fc13192fde8f3848f42c4514048c2b45c7096"
     },
     {
-      "name": "12_授業スライド_視聴配色_20261104.pdf",
-      "bytes": 2630300,
-      "sha256": "ea5e957b1ec095027110a14cea47aefaa9094de203221afe4ffc6ccfdc06632c"
+      "name": "12_授業スライド_章節版_20261106.pdf",
+      "bytes": 3406795,
+      "sha256": "8b86af900a043cd5990e27d8dd0e5f76eef0f42c8f71c83bee60a45d0d66acc2"
     }
   ],
   "video_asset": {
@@ -68,6 +68,38 @@
     {
       "page": 79,
       "start": 4142.956,
+      "title": "バイオマスと用途の選び方"
+    }
+  ],
+  "slide_edition": "2026-11-06-chapter-sections",
+  "slide_total": 103,
+  "section_previews": [
+    {
+      "index": 1,
+      "page": 1,
+      "physical_preview": 1,
+      "physical_body": 2,
+      "title": "集成材・CLTの構成"
+    },
+    {
+      "index": 2,
+      "page": 29,
+      "physical_preview": 30,
+      "physical_body": 31,
+      "title": "大規模建築と火災時の性能"
+    },
+    {
+      "index": 3,
+      "page": 52,
+      "physical_preview": 54,
+      "physical_body": 55,
+      "title": "資源の収支と新素材"
+    },
+    {
+      "index": 4,
+      "page": 79,
+      "physical_preview": 82,
+      "physical_body": 83,
       "title": "バイオマスと用途の選び方"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated_jst": "2026-11-06 14:23",
+  "updated_jst": "2026-11-06 14:44",
   "lesson": 6,
   "title": "異方性と欠点",
   "pages": 35,
@@ -16,14 +16,14 @@
   },
   "files": [
     {
-      "name": "06_授業スライド_視聴配色_20261104.pptx",
-      "bytes": 188684,
-      "sha256": "b3aab36db5ccab26e779a6304def678f4253e3fec983cac7c24d1a87063cc700"
+      "name": "06_授業スライド_章節版_20261106.pptx",
+      "bytes": 202247,
+      "sha256": "c74d08e28a6842b508b8025c5172fc4f3f810f30ca40bd408b4f2a582b851440"
     },
     {
-      "name": "06_授業スライド_視聴配色_20261104.pdf",
-      "bytes": 1052619,
-      "sha256": "9f2231bb219657d426d269f1c90036a97cd523ae292b638157d72ddbb3e7707e"
+      "name": "06_授業スライド_章節版_20261106.pdf",
+      "bytes": 1564268,
+      "sha256": "71b6c0511106b902b6f2468edbcc591a169aa81540a0dc4c8d2055dcc9911765"
     }
   ],
   "video_asset": {
@@ -63,6 +63,31 @@
     {
       "page": 23,
       "start": 3712.925333333333,
+      "title": "節・目切れとばらつき"
+    }
+  ],
+  "slide_edition": "2026-11-06-chapter-sections",
+  "slide_total": 38,
+  "section_previews": [
+    {
+      "index": 1,
+      "page": 1,
+      "physical_preview": 1,
+      "physical_body": 2,
+      "title": "方向別の変形"
+    },
+    {
+      "index": 2,
+      "page": 15,
+      "physical_preview": 16,
+      "physical_body": 17,
+      "title": "断面を変えたときの曲げ"
+    },
+    {
+      "index": 3,
+      "page": 23,
+      "physical_preview": 25,
+      "physical_body": 26,
       "title": "節・目切れとばらつき"
     }
   ]

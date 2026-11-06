@@ -1,5 +1,5 @@
 {
-  "updated_jst": "2026-11-06 14:23",
+  "updated_jst": "2026-11-06 14:44",
   "lesson": 4,
   "title": "主要構成成分",
   "pages": 38,
@@ -16,14 +16,14 @@
   },
   "files": [
     {
-      "name": "04_授業スライド_視聴配色_20261104.pptx",
-      "bytes": 1065767,
-      "sha256": "eec23934e27eb5f526cb9854a4844ee0d9f4ce3361cfdd8272fad8170c44f483"
+      "name": "04_授業スライド_章節版_20261106.pptx",
+      "bytes": 1083768,
+      "sha256": "e99594c159ca9eee5fec5c8e9221b85d0a2c07529a510cec21f9e8ead98686ff"
     },
     {
-      "name": "04_授業スライド_視聴配色_20261104.pdf",
-      "bytes": 1650851,
-      "sha256": "840f01a95dc34452a8e31637242fc4abee7b8e0aae73e2798010e8c24c76a894"
+      "name": "04_授業スライド_章節版_20261106.pdf",
+      "bytes": 2244156,
+      "sha256": "50a6b802f0644d6c21c9fbec7399c96954192bdcc2b65ed2d59a7c6e2fa3db43"
     }
   ],
   "video_asset": {
@@ -68,6 +68,38 @@
     {
       "page": 29,
       "start": 4140.22,
+      "title": "図と比喩で説明する"
+    }
+  ],
+  "slide_edition": "2026-11-06-chapter-sections",
+  "slide_total": 42,
+  "section_previews": [
+    {
+      "index": 1,
+      "page": 1,
+      "physical_preview": 1,
+      "physical_body": 2,
+      "title": "細胞壁をつくる成分"
+    },
+    {
+      "index": 2,
+      "page": 13,
+      "physical_preview": 14,
+      "physical_body": 15,
+      "title": "親水性と成分の違い"
+    },
+    {
+      "index": 3,
+      "page": 20,
+      "physical_preview": 22,
+      "physical_body": 23,
+      "title": "割合の基準と水の場所"
+    },
+    {
+      "index": 4,
+      "page": 29,
+      "physical_preview": 32,
+      "physical_body": 33,
       "title": "図と比喩で説明する"
     }
   ]

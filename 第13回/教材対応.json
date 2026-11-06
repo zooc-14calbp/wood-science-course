@@ -1,5 +1,5 @@
 {
-  "updated_jst": "2026-11-06 14:23",
+  "updated_jst": "2026-11-06 14:44",
   "lesson": 13,
   "title": "加工・材料選択と技術科への統合",
   "pages": 82,
@@ -16,14 +16,14 @@
   },
   "files": [
     {
-      "name": "13_授業スライド_視聴配色_20261104.pptx",
-      "bytes": 464893,
-      "sha256": "68e6a047c7e8cc1d26e03530ef298211d86d742f4dd7386e7997873502c64b42"
+      "name": "13_授業スライド_章節版_20261106.pptx",
+      "bytes": 485446,
+      "sha256": "e27405fa1820ed3b2effb41f249109c659f79bf7bf8cc200f2db18eb82b6598a"
     },
     {
-      "name": "13_授業スライド_視聴配色_20261104.pdf",
-      "bytes": 1680214,
-      "sha256": "b0f5d1e59d1b784a0e5b9a7a9e09e0ac0b0d2eebd71a01f6010433b1e4753be6"
+      "name": "13_授業スライド_章節版_20261106.pdf",
+      "bytes": 2391915,
+      "sha256": "1e05b1ddcac581145754123ba0e7f7889aba7ffb2e713f46e1e50cf23f540cb1"
     }
   ],
   "video_asset": {
@@ -68,6 +68,38 @@
     {
       "page": 59,
       "start": 3794.14,
+      "title": "CAD・ICTを活用する条件"
+    }
+  ],
+  "slide_edition": "2026-11-06-chapter-sections",
+  "slide_total": 86,
+  "section_previews": [
+    {
+      "index": 1,
+      "page": 1,
+      "physical_preview": 1,
+      "physical_body": 2,
+      "title": "要求条件から棚を設計する"
+    },
+    {
+      "index": 2,
+      "page": 28,
+      "physical_preview": 29,
+      "physical_body": 30,
+      "title": "図面から加工と修理へ"
+    },
+    {
+      "index": 3,
+      "page": 42,
+      "physical_preview": 44,
+      "physical_body": 45,
+      "title": "技術科の授業と評価を組み立てる"
+    },
+    {
+      "index": 4,
+      "page": 59,
+      "physical_preview": 62,
+      "physical_body": 63,
       "title": "CAD・ICTを活用する条件"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated_jst": "2026-11-06 14:23",
+  "updated_jst": "2026-11-06 14:44",
   "lesson": 1,
   "title": "導入と外観的構造",
   "pages": 37,
@@ -16,14 +16,14 @@
   },
   "files": [
     {
-      "name": "01_授業スライド_視聴配色_20261104.pptx",
-      "bytes": 2431526,
-      "sha256": "691c5f698ec39309d71fb95cf8574e6e055e0b8e7e61d453c6097adeefe19ae7"
+      "name": "01_授業スライド_章節版_20261106.pptx",
+      "bytes": 2448962,
+      "sha256": "33940d44d68b5433040b8a31cb3226e795e47f0a4316c0f671dca0a5d66b0e42"
     },
     {
-      "name": "01_授業スライド_視聴配色_20261104.pdf",
-      "bytes": 2337510,
-      "sha256": "2b12530102e44cd7218ecd351b34c194050bd3aa3153e09cd22727a62d93ed5c"
+      "name": "01_授業スライド_章節版_20261106.pdf",
+      "bytes": 2897948,
+      "sha256": "56674348846d154bf967a58d3fc2107831dbfa2ef500025e282902639cfefdcb"
     }
   ],
   "video_asset": {
@@ -68,6 +68,38 @@
     {
       "page": 23,
       "start": 3088.191625,
+      "title": "形と材質から使い方へ"
+    }
+  ],
+  "slide_edition": "2026-11-06-chapter-sections",
+  "slide_total": 41,
+  "section_previews": [
+    {
+      "index": 1,
+      "page": 1,
+      "physical_preview": 1,
+      "physical_body": 2,
+      "title": "木材を観察する入口"
+    },
+    {
+      "index": 2,
+      "page": 10,
+      "physical_preview": 11,
+      "physical_body": 12,
+      "title": "樹木が木材をつくる"
+    },
+    {
+      "index": 3,
+      "page": 16,
+      "physical_preview": 18,
+      "physical_body": 19,
+      "title": "方向・断面と木の特徴"
+    },
+    {
+      "index": 4,
+      "page": 23,
+      "physical_preview": 26,
+      "physical_body": 27,
       "title": "形と材質から使い方へ"
     }
   ]

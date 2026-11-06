@@ -1,5 +1,5 @@
 {
-  "updated_jst": "2026-11-06 14:23",
+  "updated_jst": "2026-11-06 14:44",
   "lesson": 3,
   "title": "超微細構造",
   "pages": 30,
@@ -16,14 +16,14 @@
   },
   "files": [
     {
-      "name": "03_授業スライド_視聴配色_20261104.pptx",
-      "bytes": 440650,
-      "sha256": "f8828b4ea5c2e58344f655e8e98f78b00020bb9cca7c35bf2ea082debcb58618"
+      "name": "03_授業スライド_章節版_20261106.pptx",
+      "bytes": 453571,
+      "sha256": "67adfbdc4b659612ddf99adc2d9970d0003f12a3f8ea4378a194c3c24ccec1d8"
     },
     {
-      "name": "03_授業スライド_視聴配色_20261104.pdf",
-      "bytes": 1237410,
-      "sha256": "597472239f7f61e62935be14717dd1fece9a35bb2fa74e4597270a8ca69af978"
+      "name": "03_授業スライド_章節版_20261106.pdf",
+      "bytes": 1778570,
+      "sha256": "96070e65b31c61988b1fd23d42549643d52d5768baf562facb13141f5ab0718d"
     }
   ],
   "video_asset": {
@@ -63,6 +63,31 @@
     {
       "page": 20,
       "start": 3452.348,
+      "title": "目切れとミクロな配向"
+    }
+  ],
+  "slide_edition": "2026-11-06-chapter-sections",
+  "slide_total": 33,
+  "section_previews": [
+    {
+      "index": 1,
+      "page": 1,
+      "physical_preview": 1,
+      "physical_body": 2,
+      "title": "細胞壁を尺度ごとに見る"
+    },
+    {
+      "index": 2,
+      "page": 14,
+      "physical_preview": 15,
+      "physical_body": 16,
+      "title": "ミクロフィブリル傾角と剛性"
+    },
+    {
+      "index": 3,
+      "page": 20,
+      "physical_preview": 22,
+      "physical_body": 23,
       "title": "目切れとミクロな配向"
     }
   ]

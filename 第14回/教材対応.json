@@ -1,5 +1,5 @@
 {
-  "updated_jst": "2026-11-06 14:23",
+  "updated_jst": "2026-11-06 14:44",
   "lesson": 14,
   "title": "樹木・木材の進化史と人類史",
   "pages": 96,
@@ -16,14 +16,14 @@
   },
   "files": [
     {
-      "name": "14_授業スライド_視聴配色_20261104.pptx",
-      "bytes": 8960179,
-      "sha256": "c216b6cdcce786890f6cb76d8cc2940e380b6701e673462de840633ff93a3a05"
+      "name": "14_授業スライド_章節版_20261106.pptx",
+      "bytes": 8980778,
+      "sha256": "cd57cc27d8e1afe9366ffed915f417c5ea187ec28500e550e5bd53b608d39679"
     },
     {
-      "name": "14_授業スライド_視聴配色_20261104.pdf",
-      "bytes": 3681130,
-      "sha256": "62ee4eb121d90545ddd2330c1d2218a80094ae94dd6a88ca9472649f7e5ba03c"
+      "name": "14_授業スライド_章節版_20261106.pdf",
+      "bytes": 4382202,
+      "sha256": "f80900f4f404d0c970d0fb44a32d7297d1b8d47e345800d831440cf0460f2b79"
     }
   ],
   "video_asset": {
@@ -68,6 +68,38 @@
     {
       "page": 64,
       "start": 3600.044,
+      "title": "木工道具と加工の歴史"
+    }
+  ],
+  "slide_edition": "2026-11-06-chapter-sections",
+  "slide_total": 100,
+  "section_previews": [
+    {
+      "index": 1,
+      "page": 1,
+      "physical_preview": 1,
+      "physical_body": 2,
+      "title": "陸上植物と木材の形成"
+    },
+    {
+      "index": 2,
+      "page": 29,
+      "physical_preview": 30,
+      "physical_body": 31,
+      "title": "大きさと長寿を分ける"
+    },
+    {
+      "index": 3,
+      "page": 45,
+      "physical_preview": 47,
+      "physical_body": 48,
+      "title": "初期人類の木材利用"
+    },
+    {
+      "index": 4,
+      "page": 64,
+      "physical_preview": 67,
+      "physical_body": 68,
       "title": "木工道具と加工の歴史"
     }
   ]

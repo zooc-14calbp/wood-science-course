@@ -1,5 +1,5 @@
 {
-  "updated_jst": "2026-11-06 14:23",
+  "updated_jst": "2026-11-06 14:44",
   "lesson": 9,
   "title": "水分と寸法変化",
   "pages": 35,
@@ -16,14 +16,14 @@
   },
   "files": [
     {
-      "name": "09_授業スライド_視聴配色_20261104.pptx",
-      "bytes": 181539,
-      "sha256": "1ed844e480e142c3613398decc4c8aeed9b97202f49b4b82aadf5dd572fe382a"
+      "name": "09_授業スライド_章節版_20261106.pptx",
+      "bytes": 198594,
+      "sha256": "e872df8869eaf49a41f2af54928e52892708eabd3661080bd005094d76b11deb"
     },
     {
-      "name": "09_授業スライド_視聴配色_20261104.pdf",
-      "bytes": 1064041,
-      "sha256": "c87b2891eeec76add3ff96884f5dc7c823db3062320fe1672ee8c20355343b8d"
+      "name": "09_授業スライド_章節版_20261106.pdf",
+      "bytes": 1569866,
+      "sha256": "c842f0e12fdee0805acfb8ebf3212070dfb369f732d9c41c94cab6b592756b5c"
     }
   ],
   "video_asset": {
@@ -68,6 +68,38 @@
     {
       "page": 32,
       "start": 4854.015708333333,
+      "title": "発展　水を含める上限"
+    }
+  ],
+  "slide_edition": "2026-11-06-chapter-sections",
+  "slide_total": 39,
+  "section_previews": [
+    {
+      "index": 1,
+      "page": 1,
+      "physical_preview": 1,
+      "physical_body": 2,
+      "title": "水と三方向の収縮"
+    },
+    {
+      "index": 2,
+      "page": 12,
+      "physical_preview": 13,
+      "physical_body": 14,
+      "title": "乾燥・拘束と変形"
+    },
+    {
+      "index": 3,
+      "page": 20,
+      "physical_preview": 22,
+      "physical_body": 23,
+      "title": "木製扉の動きを逃がす"
+    },
+    {
+      "index": 4,
+      "page": 32,
+      "physical_preview": 35,
+      "physical_body": 36,
       "title": "発展　水を含める上限"
     }
   ]
