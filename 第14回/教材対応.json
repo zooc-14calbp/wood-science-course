@@ -1,18 +1,18 @@
 {
-  "updated_jst": "2026-11-04 13:48",
+  "updated_jst": "2026-11-06 14:23",
   "lesson": 14,
   "title": "樹木・木材の進化史と人類史",
   "pages": 96,
   "edition": "2026-11-04-viewing-colors",
-  "video_seconds": 5589.096,
-  "video_display": "93:09",
-  "video_release": "lecture14-20261104-viewing-colors",
-  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture14-20261104-viewing-colors/W14_Nanami_20261104_viewing.mp4",
-  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture14-20261104-student-final/W14_Nanami_20261104_final.mp4",
-  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture14-20261104-student-final/W14_Nanami_20261104_final.mp3",
+  "video_seconds": 5638.596,
+  "video_display": "93:58",
+  "video_release": "20261106-chapter-sections",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W14_Nanami_20261106_sections.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture14-20261104-viewing-colors/W14_Nanami_20261104_viewing.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W14_Nanami_20261106_sections.mp3",
   "subtitle_urls": {
-    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture14-20261104-student-final/W14_Nanami_20261104_final.srt",
-    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture14-20261104-student-final/W14_Nanami_20261104_final.vtt"
+    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W14_Nanami_20261106_sections.srt",
+    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W14_Nanami_20261106_sections.vtt"
   },
   "files": [
     {
@@ -27,8 +27,48 @@
     }
   ],
   "video_asset": {
-    "name": "W14_Nanami_20261104_viewing.mp4",
-    "sha256": "af71e177bb9c2a43a4fccdf755391ae0fdc575897c154c2a816d98f59179d49d",
-    "bytes": 188754750
-  }
+    "name": "W14_Nanami_20261106_sections.mp4",
+    "bytes": 100111289,
+    "sha256": "d6c6d3053bf47da211b7af9242854a5d0403afeb3454bfffb59947fae370694b"
+  },
+  "video_edition": "2026-11-06-chapter-sections",
+  "audio_asset": {
+    "name": "W14_Nanami_20261106_sections.mp3",
+    "bytes": 45109484,
+    "sha256": "bb5cfbd156cce9b4ea7be1fc5c95cc1faea1976c90521cd9d7be0ec7fde628ab"
+  },
+  "subtitle_assets": {
+    "srt": {
+      "name": "W14_Nanami_20261106_sections.srt",
+      "bytes": 110329,
+      "sha256": "82c19271b6596b4e1988afa36ac72e116f4b5ce5bd7e4d642d5317ad7f4decd4"
+    },
+    "vtt": {
+      "name": "W14_Nanami_20261106_sections.vtt",
+      "bytes": 106302,
+      "sha256": "289d8d5620461072108af61ea44fc59fd9b84624d9d0fb4500981200be0b64e4"
+    }
+  },
+  "video_sections": [
+    {
+      "page": 1,
+      "start": 0.0,
+      "title": "陸上植物と木材の形成"
+    },
+    {
+      "page": 29,
+      "start": 1602.488,
+      "title": "大きさと長寿を分ける"
+    },
+    {
+      "page": 45,
+      "start": 2458.62,
+      "title": "初期人類の木材利用"
+    },
+    {
+      "page": 64,
+      "start": 3600.044,
+      "title": "木工道具と加工の歴史"
+    }
+  ]
 }

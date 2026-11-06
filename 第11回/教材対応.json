@@ -1,18 +1,18 @@
 {
-  "updated_jst": "2026-11-04 13:48",
+  "updated_jst": "2026-11-06 14:23",
   "lesson": 11,
   "title": "接着・塗装と木質材料の設計",
   "pages": 95,
   "edition": "2026-11-04-viewing-colors",
-  "video_seconds": 5339.252,
-  "video_display": "88:59",
-  "video_release": "lecture11-20261104-viewing-colors",
-  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture11-20261104-viewing-colors/W11_Nanami_20261104_viewing.mp4",
-  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture11-20261104-student-final/W11_Nanami_20261104_final.mp4",
-  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture11-20261104-student-final/W11_Nanami_20261104_final.mp3",
+  "video_seconds": 5388.5,
+  "video_display": "89:48",
+  "video_release": "20261106-chapter-sections",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W11_Nanami_20261106_sections.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture11-20261104-viewing-colors/W11_Nanami_20261104_viewing.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W11_Nanami_20261106_sections.mp3",
   "subtitle_urls": {
-    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture11-20261104-student-final/W11_Nanami_20261104_final.srt",
-    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture11-20261104-student-final/W11_Nanami_20261104_final.vtt"
+    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W11_Nanami_20261106_sections.srt",
+    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W11_Nanami_20261106_sections.vtt"
   },
   "files": [
     {
@@ -27,8 +27,48 @@
     }
   ],
   "video_asset": {
-    "name": "W11_Nanami_20261104_viewing.mp4",
-    "sha256": "0a0f99181869a6ed60d5e2e8be5062c7ad1cfbc1b72adb9f97dbc717b58df6b3",
-    "bytes": 191210100
-  }
+    "name": "W11_Nanami_20261106_sections.mp4",
+    "bytes": 99063968,
+    "sha256": "0e231e27fa189b37e7f31fe1f5a600071cb22e1f094cecae6f24bc41b4db548d"
+  },
+  "video_edition": "2026-11-06-chapter-sections",
+  "audio_asset": {
+    "name": "W11_Nanami_20261106_sections.mp3",
+    "bytes": 43106732,
+    "sha256": "8133c1c1c7f127849609adb6ce0d1671c316e35d0188635813eb3708ef97aa6a"
+  },
+  "subtitle_assets": {
+    "srt": {
+      "name": "W11_Nanami_20261106_sections.srt",
+      "bytes": 101673,
+      "sha256": "514f1a8cee1930ad8bce2d3475cb6ed42955eb9daea4fd23576204c3d07a24c4"
+    },
+    "vtt": {
+      "name": "W11_Nanami_20261106_sections.vtt",
+      "bytes": 98041,
+      "sha256": "180d695e78db9ccd0189a4269944f1134d5e4e3a3b359ee6a8b783babb7d72c0"
+    }
+  },
+  "video_sections": [
+    {
+      "page": 1,
+      "start": 0.0,
+      "title": "接着層が力を伝えるまで"
+    },
+    {
+      "page": 35,
+      "start": 1993.276,
+      "title": "要素と層の向きで材を選ぶ"
+    },
+    {
+      "page": 67,
+      "start": 3763.332,
+      "title": "塗装と表面の仕上げ"
+    },
+    {
+      "page": 86,
+      "start": 4931.032,
+      "title": "棚の作業計画をまとめる"
+    }
+  ]
 }

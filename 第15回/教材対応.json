@@ -1,18 +1,18 @@
 {
-  "updated_jst": "2026-11-04 13:48",
+  "updated_jst": "2026-11-06 14:23",
   "lesson": 15,
   "title": "日本の木の文化：森林管理と木造建築",
   "pages": 102,
   "edition": "2026-11-04-viewing-colors",
-  "video_seconds": 5405.976,
-  "video_display": "90:05",
-  "video_release": "lecture15-20261104-viewing-colors",
-  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture15-20261104-viewing-colors/W15_Nanami_20261104_viewing.mp4",
-  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture15-20261104-student-final/W15_Nanami_20261104_final.mp4",
-  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture15-20261104-student-final/W15_Nanami_20261104_final.mp3",
+  "video_seconds": 5458.5,
+  "video_display": "90:58",
+  "video_release": "20261106-chapter-sections",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W15_Nanami_20261106_sections.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture15-20261104-viewing-colors/W15_Nanami_20261104_viewing.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W15_Nanami_20261106_sections.mp3",
   "subtitle_urls": {
-    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture15-20261104-student-final/W15_Nanami_20261104_final.srt",
-    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture15-20261104-student-final/W15_Nanami_20261104_final.vtt"
+    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W15_Nanami_20261106_sections.srt",
+    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W15_Nanami_20261106_sections.vtt"
   },
   "files": [
     {
@@ -27,8 +27,48 @@
     }
   ],
   "video_asset": {
-    "name": "W15_Nanami_20261104_viewing.mp4",
-    "sha256": "1061c7138361f1c9dc57ae22daeb4e7052ee89491ccdea2d62ea0f3344d48aa8",
-    "bytes": 177994140
-  }
+    "name": "W15_Nanami_20261106_sections.mp4",
+    "bytes": 94781477,
+    "sha256": "60ea6af3692347c53da641d92f1035a25816128abb18af74765d1c9b8a9cf36b"
+  },
+  "video_edition": "2026-11-06-chapter-sections",
+  "audio_asset": {
+    "name": "W15_Nanami_20261106_sections.mp3",
+    "bytes": 43668524,
+    "sha256": "7cddbf7e2718524adc4c9532af800edbe07ce11b6c4611d61b12cdfc09d172ec"
+  },
+  "subtitle_assets": {
+    "srt": {
+      "name": "W15_Nanami_20261106_sections.srt",
+      "bytes": 104001,
+      "sha256": "54bcc31ed71a35407c53d9932efa9e60dfae52707bc32ebfa6af1e905c9e27bb"
+    },
+    "vtt": {
+      "name": "W15_Nanami_20261106_sections.vtt",
+      "bytes": 100329,
+      "sha256": "b2f37c12b4c2d514f5bf424c39cf12486c085f8005d5b2999121b75af4acfbe8"
+    }
+  },
+  "video_sections": [
+    {
+      "page": 1,
+      "start": 0.0,
+      "title": "古い木材から建築史を読む"
+    },
+    {
+      "page": 17,
+      "start": 891.656,
+      "title": "吉野・木曽・木頭と木材資源"
+    },
+    {
+      "page": 54,
+      "start": 3433.184,
+      "title": "森林管理と建築の保存修理"
+    },
+    {
+      "page": 79,
+      "start": 4587.8,
+      "title": "森林と建物の炭素を読む"
+    }
+  ]
 }

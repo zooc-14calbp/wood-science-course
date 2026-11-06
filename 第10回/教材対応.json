@@ -1,18 +1,18 @@
 {
-  "updated_jst": "2026-11-04 13:48",
+  "updated_jst": "2026-11-06 14:23",
   "lesson": 10,
   "title": "生物劣化と木材防腐",
   "pages": 43,
   "edition": "2026-11-04-viewing-colors",
-  "video_seconds": 5524.675791666667,
-  "video_display": "92:04",
-  "video_release": "lecture10-20261104-viewing-colors",
-  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture10-20261104-viewing-colors/W10_Nanami_20261104_viewing.mp4",
-  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture10-20261104-student-final/W10_Nanami_20261104_final.mp4",
-  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture10-20261104-student-final/W10_Nanami_20261104_final.mp3",
+  "video_seconds": 5574.676,
+  "video_display": "92:54",
+  "video_release": "20261106-chapter-sections",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W10_Nanami_20261106_sections.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture10-20261104-viewing-colors/W10_Nanami_20261104_viewing.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W10_Nanami_20261106_sections.mp3",
   "subtitle_urls": {
-    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture10-20261104-student-final/W10_Nanami_20261104_final.srt",
-    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture10-20261104-student-final/W10_Nanami_20261104_final.vtt"
+    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W10_Nanami_20261106_sections.srt",
+    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W10_Nanami_20261106_sections.vtt"
   },
   "files": [
     {
@@ -27,8 +27,48 @@
     }
   ],
   "video_asset": {
-    "name": "W10_Nanami_20261104_viewing.mp4",
-    "sha256": "a29ad97bd2abb916260bc154c5e2e8fcf7cab4ce5efd9620979951a7560fb9aa",
-    "bytes": 155681493
-  }
+    "name": "W10_Nanami_20261106_sections.mp4",
+    "bytes": 75964661,
+    "sha256": "3f8f2eb9eda92b9732d4a127ff85cd56603ed5e2f9c009b4a48922b4d4298401"
+  },
+  "video_edition": "2026-11-06-chapter-sections",
+  "audio_asset": {
+    "name": "W10_Nanami_20261106_sections.mp3",
+    "bytes": 44598188,
+    "sha256": "0f446f1b488ff7c970d8f1fb006edde5ebcdd807cbe03b11c3c38f18ae866a34"
+  },
+  "subtitle_assets": {
+    "srt": {
+      "name": "W10_Nanami_20261106_sections.srt",
+      "bytes": 68494,
+      "sha256": "6439fb24d25ac26ade741d78e320123d3a7816befa8f8d3c458aa22578bfffde"
+    },
+    "vtt": {
+      "name": "W10_Nanami_20261106_sections.vtt",
+      "bytes": 66062,
+      "sha256": "2a93322a32ec2e689b259d264bb2f46344ffce9b0d7b4b474f19ac6dbf6a4f3b"
+    }
+  },
+  "video_sections": [
+    {
+      "page": 1,
+      "start": 0.0,
+      "title": "劣化を外観と条件から考える"
+    },
+    {
+      "page": 15,
+      "start": 1646.6307083333334,
+      "title": "腐朽・虫害と性能の変化"
+    },
+    {
+      "page": 21,
+      "start": 2369.3347083333333,
+      "title": "予防と保存処理を選ぶ"
+    },
+    {
+      "page": 32,
+      "start": 3698.510041666667,
+      "title": "観察計画と授業に結ぶ"
+    }
+  ]
 }

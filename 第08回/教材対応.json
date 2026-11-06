@@ -1,18 +1,18 @@
 {
-  "updated_jst": "2026-11-04 13:48",
+  "updated_jst": "2026-11-06 14:23",
   "lesson": 8,
   "title": "木材と水",
   "pages": 39,
   "edition": "2026-11-04-viewing-colors",
-  "video_seconds": 5555.11,
-  "video_display": "92:35",
-  "video_release": "lecture08-20261104-viewing-colors",
-  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture08-20261104-viewing-colors/W08_Nanami_20261104_viewing.mp4",
-  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture08-20261104-student-final/W08_Nanami_20261104_final.mp4",
-  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture08-20261104-student-final/W08_Nanami_20261104_final.mp3",
+  "video_seconds": 5594.61,
+  "video_display": "93:14",
+  "video_release": "20261106-chapter-sections",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W08_Nanami_20261106_sections.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture08-20261104-viewing-colors/W08_Nanami_20261104_viewing.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W08_Nanami_20261106_sections.mp3",
   "subtitle_urls": {
-    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture08-20261104-student-final/W08_Nanami_20261104_final.srt",
-    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture08-20261104-student-final/W08_Nanami_20261104_final.vtt"
+    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W08_Nanami_20261106_sections.srt",
+    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W08_Nanami_20261106_sections.vtt"
   },
   "files": [
     {
@@ -27,8 +27,43 @@
     }
   ],
   "video_asset": {
-    "name": "W08_Nanami_20261104_viewing.mp4",
-    "sha256": "5897bf867fe53791952517c3e11a8773dc049086412cb4457c3e04498a5f8a4b",
-    "bytes": 149181945
-  }
+    "name": "W08_Nanami_20261106_sections.mp4",
+    "bytes": 72464184,
+    "sha256": "411aefea410968d7cde2cdcc82da9ec4c4b947cb39aa9fba22f8a9f1590ec154"
+  },
+  "video_edition": "2026-11-06-chapter-sections",
+  "audio_asset": {
+    "name": "W08_Nanami_20261106_sections.mp3",
+    "bytes": 44757548,
+    "sha256": "5a09c6a0ce6995a518d68e300642fdebece80ff16136875da15fc2c5b3084360"
+  },
+  "subtitle_assets": {
+    "srt": {
+      "name": "W08_Nanami_20261106_sections.srt",
+      "bytes": 66317,
+      "sha256": "1e88a798c21a6341a88fe4ef717d4dc0a146998ba23d799e7d86b7748cbf98fd"
+    },
+    "vtt": {
+      "name": "W08_Nanami_20261106_sections.vtt",
+      "bytes": 63915,
+      "sha256": "0fb8fcf61b5cdc751e626be017d8508c1dcff76327910ca010b2ab7e8751e460"
+    }
+  },
+  "video_sections": [
+    {
+      "page": 1,
+      "start": 0.0,
+      "title": "同じ水を二つの分母で表す"
+    },
+    {
+      "page": 18,
+      "start": 2161.2806666666665,
+      "title": "水の所在と寸法"
+    },
+    {
+      "page": 26,
+      "start": 3453.4553333333333,
+      "title": "環境と含水率"
+    }
+  ]
 }

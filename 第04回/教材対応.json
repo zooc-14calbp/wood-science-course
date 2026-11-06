@@ -1,18 +1,18 @@
 {
-  "updated_jst": "2026-11-04 13:48",
+  "updated_jst": "2026-11-06 14:23",
   "lesson": 4,
   "title": "主要構成成分",
   "pages": 38,
   "edition": "2026-11-04-viewing-colors",
-  "video_seconds": 5484.232,
-  "video_display": "91:24",
-  "video_release": "lecture04-20261104-viewing-colors",
-  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture04-20261104-viewing-colors/W04_Nanami_20261104_viewing.mp4",
-  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture04-20261104-student-final/W04_Nanami_20261104_final.mp4",
-  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture04-20261104-student-final/W04_Nanami_20261104_final.mp3",
+  "video_seconds": 5531.732,
+  "video_display": "92:11",
+  "video_release": "20261106-chapter-sections",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W04_Nanami_20261106_sections.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture04-20261104-viewing-colors/W04_Nanami_20261104_viewing.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W04_Nanami_20261106_sections.mp3",
   "subtitle_urls": {
-    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture04-20261104-student-final/W04_Nanami_20261104_final.srt",
-    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture04-20261104-student-final/W04_Nanami_20261104_final.vtt"
+    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W04_Nanami_20261106_sections.srt",
+    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W04_Nanami_20261106_sections.vtt"
   },
   "files": [
     {
@@ -27,8 +27,48 @@
     }
   ],
   "video_asset": {
-    "name": "W04_Nanami_20261104_viewing.mp4",
-    "sha256": "3161d446a84d8ddbd850836a1190fcaf74de49a6499ead31f43dbeee947edd22",
-    "bytes": 185769094
-  }
+    "name": "W04_Nanami_20261106_sections.mp4",
+    "bytes": 95236835,
+    "sha256": "6001cd23cfc91f13512d300afbd2d3b19f5026a8d07fbc00632417e7e00b8561"
+  },
+  "video_edition": "2026-11-06-chapter-sections",
+  "audio_asset": {
+    "name": "W04_Nanami_20261106_sections.mp3",
+    "bytes": 44254508,
+    "sha256": "73d6e8d724459d5d89d857e595ad29733ab932cd6bf644fda87ed0dfc171b05a"
+  },
+  "subtitle_assets": {
+    "srt": {
+      "name": "W04_Nanami_20261106_sections.srt",
+      "bytes": 103962,
+      "sha256": "0f5939fe4793441ba5161c1f936b937cb3340e50d813837feedd841790c12413"
+    },
+    "vtt": {
+      "name": "W04_Nanami_20261106_sections.vtt",
+      "bytes": 100175,
+      "sha256": "03340f87c7c43703e571257d0d0969cdf36ee09345076d0d1b3651da3f77eaae"
+    }
+  },
+  "video_sections": [
+    {
+      "page": 1,
+      "start": 0.0,
+      "title": "細胞壁をつくる成分"
+    },
+    {
+      "page": 13,
+      "start": 1644.084,
+      "title": "親水性と成分の違い"
+    },
+    {
+      "page": 20,
+      "start": 2760.128,
+      "title": "割合の基準と水の場所"
+    },
+    {
+      "page": 29,
+      "start": 4140.22,
+      "title": "図と比喩で説明する"
+    }
+  ]
 }

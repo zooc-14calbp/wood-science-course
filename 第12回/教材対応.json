@@ -1,18 +1,18 @@
 {
-  "updated_jst": "2026-11-04 13:48",
+  "updated_jst": "2026-11-06 14:23",
   "lesson": 12,
   "title": "集成材・CLTと木材資源の利用",
   "pages": 99,
   "edition": "2026-11-04-viewing-colors",
-  "video_seconds": 5282.604,
-  "video_display": "88:02",
-  "video_release": "lecture12-20261104-viewing-colors",
-  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture12-20261104-viewing-colors/W12_Nanami_20261104_viewing.mp4",
-  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture12-20261104-student-final/W12_Nanami_20261104_final.mp4",
-  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture12-20261104-student-final/W12_Nanami_20261104_final.mp3",
+  "video_seconds": 5336.104,
+  "video_display": "88:56",
+  "video_release": "20261106-chapter-sections",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W12_Nanami_20261106_sections.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture12-20261104-viewing-colors/W12_Nanami_20261104_viewing.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W12_Nanami_20261106_sections.mp3",
   "subtitle_urls": {
-    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture12-20261104-student-final/W12_Nanami_20261104_final.srt",
-    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture12-20261104-student-final/W12_Nanami_20261104_final.vtt"
+    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W12_Nanami_20261106_sections.srt",
+    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W12_Nanami_20261106_sections.vtt"
   },
   "files": [
     {
@@ -27,8 +27,48 @@
     }
   ],
   "video_asset": {
-    "name": "W12_Nanami_20261104_viewing.mp4",
-    "sha256": "6cb398afadd8ddc9d996589919bb53a489a0e69cb1bd0d5e25c623fa115c1de3",
-    "bytes": 185138109
-  }
+    "name": "W12_Nanami_20261106_sections.mp4",
+    "bytes": 96392579,
+    "sha256": "7dc62ddb093b5b68606208f8e82d423a0957fe8d3bc371a14ddb1e4c529f996e"
+  },
+  "video_edition": "2026-11-06-chapter-sections",
+  "audio_asset": {
+    "name": "W12_Nanami_20261106_sections.mp3",
+    "bytes": 42689516,
+    "sha256": "bded450ae4558dc4f9a6c742307cc6a4f40d5ce38e4b68ffdc549fcc7688804e"
+  },
+  "subtitle_assets": {
+    "srt": {
+      "name": "W12_Nanami_20261106_sections.srt",
+      "bytes": 98682,
+      "sha256": "848484ae77e67c2b022514d52e5635a2eb416447b59f1d2f18ac787c5c110e3e"
+    },
+    "vtt": {
+      "name": "W12_Nanami_20261106_sections.vtt",
+      "bytes": 95100,
+      "sha256": "9d89d0478127791a3b84827468b3685dd1cd752128d0e3d2d31a0968222d3267"
+    }
+  },
+  "video_sections": [
+    {
+      "page": 1,
+      "start": 0.0,
+      "title": "集成材・CLTの構成"
+    },
+    {
+      "page": 29,
+      "start": 1541.012,
+      "title": "大規模建築と火災時の性能"
+    },
+    {
+      "page": 52,
+      "start": 2825.348,
+      "title": "資源の収支と新素材"
+    },
+    {
+      "page": 79,
+      "start": 4142.956,
+      "title": "バイオマスと用途の選び方"
+    }
+  ]
 }

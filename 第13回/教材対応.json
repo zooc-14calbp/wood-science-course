@@ -1,18 +1,18 @@
 {
-  "updated_jst": "2026-11-04 13:48",
+  "updated_jst": "2026-11-06 14:23",
   "lesson": 13,
   "title": "加工・材料選択と技術科への統合",
   "pages": 82,
   "edition": "2026-11-04-viewing-colors",
-  "video_seconds": 5327.32,
-  "video_display": "88:47",
-  "video_release": "lecture13-20261104-viewing-colors",
-  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-20261104-viewing-colors/W13_Nanami_20261104_viewing.mp4",
-  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-20261101-expanded-final/W13_Nanami_20261101_expanded.mp4",
-  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-20261101-expanded-final/W13_Nanami_20261101_expanded.mp3",
+  "video_seconds": 5380.0,
+  "video_display": "89:40",
+  "video_release": "20261106-chapter-sections",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W13_Nanami_20261106_sections.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-20261104-viewing-colors/W13_Nanami_20261104_viewing.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W13_Nanami_20261106_sections.mp3",
   "subtitle_urls": {
-    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-20261101-expanded-final/W13_Nanami_20261101_expanded.srt",
-    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-20261101-expanded-final/W13_Nanami_20261101_expanded.vtt"
+    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W13_Nanami_20261106_sections.srt",
+    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W13_Nanami_20261106_sections.vtt"
   },
   "files": [
     {
@@ -27,8 +27,48 @@
     }
   ],
   "video_asset": {
-    "name": "W13_Nanami_20261104_viewing.mp4",
-    "sha256": "390f23d58f7f6a8955d296051224a622cda1ebb5fb2b252432fe1f414d375b35",
-    "bytes": 180171879
-  }
+    "name": "W13_Nanami_20261106_sections.mp4",
+    "bytes": 94882227,
+    "sha256": "af64b17e6ec024b46c3b63798748301678f81f3c3e017919e6f0d9a41ce0b256"
+  },
+  "video_edition": "2026-11-06-chapter-sections",
+  "audio_asset": {
+    "name": "W13_Nanami_20261106_sections.mp3",
+    "bytes": 43039340,
+    "sha256": "fba47fca3b5279eb68d5787055c1d0d8174e76f0687484bbb24edefbd30d401d"
+  },
+  "subtitle_assets": {
+    "srt": {
+      "name": "W13_Nanami_20261106_sections.srt",
+      "bytes": 104584,
+      "sha256": "63ab275022fecf585e3a0078ac13ac10b097a77d3865b968f2d0bb7262931cde"
+    },
+    "vtt": {
+      "name": "W13_Nanami_20261106_sections.vtt",
+      "bytes": 100822,
+      "sha256": "038142854bd4002fcb1fb9623db555ec6d56108bab666831300483134d78fa56"
+    }
+  },
+  "video_sections": [
+    {
+      "page": 1,
+      "start": 0.0,
+      "title": "要求条件から棚を設計する"
+    },
+    {
+      "page": 28,
+      "start": 1759.744,
+      "title": "図面から加工と修理へ"
+    },
+    {
+      "page": 42,
+      "start": 2647.168,
+      "title": "技術科の授業と評価を組み立てる"
+    },
+    {
+      "page": 59,
+      "start": 3794.14,
+      "title": "CAD・ICTを活用する条件"
+    }
+  ]
 }

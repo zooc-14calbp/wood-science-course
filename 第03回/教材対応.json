@@ -1,18 +1,18 @@
 {
-  "updated_jst": "2026-11-04 13:48",
+  "updated_jst": "2026-11-06 14:23",
   "lesson": 3,
   "title": "超微細構造",
   "pages": 30,
   "edition": "2026-11-04-viewing-colors",
-  "video_seconds": 5462.904,
-  "video_display": "91:02",
-  "video_release": "lecture03-20261104-viewing-colors",
-  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture03-20261104-viewing-colors/W03_Nanami_20261104_viewing.mp4",
-  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture03-20261104-proofread/W03_Nanami_20261104.mp4",
-  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture03-20261104-proofread/W03_Nanami_20261104.mp3",
+  "video_seconds": 5505.0,
+  "video_display": "91:45",
+  "video_release": "20261106-chapter-sections",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W03_Nanami_20261106_sections.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture03-20261104-viewing-colors/W03_Nanami_20261104_viewing.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W03_Nanami_20261106_sections.mp3",
   "subtitle_urls": {
-    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture03-20261104-proofread/W03_Nanami_20261104.srt",
-    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture03-20261104-proofread/W03_Nanami_20261104.vtt"
+    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W03_Nanami_20261106_sections.srt",
+    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W03_Nanami_20261106_sections.vtt"
   },
   "files": [
     {
@@ -27,8 +27,43 @@
     }
   ],
   "video_asset": {
-    "name": "W03_Nanami_20261104_viewing.mp4",
-    "sha256": "f26971e36ec00d4ea63361655d50a01b956c226aafee3b4d44559ed8f19745b4",
-    "bytes": 188428239
-  }
+    "name": "W03_Nanami_20261106_sections.mp4",
+    "bytes": 96212534,
+    "sha256": "cb588b1ee0e3f7fe3a363285d6d8e45a4f55634274f9fb9cef15f96b5d542386"
+  },
+  "video_edition": "2026-11-06-chapter-sections",
+  "audio_asset": {
+    "name": "W03_Nanami_20261106_sections.mp3",
+    "bytes": 44039852,
+    "sha256": "a5b885d6d690b1293df5c1d0a42d421fcca9abc50cde86bb13ecdf181491c873"
+  },
+  "subtitle_assets": {
+    "srt": {
+      "name": "W03_Nanami_20261106_sections.srt",
+      "bytes": 106648,
+      "sha256": "f69aa4fd27910b07b51be4e9ef3a3c1d9cf432038df0d85d964577bdcba61b61"
+    },
+    "vtt": {
+      "name": "W03_Nanami_20261106_sections.vtt",
+      "bytes": 102691,
+      "sha256": "47bb0162c592beabac6ad597c166d1eb21e0f4c5cc36498385dde9456aa8138b"
+    }
+  },
+  "video_sections": [
+    {
+      "page": 1,
+      "start": 0.0,
+      "title": "細胞壁を尺度ごとに見る"
+    },
+    {
+      "page": 14,
+      "start": 2311.528,
+      "title": "ミクロフィブリル傾角と剛性"
+    },
+    {
+      "page": 20,
+      "start": 3452.348,
+      "title": "目切れとミクロな配向"
+    }
+  ]
 }

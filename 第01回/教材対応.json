@@ -1,18 +1,18 @@
 {
-  "updated_jst": "2026-11-04 13:48",
+  "updated_jst": "2026-11-06 14:23",
   "lesson": 1,
   "title": "導入と外観的構造",
   "pages": 37,
   "edition": "2026-11-04-viewing-colors",
-  "video_seconds": 5398.229375,
-  "video_display": "89:58",
-  "video_release": "lecture01-20261104-viewing-colors",
-  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261104-viewing-colors/W01_Nanami_20261104_viewing.mp4",
-  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261104-proofread/W01_Nanami_20261104.mp4",
-  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261104-proofread/W01_Nanami_20261104.mp3",
+  "video_seconds": 5445.23,
+  "video_display": "90:45",
+  "video_release": "20261106-chapter-sections",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W01_Nanami_20261106_sections.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261104-viewing-colors/W01_Nanami_20261104_viewing.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W01_Nanami_20261106_sections.mp3",
   "subtitle_urls": {
-    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261104-proofread/W01_Nanami_20261104.srt",
-    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261104-proofread/W01_Nanami_20261104.vtt"
+    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W01_Nanami_20261106_sections.srt",
+    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W01_Nanami_20261106_sections.vtt"
   },
   "files": [
     {
@@ -27,8 +27,48 @@
     }
   ],
   "video_asset": {
-    "name": "W01_Nanami_20261104_viewing.mp4",
-    "sha256": "f2f15e8c3388f108c86903406a48d314c16307d6a191a1e869fed9421a7259b2",
-    "bytes": 216827870
-  }
+    "name": "W01_Nanami_20261106_sections.mp4",
+    "bytes": 105615089,
+    "sha256": "34ab604fb366783e98bf796f13458a6105babe6544954d65c50e7af805f47db8"
+  },
+  "video_edition": "2026-11-06-chapter-sections",
+  "audio_asset": {
+    "name": "W01_Nanami_20261106_sections.mp3",
+    "bytes": 43562540,
+    "sha256": "6b743f2656cf39dcd7d9348aaef3bdf1deb7f75cef6ebe8b30426269b95d6de6"
+  },
+  "subtitle_assets": {
+    "srt": {
+      "name": "W01_Nanami_20261106_sections.srt",
+      "bytes": 103696,
+      "sha256": "097ef4ed064577732840c6500ace99ddb372fbc10ec45a760da0f4381318edb1"
+    },
+    "vtt": {
+      "name": "W01_Nanami_20261106_sections.vtt",
+      "bytes": 99874,
+      "sha256": "3c8684878736df2393016d1196d28fd0f16fa6dc4a1db8d66b94f7c2ad699cdf"
+    }
+  },
+  "video_sections": [
+    {
+      "page": 1,
+      "start": 0.0,
+      "title": "木材を観察する入口"
+    },
+    {
+      "page": 10,
+      "start": 1070.0369583333334,
+      "title": "樹木が木材をつくる"
+    },
+    {
+      "page": 16,
+      "start": 1952.7182916666666,
+      "title": "方向・断面と木の特徴"
+    },
+    {
+      "page": 23,
+      "start": 3088.191625,
+      "title": "形と材質から使い方へ"
+    }
+  ]
 }

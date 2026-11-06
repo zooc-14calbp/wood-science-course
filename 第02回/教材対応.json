@@ -1,18 +1,18 @@
 {
-  "updated_jst": "2026-11-04 13:48",
+  "updated_jst": "2026-11-06 14:23",
   "lesson": 2,
   "title": "組織と年輪",
   "pages": 38,
   "edition": "2026-11-04-viewing-colors",
-  "video_seconds": 5438.424,
-  "video_display": "90:38",
-  "video_release": "lecture02-20261104-viewing-colors",
-  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture02-20261104-viewing-colors/W02_Nanami_20261104_viewing.mp4",
-  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture02-20261104-proofread/W02_Nanami_20261104.mp4",
-  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture02-20261104-proofread/W02_Nanami_20261104.mp3",
+  "video_seconds": 5491.0,
+  "video_display": "91:31",
+  "video_release": "20261106-chapter-sections",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W02_Nanami_20261106_sections.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture02-20261104-viewing-colors/W02_Nanami_20261104_viewing.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W02_Nanami_20261106_sections.mp3",
   "subtitle_urls": {
-    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture02-20261104-proofread/W02_Nanami_20261104.srt",
-    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture02-20261104-proofread/W02_Nanami_20261104.vtt"
+    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W02_Nanami_20261106_sections.srt",
+    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W02_Nanami_20261106_sections.vtt"
   },
   "files": [
     {
@@ -27,8 +27,48 @@
     }
   ],
   "video_asset": {
-    "name": "W02_Nanami_20261104_viewing.mp4",
-    "sha256": "bc4f93dffd58d8668f1a07a9b587c7517d885fdb8e2c253bbdcb19d1aac1a78d",
-    "bytes": 255337968
-  }
+    "name": "W02_Nanami_20261106_sections.mp4",
+    "bytes": 119390962,
+    "sha256": "6ffc91b2357380e92c3d6c911b02bb55de3f6141e6da09f7f7fd2996276ca604"
+  },
+  "video_edition": "2026-11-06-chapter-sections",
+  "audio_asset": {
+    "name": "W02_Nanami_20261106_sections.mp3",
+    "bytes": 43928108,
+    "sha256": "acedd18d1bb19b9813d2368459d38d3b6bb924b035c534fe42792b9b7a7053f9"
+  },
+  "subtitle_assets": {
+    "srt": {
+      "name": "W02_Nanami_20261106_sections.srt",
+      "bytes": 104398,
+      "sha256": "fcb20e0cf14c1ab782d6e6fc366265de27105e683ac6124f30154e85bd1a421d"
+    },
+    "vtt": {
+      "name": "W02_Nanami_20261106_sections.vtt",
+      "bytes": 100541,
+      "sha256": "cd52586ac985549cc1a5f31125c94a3658ec1d3fd5eb9d397c0b174948e0e978"
+    }
+  },
+  "video_sections": [
+    {
+      "page": 1,
+      "start": 0.0,
+      "title": "木口から組織を読む"
+    },
+    {
+      "page": 19,
+      "start": 2291.3133333333335,
+      "title": "年輪の内側を読む"
+    },
+    {
+      "page": 24,
+      "start": 3171.058666666667,
+      "title": "壁の量と密度を結ぶ"
+    },
+    {
+      "page": 28,
+      "start": 4008.3706666666667,
+      "title": "組織の向きと材質"
+    }
+  ]
 }

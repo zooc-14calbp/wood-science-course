@@ -1,18 +1,18 @@
 {
-  "updated_jst": "2026-11-04 13:48",
+  "updated_jst": "2026-11-06 14:23",
   "lesson": 7,
   "title": "密度と比重",
   "pages": 37,
   "edition": "2026-11-04-viewing-colors",
-  "video_seconds": 5469.792,
-  "video_display": "91:09",
-  "video_release": "lecture07-20261104-viewing-colors",
-  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture07-20261104-viewing-colors/W07_Nanami_20261104_viewing.mp4",
-  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture07-20261101-revised/W07_Nanami_20261101.mp4",
-  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture07-20261101-revised/W07_Nanami_20261101.mp3",
+  "video_seconds": 5510.0,
+  "video_display": "91:50",
+  "video_release": "20261106-chapter-sections",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W07_Nanami_20261106_sections.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture07-20261104-viewing-colors/W07_Nanami_20261104_viewing.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W07_Nanami_20261106_sections.mp3",
   "subtitle_urls": {
-    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture07-20261101-revised/W07_Nanami_20261101.srt",
-    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture07-20261101-revised/W07_Nanami_20261101.vtt"
+    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W07_Nanami_20261106_sections.srt",
+    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W07_Nanami_20261106_sections.vtt"
   },
   "files": [
     {
@@ -27,8 +27,43 @@
     }
   ],
   "video_asset": {
-    "name": "W07_Nanami_20261104_viewing.mp4",
-    "sha256": "e6c9b509f5c4819a9d82e64b9990bcdc5cddff0ba397aeb83006eddf735a44a0",
-    "bytes": 145895644
-  }
+    "name": "W07_Nanami_20261106_sections.mp4",
+    "bytes": 71973281,
+    "sha256": "155a152c248994737afd90ef4b3b3e6429c220f8120166a98dc1b9b240f2de28"
+  },
+  "video_edition": "2026-11-06-chapter-sections",
+  "audio_asset": {
+    "name": "W07_Nanami_20261106_sections.mp3",
+    "bytes": 44079020,
+    "sha256": "d0c263e74019caa4633803f98646759fe77e503ed5f97e7addb68227ca183808"
+  },
+  "subtitle_assets": {
+    "srt": {
+      "name": "W07_Nanami_20261106_sections.srt",
+      "bytes": 68498,
+      "sha256": "8aa395767252e04239f4b3ff18e37c64141342aa8e5beb1bc9f5b2a8c263243a"
+    },
+    "vtt": {
+      "name": "W07_Nanami_20261106_sections.vtt",
+      "bytes": 66001,
+      "sha256": "af70bcbbb4908c5f716b43b2456ba78d45bdf370b55d52ed765e2c80ed5b859b"
+    }
+  },
+  "video_sections": [
+    {
+      "page": 1,
+      "start": 0.0,
+      "title": "密度と比重の基準"
+    },
+    {
+      "page": 15,
+      "start": 1513.3493333333333,
+      "title": "同じ木片でも値が変わる"
+    },
+    {
+      "page": 26,
+      "start": 3400.366666666667,
+      "title": "気乾と測定計画"
+    }
+  ]
 }

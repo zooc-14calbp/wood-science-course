@@ -1,10 +1,10 @@
 # 第13回 加工・材料選択と技術科への統合
 
-**視聴配色版（2026年11月4日）：82ページ・動画88:47。** 背景・文字・表の配色を調整しました。音声・字幕・章区切りと再生時刻は従来版と共通です。
+**節の見通し付き動画（2026年11月6日）：82ページ・動画89:40。** 各節の冒頭で話題と結論の見通しを示します。PDF・PowerPointは11月4日版を使います。
 
 ## 最初に開くもの
 
-1. [動画（MP4・88:47）](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-20261104-viewing-colors/W13_Nanami_20261104_viewing.mp4)
+1. [動画（MP4・89:40）](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W13_Nanami_20261106_sections.mp4)
 2. [スライドPDF](13_授業スライド_視聴配色_20261104.pdf) ／ [PowerPoint](13_授業スライド_視聴配色_20261104.pptx)
 3. [学習ガイド・自己確認の解説](学習ガイド.md)
 4. [動画の目次とPDFページ対応](動画の目次.md)
@@ -13,8 +13,8 @@
 
 ## 音声・字幕
 
-- [音声のみ（MP3）](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-20261101-expanded-final/W13_Nanami_20261101_expanded.mp3)
-- [字幕（SRT）](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-20261101-expanded-final/W13_Nanami_20261101_expanded.srt) ／ [字幕（VTT）](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-20261101-expanded-final/W13_Nanami_20261101_expanded.vtt)
+- [音声のみ（MP3）](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W13_Nanami_20261106_sections.mp3)
+- [字幕（SRT）](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W13_Nanami_20261106_sections.srt) ／ [字幕（VTT）](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W13_Nanami_20261106_sections.vtt)
 
 音声はNanamiです。MP4には選択式の日本語字幕と章区切りを収録しています。字幕は再生ソフトの設定から表示できます。
 
@@ -33,4 +33,4 @@
 
 [全15回の教材一覧](../README.md) ／ [受講方法](../受講方法.md)
 
-更新：2026-11-04 13:48（JST）
+更新：2026-11-06 14:23（JST）

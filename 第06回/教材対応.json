@@ -1,18 +1,18 @@
 {
-  "updated_jst": "2026-11-04 13:48",
+  "updated_jst": "2026-11-06 14:23",
   "lesson": 6,
   "title": "異方性と欠点",
   "pages": 35,
   "edition": "2026-11-04-viewing-colors",
-  "video_seconds": 5478.464,
-  "video_display": "91:18",
-  "video_release": "lecture06-20261104-viewing-colors",
-  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture06-20261104-viewing-colors/W06_Nanami_20261104_viewing.mp4",
-  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture06-20261101-revised/W06_Nanami_20261101.mp4",
-  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture06-20261101-revised/W06_Nanami_20261101.mp3",
+  "video_seconds": 5517.0,
+  "video_display": "91:57",
+  "video_release": "20261106-chapter-sections",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W06_Nanami_20261106_sections.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture06-20261104-viewing-colors/W06_Nanami_20261104_viewing.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W06_Nanami_20261106_sections.mp3",
   "subtitle_urls": {
-    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture06-20261101-revised/W06_Nanami_20261101.srt",
-    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture06-20261101-revised/W06_Nanami_20261101.vtt"
+    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W06_Nanami_20261106_sections.srt",
+    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W06_Nanami_20261106_sections.vtt"
   },
   "files": [
     {
@@ -27,8 +27,43 @@
     }
   ],
   "video_asset": {
-    "name": "W06_Nanami_20261104_viewing.mp4",
-    "sha256": "d6bf94654ba74f1087df8b9f105ac6c4ac1782542796e5ab5dd93d940a34502b",
-    "bytes": 135624906
-  }
+    "name": "W06_Nanami_20261106_sections.mp4",
+    "bytes": 69722936,
+    "sha256": "f3efc27109969523cddb2703bcdf3441dbf4a87a60ad89145e65658aa7621f62"
+  },
+  "video_edition": "2026-11-06-chapter-sections",
+  "audio_asset": {
+    "name": "W06_Nanami_20261106_sections.mp3",
+    "bytes": 44136428,
+    "sha256": "568c5b7dad1bf37efc122dc362daa5e6c3ec9c7941f0248ad61d98d9b85d36f7"
+  },
+  "subtitle_assets": {
+    "srt": {
+      "name": "W06_Nanami_20261106_sections.srt",
+      "bytes": 74211,
+      "sha256": "e4bea1d3213e8440a7aecb0230e52b338edbcf88aca14cbe2693c2047a7b78b2"
+    },
+    "vtt": {
+      "name": "W06_Nanami_20261106_sections.vtt",
+      "bytes": 71464,
+      "sha256": "403f3b300f735c819884559ccd2e0f4e05d7aca0b4e2689f9427562f0c54ddb8"
+    }
+  },
+  "video_sections": [
+    {
+      "page": 1,
+      "start": 0.0,
+      "title": "方向別の変形"
+    },
+    {
+      "page": 15,
+      "start": 2234.3706666666667,
+      "title": "断面を変えたときの曲げ"
+    },
+    {
+      "page": 23,
+      "start": 3712.925333333333,
+      "title": "節・目切れとばらつき"
+    }
+  ]
 }

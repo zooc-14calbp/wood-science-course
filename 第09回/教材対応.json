@@ -1,18 +1,18 @@
 {
-  "updated_jst": "2026-11-04 13:48",
+  "updated_jst": "2026-11-06 14:23",
   "lesson": 9,
   "title": "水分と寸法変化",
   "pages": 35,
   "edition": "2026-11-04-viewing-colors",
-  "video_seconds": 5541.300666666667,
-  "video_display": "92:21",
-  "video_release": "lecture09-20261104-viewing-colors",
-  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture09-20261104-viewing-colors/W09_Nanami_20261104_viewing.mp4",
-  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture09-20261101-revised/W09_Nanami_20261101.mp4",
-  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture09-20261101-revised/W09_Nanami_20261101.mp3",
+  "video_seconds": 5594.5,
+  "video_display": "93:14",
+  "video_release": "20261106-chapter-sections",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W09_Nanami_20261106_sections.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture09-20261104-viewing-colors/W09_Nanami_20261104_viewing.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W09_Nanami_20261106_sections.mp3",
   "subtitle_urls": {
-    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture09-20261101-revised/W09_Nanami_20261101.srt",
-    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture09-20261101-revised/W09_Nanami_20261101.vtt"
+    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W09_Nanami_20261106_sections.srt",
+    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W09_Nanami_20261106_sections.vtt"
   },
   "files": [
     {
@@ -27,8 +27,48 @@
     }
   ],
   "video_asset": {
-    "name": "W09_Nanami_20261104_viewing.mp4",
-    "sha256": "7e6cb914834c50d3a92eb2ba07713171a84b10f94716e4635fe2dd151fb0ac6a",
-    "bytes": 144033730
-  }
+    "name": "W09_Nanami_20261106_sections.mp4",
+    "bytes": 68610710,
+    "sha256": "99589d3c91e4c8ef24085af5b395456fb2f068bdf9617762e23cd7b6332fb943"
+  },
+  "video_edition": "2026-11-06-chapter-sections",
+  "audio_asset": {
+    "name": "W09_Nanami_20261106_sections.mp3",
+    "bytes": 44755052,
+    "sha256": "528fa22ef36594bfe5671b5bb2011b3bb736a30dd14579558a463bf31e871549"
+  },
+  "subtitle_assets": {
+    "srt": {
+      "name": "W09_Nanami_20261106_sections.srt",
+      "bytes": 59486,
+      "sha256": "dc53f980d4b8d169249513e2b15a2c64916693a347d9bb9bce8e6f4e37ae554e"
+    },
+    "vtt": {
+      "name": "W09_Nanami_20261106_sections.vtt",
+      "bytes": 57349,
+      "sha256": "f9b11d1d1faf4a660d2913d030098cae7d6161ea2977e07f4d9042c81b549137"
+    }
+  },
+  "video_sections": [
+    {
+      "page": 1,
+      "start": 0.0,
+      "title": "水と三方向の収縮"
+    },
+    {
+      "page": 12,
+      "start": 1245.0429583333334,
+      "title": "乾燥・拘束と変形"
+    },
+    {
+      "page": 20,
+      "start": 2414.323,
+      "title": "木製扉の動きを逃がす"
+    },
+    {
+      "page": 32,
+      "start": 4854.015708333333,
+      "title": "発展　水を含める上限"
+    }
+  ]
 }

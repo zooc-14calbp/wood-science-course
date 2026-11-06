@@ -1,18 +1,18 @@
 {
-  "updated_jst": "2026-11-04 13:48",
+  "updated_jst": "2026-11-06 14:23",
   "lesson": 5,
   "title": "強度と物性値",
   "pages": 35,
   "edition": "2026-11-04-viewing-colors",
-  "video_seconds": 5479.816,
-  "video_display": "91:19",
-  "video_release": "lecture05-20261104-viewing-colors",
-  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture05-20261104-viewing-colors/W05_Nanami_20261104_viewing.mp4",
-  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture05-20261104-student-final/W05_Nanami_20261104_final.mp4",
-  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture05-20261104-student-final/W05_Nanami_20261104_final.mp3",
+  "video_seconds": 5522.5,
+  "video_display": "92:02",
+  "video_release": "20261106-chapter-sections",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W05_Nanami_20261106_sections.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture05-20261104-viewing-colors/W05_Nanami_20261104_viewing.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W05_Nanami_20261106_sections.mp3",
   "subtitle_urls": {
-    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture05-20261104-student-final/W05_Nanami_20261104_final.srt",
-    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture05-20261104-student-final/W05_Nanami_20261104_final.vtt"
+    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W05_Nanami_20261106_sections.srt",
+    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W05_Nanami_20261106_sections.vtt"
   },
   "files": [
     {
@@ -27,8 +27,43 @@
     }
   ],
   "video_asset": {
-    "name": "W05_Nanami_20261104_viewing.mp4",
-    "sha256": "6356618a48291916941ff3b8ccce7b8e2614f15ccd43f469e139e3852cc60360",
-    "bytes": 142967626
-  }
+    "name": "W05_Nanami_20261106_sections.mp4",
+    "bytes": 74035704,
+    "sha256": "36baa76b58144346ab45a4f9c61acf7ed2550b25f7210e8b011d75d3eb6396ec"
+  },
+  "video_edition": "2026-11-06-chapter-sections",
+  "audio_asset": {
+    "name": "W05_Nanami_20261106_sections.mp3",
+    "bytes": 44179244,
+    "sha256": "64fef32a4f7cabaeca9acbda04d32c9b1f1381da0c343e22112138742a2f4319"
+  },
+  "subtitle_assets": {
+    "srt": {
+      "name": "W05_Nanami_20261106_sections.srt",
+      "bytes": 81431,
+      "sha256": "78f74de64c1bb8ddbd223a2b8f7fff2b2aa5caf206171a009b1451b0bf4ce9ea"
+    },
+    "vtt": {
+      "name": "W05_Nanami_20261106_sections.vtt",
+      "bytes": 78429,
+      "sha256": "fbfdfb56871b7af71196b4995837eb11ce6c378cdddcc734c6dadbdd58507106"
+    }
+  },
+  "video_sections": [
+    {
+      "page": 1,
+      "start": 0.0,
+      "title": "力・応力・物性値"
+    },
+    {
+      "page": 12,
+      "start": 1674.1573333333333,
+      "title": "つりあいから梁の計算へ"
+    },
+    {
+      "page": 23,
+      "start": 3435.3986666666665,
+      "title": "何をそろえて比較するか"
+    }
+  ]
 }
