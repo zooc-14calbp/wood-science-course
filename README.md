@@ -6,25 +6,25 @@
 
 ## 各回の教材
 
-題名から各回の案内を開けます。配布資料と動画には表から直接アクセスできます。
+各回を一つの章として学びます。題名から各回の案内を開き、学習ガイドで節ごとの話題と結論の見通しを読んでから、PDFや動画に進んでください。
 
 | 回 | 内容・教材 | 配布資料 | 動画 | 最終更新日時（JST） |
 | ---: | --- | --- | --- | --- |
-| 01 | [導入と外観的構造](第01回/README.md) | [PDF](第01回/01_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第01回/01_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第01回/学習ガイド.md) | [動画 89:58](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261104-viewing-colors/W01_Nanami_20261104_viewing.mp4) | 2026-11-05 15:07 |
-| 02 | [組織と年輪](第02回/README.md) | [PDF](第02回/02_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第02回/02_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第02回/学習ガイド.md) | [動画 90:38](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture02-20261104-viewing-colors/W02_Nanami_20261104_viewing.mp4) | 2026-11-05 15:07 |
-| 03 | [超微細構造](第03回/README.md) | [PDF](第03回/03_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第03回/03_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第03回/学習ガイド.md) | [動画 91:02](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture03-20261104-viewing-colors/W03_Nanami_20261104_viewing.mp4) | 2026-11-05 15:07 |
-| 04 | [主要構成成分](第04回/README.md) | [PDF](第04回/04_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第04回/04_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第04回/学習ガイド.md) | [動画 91:24](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture04-20261104-viewing-colors/W04_Nanami_20261104_viewing.mp4) | 2026-11-05 15:07 |
-| 05 | [強度と物性値](第05回/README.md) | [PDF](第05回/05_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第05回/05_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第05回/学習ガイド.md) | [動画 91:19](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture05-20261104-viewing-colors/W05_Nanami_20261104_viewing.mp4) | 2026-11-05 15:07 |
-| 06 | [異方性と欠点](第06回/README.md) | [PDF](第06回/06_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第06回/06_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第06回/学習ガイド.md) | [動画 91:18](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture06-20261104-viewing-colors/W06_Nanami_20261104_viewing.mp4) | 2026-11-05 15:07 |
-| 07 | [密度と比重](第07回/README.md) | [PDF](第07回/07_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第07回/07_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第07回/学習ガイド.md) | [動画 91:09](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture07-20261104-viewing-colors/W07_Nanami_20261104_viewing.mp4) | 2026-11-05 15:07 |
-| 08 | [木材と水](第08回/README.md) | [PDF](第08回/08_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第08回/08_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第08回/学習ガイド.md) | [動画 92:35](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture08-20261104-viewing-colors/W08_Nanami_20261104_viewing.mp4) | 2026-11-05 15:07 |
-| 09 | [水分と寸法変化](第09回/README.md) | [PDF](第09回/09_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第09回/09_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第09回/学習ガイド.md) | [動画 92:21](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture09-20261104-viewing-colors/W09_Nanami_20261104_viewing.mp4) | 2026-11-05 15:07 |
-| 10 | [生物劣化と木材防腐](第10回/README.md) | [PDF](第10回/10_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第10回/10_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第10回/学習ガイド.md) | [動画 92:04](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture10-20261104-viewing-colors/W10_Nanami_20261104_viewing.mp4) | 2026-11-05 15:07 |
-| 11 | [接着・塗装と木質材料の設計](第11回/README.md) | [PDF](第11回/11_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第11回/11_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第11回/学習ガイド.md) | [動画 88:59](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture11-20261104-viewing-colors/W11_Nanami_20261104_viewing.mp4) | 2026-11-05 15:26 |
-| 12 | [集成材・CLTと木材資源の利用](第12回/README.md) | [PDF](第12回/12_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第12回/12_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第12回/学習ガイド.md) | [動画 88:02](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture12-20261104-viewing-colors/W12_Nanami_20261104_viewing.mp4) | 2026-11-05 15:07 |
-| 13 | [加工・材料選択と技術科への統合](第13回/README.md) | [PDF](第13回/13_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第13回/13_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第13回/学習ガイド.md) | [動画 88:47](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-20261104-viewing-colors/W13_Nanami_20261104_viewing.mp4) | 2026-11-05 15:07 |
-| 14 | [樹木・木材の進化史と人類史](第14回/README.md) | [PDF](第14回/14_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第14回/14_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第14回/学習ガイド.md) | [動画 93:09](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture14-20261104-viewing-colors/W14_Nanami_20261104_viewing.mp4) | 2026-11-05 15:07 |
-| 15 | [日本の木の文化：森林管理と木造建築](第15回/README.md) | [PDF](第15回/15_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第15回/15_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第15回/学習ガイド.md) | [動画 90:05](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture15-20261104-viewing-colors/W15_Nanami_20261104_viewing.mp4) | 2026-11-05 15:26 |
+| 01 | [導入と外観的構造](第01回/README.md) | [PDF](第01回/01_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第01回/01_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第01回/学習ガイド.md) | [動画 89:58](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture01-20261104-viewing-colors/W01_Nanami_20261104_viewing.mp4) | 2026-11-06 14:06 |
+| 02 | [組織と年輪](第02回/README.md) | [PDF](第02回/02_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第02回/02_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第02回/学習ガイド.md) | [動画 90:38](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture02-20261104-viewing-colors/W02_Nanami_20261104_viewing.mp4) | 2026-11-06 14:06 |
+| 03 | [超微細構造](第03回/README.md) | [PDF](第03回/03_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第03回/03_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第03回/学習ガイド.md) | [動画 91:02](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture03-20261104-viewing-colors/W03_Nanami_20261104_viewing.mp4) | 2026-11-06 14:06 |
+| 04 | [主要構成成分](第04回/README.md) | [PDF](第04回/04_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第04回/04_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第04回/学習ガイド.md) | [動画 91:24](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture04-20261104-viewing-colors/W04_Nanami_20261104_viewing.mp4) | 2026-11-06 14:06 |
+| 05 | [強度と物性値](第05回/README.md) | [PDF](第05回/05_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第05回/05_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第05回/学習ガイド.md) | [動画 91:19](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture05-20261104-viewing-colors/W05_Nanami_20261104_viewing.mp4) | 2026-11-06 14:06 |
+| 06 | [異方性と欠点](第06回/README.md) | [PDF](第06回/06_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第06回/06_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第06回/学習ガイド.md) | [動画 91:18](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture06-20261104-viewing-colors/W06_Nanami_20261104_viewing.mp4) | 2026-11-06 14:06 |
+| 07 | [密度と比重](第07回/README.md) | [PDF](第07回/07_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第07回/07_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第07回/学習ガイド.md) | [動画 91:09](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture07-20261104-viewing-colors/W07_Nanami_20261104_viewing.mp4) | 2026-11-06 14:06 |
+| 08 | [木材と水](第08回/README.md) | [PDF](第08回/08_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第08回/08_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第08回/学習ガイド.md) | [動画 92:35](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture08-20261104-viewing-colors/W08_Nanami_20261104_viewing.mp4) | 2026-11-06 14:06 |
+| 09 | [水分と寸法変化](第09回/README.md) | [PDF](第09回/09_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第09回/09_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第09回/学習ガイド.md) | [動画 92:21](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture09-20261104-viewing-colors/W09_Nanami_20261104_viewing.mp4) | 2026-11-06 14:06 |
+| 10 | [生物劣化と木材防腐](第10回/README.md) | [PDF](第10回/10_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第10回/10_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第10回/学習ガイド.md) | [動画 92:04](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture10-20261104-viewing-colors/W10_Nanami_20261104_viewing.mp4) | 2026-11-06 14:06 |
+| 11 | [接着・塗装と木質材料の設計](第11回/README.md) | [PDF](第11回/11_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第11回/11_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第11回/学習ガイド.md) | [動画 88:59](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture11-20261104-viewing-colors/W11_Nanami_20261104_viewing.mp4) | 2026-11-06 14:06 |
+| 12 | [集成材・CLTと木材資源の利用](第12回/README.md) | [PDF](第12回/12_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第12回/12_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第12回/学習ガイド.md) | [動画 88:02](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture12-20261104-viewing-colors/W12_Nanami_20261104_viewing.mp4) | 2026-11-06 14:06 |
+| 13 | [加工・材料選択と技術科への統合](第13回/README.md) | [PDF](第13回/13_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第13回/13_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第13回/学習ガイド.md) | [動画 88:47](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture13-20261104-viewing-colors/W13_Nanami_20261104_viewing.mp4) | 2026-11-06 14:06 |
+| 14 | [樹木・木材の進化史と人類史](第14回/README.md) | [PDF](第14回/14_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第14回/14_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第14回/学習ガイド.md) | [動画 93:09](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture14-20261104-viewing-colors/W14_Nanami_20261104_viewing.mp4) | 2026-11-06 14:06 |
+| 15 | [日本の木の文化：森林管理と木造建築](第15回/README.md) | [PDF](第15回/15_授業スライド_視聴配色_20261104.pdf)・[PowerPoint](第15回/15_授業スライド_視聴配色_20261104.pptx)・[学習ガイド](第15回/学習ガイド.md) | [動画 90:05](https://github.com/zooc-14calbp/wood-science-course/releases/download/lecture15-20261104-viewing-colors/W15_Nanami_20261104_viewing.mp4) | 2026-11-06 14:06 |
 
 最終更新日時は各回の教材・配布資料・案内を更新した時刻です。
 
@@ -66,6 +66,8 @@ Teamsで指定された回を確認し、学習ガイドから始めてくださ
 PDF版は閲覧用です。Wordフォームに入力し、PDFとして保存して提出します。動画中の自己確認と正式課題は区別してください。
 
 ## 改訂情報
+
+- 2026年11月6日　全15回の学習ガイドを章・節構成に整理。各節に話題と結論の見通し、PDFページ・動画時刻を示し、要所に図を追加。
 
 今年度の学生使用版の基準日は2026年11月4日です。
 
