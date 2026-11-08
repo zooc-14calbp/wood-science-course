@@ -5,7 +5,7 @@
 ## 最初に開くもの
 
 1. [動画（MP4・89:40）](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W13_Nanami_20261106_sections.mp4)
-2. [スライドPDF](13_授業スライド_章節版_20261106.pdf) ／ [PowerPoint](13_授業スライド_章節版_20261106.pptx)
+2. [スライドPDF](13_授業スライド_出典リンク版_20261109.pdf) ／ [PowerPoint](13_授業スライド_章節版_20261106.pptx)
 3. [学習ガイド・自己確認の解説](学習ガイド.md)
 4. [動画の目次とPDFページ対応](動画の目次.md)
 
@@ -33,4 +33,4 @@
 
 [全15回の教材一覧](../README.md) ／ [受講方法](../受講方法.md)
 
-更新：2026-11-06 14:44（JST）
+更新：2026-11-09 07:51（JST）

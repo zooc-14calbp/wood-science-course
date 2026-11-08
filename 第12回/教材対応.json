@@ -1,5 +1,5 @@
 {
-  "updated_jst": "2026-11-06 14:44",
+  "updated_jst": "2026-11-09 07:51",
   "lesson": 12,
   "title": "集成材・CLTと木材資源の利用",
   "pages": 99,
@@ -21,9 +21,9 @@
       "sha256": "045f27628f860cf9e8121a5b448fc13192fde8f3848f42c4514048c2b45c7096"
     },
     {
-      "name": "12_授業スライド_章節版_20261106.pdf",
-      "bytes": 3406795,
-      "sha256": "8b86af900a043cd5990e27d8dd0e5f76eef0f42c8f71c83bee60a45d0d66acc2"
+      "name": "12_授業スライド_出典リンク版_20261109.pdf",
+      "bytes": 3410861,
+      "sha256": "d2413abf3c42858e85359eb961c409a646ee53b526c4877839d14537f7ab194e"
     }
   ],
   "video_asset": {
@@ -102,5 +102,6 @@
       "physical_body": 83,
       "title": "バイオマスと用途の選び方"
     }
-  ]
+  ],
+  "pdf_edition": "2026-11-09-reference-links"
 }

@@ -1,5 +1,5 @@
 {
-  "updated_jst": "2026-11-06 14:44",
+  "updated_jst": "2026-11-09 07:51",
   "lesson": 13,
   "title": "加工・材料選択と技術科への統合",
   "pages": 82,
@@ -21,9 +21,9 @@
       "sha256": "e27405fa1820ed3b2effb41f249109c659f79bf7bf8cc200f2db18eb82b6598a"
     },
     {
-      "name": "13_授業スライド_章節版_20261106.pdf",
-      "bytes": 2391915,
-      "sha256": "1e05b1ddcac581145754123ba0e7f7889aba7ffb2e713f46e1e50cf23f540cb1"
+      "name": "13_授業スライド_出典リンク版_20261109.pdf",
+      "bytes": 2395952,
+      "sha256": "8c0861adc6dd9c09c3a47bbc5b737855ae79176b1e8765ebdde17c8ac92f71c2"
     }
   ],
   "video_asset": {
@@ -102,5 +102,6 @@
       "physical_body": 63,
       "title": "CAD・ICTを活用する条件"
     }
-  ]
+  ],
+  "pdf_edition": "2026-11-09-reference-links"
 }

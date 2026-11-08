@@ -1,52 +1,52 @@
 {
-  "updated_jst": "2026-11-06 15:04",
+  "updated_jst": "2026-11-09 07:51",
   "lesson": 15,
   "title": "日本の木の文化：森林管理と木造建築",
   "pages": 102,
   "edition": "2026-11-04-viewing-colors",
   "video_seconds": 5458.5,
   "video_display": "90:58",
-  "video_release": "20261106-content-review",
-  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-content-review/W15_Nanami_20261106_reviewed.mp4",
-  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W15_Nanami_20261106_sections.mp4",
-  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W15_Nanami_20261106_sections.mp3",
+  "video_release": "20261109-kiso-sources",
+  "video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261109-kiso-sources/W15_Nanami_20261109_kiso.mp4",
+  "source_video_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-content-review/W15_Nanami_20261106_reviewed.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261109-kiso-sources/W15_Nanami_20261109_kiso.mp3",
   "subtitle_urls": {
-    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W15_Nanami_20261106_sections.srt",
-    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W15_Nanami_20261106_sections.vtt"
+    "srt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261109-kiso-sources/W15_Nanami_20261109_kiso.srt",
+    "vtt": "https://github.com/zooc-14calbp/wood-science-course/releases/download/20261109-kiso-sources/W15_Nanami_20261109_kiso.vtt"
   },
   "files": [
     {
-      "name": "15_授業スライド_本文校正版_20261106.pdf",
-      "sha256": "eccefa464125014ef5beede9389b4c6321af4fe6370c898b56c5732e80e235d8",
-      "bytes": 3964651
+      "name": "15_授業スライド_運材図改訂_20261109.pdf",
+      "bytes": 3518100,
+      "sha256": "d5c0ef80cfd91565578cc6205c84495ebddc3ff1c6e37760fb17b162c8c410df"
     },
     {
-      "name": "15_授業スライド_本文校正版_20261106.pptx",
-      "sha256": "63d887652a91417061a886049cc72cbfcef0a8ff946895247f156419cabff741",
-      "bytes": 20579196
+      "name": "15_授業スライド_運材図改訂_20261109.pptx",
+      "bytes": 9067650,
+      "sha256": "5d8622e6173538c2740450d0a67b836091ed0adc6608b301fce7559926b53757"
     }
   ],
   "video_asset": {
-    "name": "W15_Nanami_20261106_reviewed.mp4",
-    "bytes": 94628144,
-    "sha256": "65955fd076dc46bad11eb02dec4888e6f5edfd22924ced078e042b690a4a5e43"
+    "name": "W15_Nanami_20261109_kiso.mp4",
+    "bytes": 90287247,
+    "sha256": "e84ed05b5f42d315a22cf8562c86104592151c40cdf37f568e85a05231316c29"
   },
-  "video_edition": "2026-11-06-content-reviewed",
+  "video_edition": "2026-11-09-kiso-sources",
   "audio_asset": {
-    "name": "W15_Nanami_20261106_sections.mp3",
-    "bytes": 43668524,
-    "sha256": "7cddbf7e2718524adc4c9532af800edbe07ce11b6c4611d61b12cdfc09d172ec"
+    "name": "W15_Nanami_20261109_kiso.mp3",
+    "bytes": 43668908,
+    "sha256": "d33ce8c7d664cc144bbb1c76c4f2bd305cb7ec5d7c9c6bcd6d8da0d66900b01e"
   },
   "subtitle_assets": {
     "srt": {
-      "name": "W15_Nanami_20261106_sections.srt",
-      "bytes": 104001,
-      "sha256": "54bcc31ed71a35407c53d9932efa9e60dfae52707bc32ebfa6af1e905c9e27bb"
+      "name": "W15_Nanami_20261109_kiso.srt",
+      "bytes": 100860,
+      "sha256": "196f0e2a9a4a989f205415a39b21d1934fda563a1634b3d6b13a96b26c651d18"
     },
     "vtt": {
-      "name": "W15_Nanami_20261106_sections.vtt",
-      "bytes": 100329,
-      "sha256": "b2f37c12b4c2d514f5bf424c39cf12486c085f8005d5b2999121b75af4acfbe8"
+      "name": "W15_Nanami_20261109_kiso.vtt",
+      "bytes": 97972,
+      "sha256": "3a7fba54424faa806bf48f6983db74dec6f136e8dc57e759d9c140531786920e"
     }
   },
   "video_sections": [
@@ -71,7 +71,7 @@
       "title": "森林と建物の炭素を読む"
     }
   ],
-  "slide_edition": "2026-11-06-content-reviewed",
+  "slide_edition": "2026-11-09-kiso-sources",
   "slide_total": 106,
   "section_previews": [
     {

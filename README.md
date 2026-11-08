@@ -21,10 +21,10 @@
 | 09 | [水分と寸法変化](第09回/README.md) | [PDF](第09回/09_授業スライド_章節版_20261106.pdf)・[PowerPoint](第09回/09_授業スライド_章節版_20261106.pptx)・[学習ガイド](第09回/学習ガイド.md) | [動画 93:14](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W09_Nanami_20261106_sections.mp4) | 2026-11-06 14:44 |
 | 10 | [生物劣化と木材防腐](第10回/README.md) | [PDF](第10回/10_授業スライド_章節版_20261106.pdf)・[PowerPoint](第10回/10_授業スライド_章節版_20261106.pptx)・[学習ガイド](第10回/学習ガイド.md) | [動画 92:54](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W10_Nanami_20261106_sections.mp4) | 2026-11-06 14:44 |
 | 11 | [接着・塗装と木質材料の設計](第11回/README.md) | [PDF](第11回/11_授業スライド_本文校正版_20261106.pdf)・[PowerPoint](第11回/11_授業スライド_本文校正版_20261106.pptx)・[学習ガイド](第11回/学習ガイド.md) | [動画 89:48](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-content-review/W11_Nanami_20261106_reviewed.mp4) | 2026-11-06 15:04 |
-| 12 | [集成材・CLTと木材資源の利用](第12回/README.md) | [PDF](第12回/12_授業スライド_章節版_20261106.pdf)・[PowerPoint](第12回/12_授業スライド_章節版_20261106.pptx)・[学習ガイド](第12回/学習ガイド.md) | [動画 88:56](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W12_Nanami_20261106_sections.mp4) | 2026-11-06 14:44 |
-| 13 | [加工・材料選択と技術科への統合](第13回/README.md) | [PDF](第13回/13_授業スライド_章節版_20261106.pdf)・[PowerPoint](第13回/13_授業スライド_章節版_20261106.pptx)・[学習ガイド](第13回/学習ガイド.md) | [動画 89:40](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W13_Nanami_20261106_sections.mp4) | 2026-11-06 14:44 |
+| 12 | [集成材・CLTと木材資源の利用](第12回/README.md) | [PDF](第12回/12_授業スライド_出典リンク版_20261109.pdf)・[PowerPoint](第12回/12_授業スライド_章節版_20261106.pptx)・[学習ガイド](第12回/学習ガイド.md) | [動画 88:56](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W12_Nanami_20261106_sections.mp4) | 2026-11-09 07:51 |
+| 13 | [加工・材料選択と技術科への統合](第13回/README.md) | [PDF](第13回/13_授業スライド_出典リンク版_20261109.pdf)・[PowerPoint](第13回/13_授業スライド_章節版_20261106.pptx)・[学習ガイド](第13回/学習ガイド.md) | [動画 89:40](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W13_Nanami_20261106_sections.mp4) | 2026-11-09 07:51 |
 | 14 | [樹木・木材の進化史と人類史](第14回/README.md) | [PDF](第14回/14_授業スライド_本文校正版_20261106.pdf)・[PowerPoint](第14回/14_授業スライド_本文校正版_20261106.pptx)・[学習ガイド](第14回/学習ガイド.md) | [動画 93:58](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-content-review/W14_Nanami_20261106_reviewed.mp4) | 2026-11-06 15:04 |
-| 15 | [日本の木の文化：森林管理と木造建築](第15回/README.md) | [PDF](第15回/15_授業スライド_本文校正版_20261106.pdf)・[PowerPoint](第15回/15_授業スライド_本文校正版_20261106.pptx)・[学習ガイド](第15回/学習ガイド.md) | [動画 90:58](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-content-review/W15_Nanami_20261106_reviewed.mp4) | 2026-11-06 15:04 |
+| 15 | [日本の木の文化：森林管理と木造建築](第15回/README.md) | [PDF](第15回/15_授業スライド_運材図改訂_20261109.pdf)・[PowerPoint](第15回/15_授業スライド_運材図改訂_20261109.pptx)・[学習ガイド](第15回/学習ガイド.md) | [動画 90:58](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261109-kiso-sources/W15_Nanami_20261109_kiso.mp4) | 2026-11-09 07:51 |
 
 PDF・PowerPointにも各節の導入を収録しています。PDFのしおりから節を開けます。学習ガイドと動画の目次に記す本編 p. は、スライド本文の番号です。
 
@@ -68,6 +68,8 @@ Teamsで指定された回を確認し、学習ガイドから始めてくださ
 PDF版は閲覧用です。Wordフォームに入力し、PDFとして保存して提出します。動画中の自己確認と正式課題は区別してください。
 
 ## 改訂情報
+
+- 2026年11月9日　第12・13章のPDFと学習ガイドに原資料へのリンクを整備。第15章の運材図3枚を授業用の工程図と公式閲覧リンクに差し替え、鴨桴の説明・音声・字幕を訂正。
 
 - 2026年11月6日　第1・11・14・15章の本文・動画を校正。木取り図、接着強さの用語、年輪幅グラフ、制作時の表記を見直しました。
 

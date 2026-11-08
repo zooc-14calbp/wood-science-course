@@ -1,13 +1,13 @@
 # 第15回 日本の木の文化：森林管理と木造建築
 
-**本文校正版（2026年11月6日）：本編102ページ＋節の導入4枚・動画90:58。** PDF・PowerPoint・動画の各節の冒頭で、話題と結論の見通しを示します。本文の参照番号 p. は11月4日版と共通です。
+**運材図改訂版（2026年11月9日）：本編102ページ＋節の導入4枚・動画90:58。** PDF・PowerPoint・動画の各節の冒頭で、話題と結論の見通しを示します。本文の参照番号 p. は11月4日版と共通です。
 
-吉野スギの年輪幅グラフの軸・目盛と試料数を読みやすくし、制作時の「新第15回」を「第15回」に統一しました。
+本編p.37～39では、授業用の工程図と中部森林管理局の原図閲覧リンクを使います。p.39では鴨桴の用途と浮力の仮想例を分けて説明します。
 
 ## 最初に開くもの
 
-1. [動画（MP4・90:58）](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-content-review/W15_Nanami_20261106_reviewed.mp4)
-2. [スライドPDF](15_授業スライド_本文校正版_20261106.pdf) ／ [PowerPoint](15_授業スライド_本文校正版_20261106.pptx)
+1. [動画（MP4・90:58）](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261109-kiso-sources/W15_Nanami_20261109_kiso.mp4)
+2. [スライドPDF](15_授業スライド_運材図改訂_20261109.pdf) ／ [PowerPoint](15_授業スライド_運材図改訂_20261109.pptx)
 3. [学習ガイド・自己確認の解説](学習ガイド.md)
 4. [動画の目次とPDFページ対応](動画の目次.md)
 
@@ -15,8 +15,8 @@
 
 ## 音声・字幕
 
-- [音声のみ（MP3）](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W15_Nanami_20261106_sections.mp3)
-- [字幕（SRT）](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W15_Nanami_20261106_sections.srt) ／ [字幕（VTT）](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W15_Nanami_20261106_sections.vtt)
+- [音声のみ（MP3）](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261109-kiso-sources/W15_Nanami_20261109_kiso.mp3)
+- [字幕（SRT）](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261109-kiso-sources/W15_Nanami_20261109_kiso.srt) ／ [字幕（VTT）](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261109-kiso-sources/W15_Nanami_20261109_kiso.vtt)
 
 音声はNanamiです。MP4には選択式の日本語字幕と章区切りを収録しています。字幕は再生ソフトの設定から表示できます。
 
@@ -30,4 +30,4 @@
 
 [全15回の教材一覧](../README.md) ／ [受講方法](../受講方法.md)
 
-更新：2026-11-06 15:04（JST）
+更新：2026-11-09 07:51（JST）
