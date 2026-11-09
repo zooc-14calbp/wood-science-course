@@ -4,6 +4,8 @@
 
 スライドと動画画面に残っていた制作時の「新第14回」を「第14回」に統一しました。
 
+[学習ガイドでこの回の目標・自己確認・意見交換の問いを確認する](学習ガイド.md)。質問・意見交換・教員からの補足はTeamsの該当回の案内から確認してください。
+
 ## 最初に開くもの
 
 1. [動画（MP4・93:58）](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-content-review/W14_Nanami_20261106_reviewed.mp4)
