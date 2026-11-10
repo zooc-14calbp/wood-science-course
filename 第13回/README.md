@@ -4,6 +4,8 @@
 
 [学習ガイドでこの回の目標・自己確認・意見交換の問いを確認する](学習ガイド.md)。質問・意見交換・教員からの補足はTeamsの該当回の案内から確認してください。
 
+学習ガイドに、順目・逆目の模式図と試し削りの確認問題を追加しました。
+
 ## 最初に開くもの
 
 1. [動画（MP4・89:40）](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W13_Nanami_20261106_sections.mp4)
