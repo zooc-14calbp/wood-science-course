@@ -6,6 +6,8 @@
 
 学習ガイドに「乾燥後の板を点検する：表面割れ・内部割れ・反り」の図と確認問題を追加しました。
 
+学習ガイドに「乾燥応力とドライングセット」の図と確認問題を追加しました。
+
 ## 最初に開くもの
 
 1. [動画（MP4・93:14）](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W09_Nanami_20261106_sections.mp4)
