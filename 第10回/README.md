@@ -4,6 +4,8 @@
 
 [学習ガイドでこの回の目標・自己確認・意見交換の問いを確認する](学習ガイド.md)。質問・意見交換・教員からの補足はTeamsの該当回の案内から確認してください。
 
+学習ガイドに、屋外の木材の風化・腐朽を考える図と点検事例を加えました。
+
 ## 最初に開くもの
 
 1. [動画（MP4・92:54）](https://github.com/zooc-14calbp/wood-science-course/releases/download/20261106-chapter-sections/W10_Nanami_20261106_sections.mp4)
